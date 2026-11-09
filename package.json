@@ -1,0 +1,9 @@
+{
+  "name": "dassenchu-site",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.22.1" },
+  "packageManager": "pnpm@11.25.0",
+  "scripts": { "dev": "astro dev", "build": "astro build", "preview": "astro preview" },
+  "dependencies": { "astro": "7.4.7", "@astrojs/sitemap": "3.7.4" }
+}

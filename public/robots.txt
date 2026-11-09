@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dassenchu.com/sitemap-index.xml

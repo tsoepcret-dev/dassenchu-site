@@ -1,0 +1,19 @@
+---
+import { episodeLabel, type Episode } from '../data/site';
+const { items } = Astro.props as { items: Episode[] };
+---
+<ul class="episode-list">
+  {items.map((episode) => (
+    <li class="episode" id={episodeLabel(episode.number).toLowerCase()}>
+      <span class="tag">{episodeLabel(episode.number)}</span>
+      <div>
+        <h3>{episode.title}</h3>
+        <p>{episode.summary}</p>
+        <div class="actions">
+          <a href={episode.spotify} aria-label={episodeLabel(episode.number) + 'をSpotifyで聴く'}>Spotifyで聴く <span aria-hidden="true">↗</span></a>
+          {episode.youtube && <a href={episode.youtube} aria-label={episodeLabel(episode.number) + 'をYouTubeで見る'}>YouTubeで見る <span aria-hidden="true">↗</span></a>}
+        </div>
+      </div>
+    </li>
+  ))}
+</ul>

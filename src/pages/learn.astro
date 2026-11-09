@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+const phrases = [
+  { en: 'Look at this!', ja: 'これ見て！', tip: '写真や画面など、相手に今すぐ注目してほしいものがあるとき。', prompt: 'スマホの写真を友だちに見せるとき、何と言う？' },
+  { en: 'Did you see that?', ja: '今の見た？', tip: '一瞬の出来事を、相手も目にしたかどうか聞くとき。', prompt: '流れ星が一瞬だけ見えた。隣にいる人にどう聞く？' },
+  { en: 'Let’s watch a movie.', ja: '映画を観よう。', tip: '映画や試合など、動きのあるものをしばらく観るときは watch が自然。', prompt: '友だちを誘って「映画を観よう」と言うなら？' },
+];
+---
+<Base title="無料教材" description="EP018に合わせて look・see・watch の違いを例文と復習クイズで学べる無料教材です。">
+  <header class="page-head"><p class="eyebrow">02 / PRACTICE NOTES</p><h1>無料教材</h1><p class="lead">聴いたフレーズを、自分のひとことに。</p></header>
+  <section aria-labelledby="lesson">
+    <p class="eyebrow">EP018 / MINI LESSON</p><h2 id="lesson">「見る」を表す３つの動詞</h2>
+    <div class="grid lesson-grid">
+      {phrases.map(({ en, ja, tip }) => <article class="panel">
+        <h3 lang="en">{en}</h3><p>{ja}</p><p>{tip}</p>
+      </article>)}
+    </div>
+    <p class="section-actions"><a class="button outline" href="/podcast/#ep018">EP018を聴く</a></p>
+  </section>
+  <section class="block section-actions" aria-labelledby="quiz">
+    <p class="eyebrow">CHECK YOURSELF</p><h2 id="quiz">復習クイズ</h2>
+    <p>英語を声に出してから、答えを開いてみよう。</p>
+    <ol>
+      {phrases.map(({ en, prompt }) => <li><p>{prompt}</p><details><summary>答えを見る</summary><p lang="en">{en}</p></details></li>)}
+    </ol>
+  </section>
+</Base>

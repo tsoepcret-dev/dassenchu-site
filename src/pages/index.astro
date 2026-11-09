@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import EpisodeList from '../components/EpisodeList.astro';
+import { episodes, spotify, youtube } from '../data/site';
+---
+<Base home title="トップ" description="閉店後の大阪の小さなバーで、マークとミカが脱線しながら英会話。番組と無料の復習教材を楽しめる公式サイトです。">
+  <section class="hero">
+    <div>
+      <p class="eyebrow"><span class="light"></span> OSAKA AFTER HOURS / ENGLISH PODCAST</p>
+      <h1>英会話、<br /><span>脱線中。</span></h1>
+      <p class="lead">大阪の深夜バーから、ひとこと英会話。</p>
+      <p>閉店後の小さなバーで、マークとミカが今日も脱線中。英語の会話と日本語の解説で、日常で使えるフレーズを声に出して練習しよう。</p>
+      <div class="actions"><a class="button" href="/podcast/">エピソードを聴く <span aria-hidden="true">↗</span></a><a class="button outline" href="/learn/">無料教材で復習</a></div>
+    </div>
+    <figure class="sleeve">
+      <img src="/images/cover.jpg" width="900" height="900" alt="レトロなセル画風に描かれたマークとミカの番組ジャケット" fetchpriority="high" />
+      <figcaption><span>MARK &amp; MIKA</span><span>SIDE A / AFTER HOURS</span></figcaption>
+    </figure>
+  </section>
+  <section class="block" aria-labelledby="episodes">
+    <p class="eyebrow">01 / ON AIR</p>
+    <h2 id="episodes">新着エピソード</h2>
+    <EpisodeList items={episodes.slice(0, 3)} />
+    <div class="actions section-actions"><a class="button outline" href="/podcast/">エピソード一覧へ</a><a href={spotify}>Spotifyの番組ページ ↗</a><a href={youtube}>YouTubeの再生リスト ↗</a></div>
+  </section>
+  <section class="block" aria-labelledby="hosts">
+    <p class="eyebrow">02 / AT THE COUNTER</p>
+    <h2 id="hosts">マークとミカ</h2>
+    <div class="grid">
+      <article class="panel"><p class="eyebrow">MARK</p><h3>マーク</h3><p>ミカとの会話を通して、英語の言い回しやニュアンスを紹介します。</p></article>
+      <article class="panel"><p class="eyebrow">MIKA</p><h3>ミカ</h3><p>日常の出来事や素朴な疑問から話を広げ、英語のひとことに挑戦します。</p></article>
+    </div>
+    <p class="muted">マークとミカは架空の人物です。番組ではAI音声を使用しています。</p>
+  </section>
+</Base>

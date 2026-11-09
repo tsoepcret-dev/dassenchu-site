@@ -1,0 +1,9 @@
+node_modules/
+.pnpm-store/
+.astro/
+dist/
+.env
+.env.*
+.dev.vars*
+*.pem
+*.key
