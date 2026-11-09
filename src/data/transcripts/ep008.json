@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、今日な、買い物してたら、ベンチの下を何回ものぞいてる旅行者がおってん。何か探してるみたいで。",
+    "en": "Mark, I was out shopping today and saw a tourist looking under a bench over and over. It looked like they’d lost something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あらら。何かなくしたんかな？",
+    "en": "Oh, no. Did they lose something?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "買い物袋がひとつ見当たらへんって。声かけて聞いたら、何軒か回って、ここで休憩してから気づいたらしいねん。",
+    "en": "They said one of their shopping bags was missing. When I asked, they said they’d been to a few shops and only noticed after taking a break there."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、ベンチに置いたのか、どこかのお店に忘れたのか分からなかったんだね。",
+    "en": "So they weren't sure if they'd left it on the bench or in one of the shops."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。最後に持ってた場所を一緒に思い出してたんやけど、どのお店も似た袋やったみたいで。",
+    "en": "yes. I was remembering the last place I had it, and it seemed like every store had a similar bag."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それがさらに難しくなります。なくなったカバンの中には何が入っていたのでしょうか？",
+    "en": "That makes it harder. What was in the missing bag?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "家族へのお土産やって。ちょっと困った顔してはった。",
+    "en": "Make a souvenir for your family. He looked a little troubled."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、それはあなたが本当に持って帰りたいバッグです。",
+    "en": "Oh, that's the bag you really want to bring home."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せやろ。近くに案内所があったから、一緒に聞きに行ってん。",
+    "en": "Let's do it. There was an information center nearby, so I went to ask about it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "それで、袋は見つかったん？",
+    "en": "So, did you find the bag?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは、あとで話すわ。今日は、困ってる人への声のかけ方と、そのあとのやり取りを練習しよか。",
+    "en": "I'll talk about that later. Today, let's practice how to talk to someone who is in trouble and how to communicate with them afterwards."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「助けが必要ですか?」から始めましょう。",
+    "en": "Let's start with, “Do you need help?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「何かお手伝いしましょうか？」。今日も、相手が顔を上げたときに、こう声かけてん。",
+    "en": "\"Can I help you with something?\" Even today, when the other person looks up, I say this to them."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何かお手伝いしましょうか？",
+    "en": "Do you need help?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ドゥ・ユー・ニード・ヘルプ。ニードは「必要とする」、ヘルプは「助け」です。",
+    "en": "Do you need help? Need means \"to require\" and help means \"help.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして、質問する前に何が問題なのかを正確に知る必要はありません。",
+    "en": "And you don't need to know exactly what's wrong before you ask."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私も、同じところを何回も見てはるな、と思って声かけたよ。",
+    "en": "I thought to myself, ``I see the same place over and over again,'' so I called out to him."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。質問してから、少し時間を置いてから答えてください。",
+    "en": "Right. Ask, then give them a moment to answer."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "急に声かけられたら、相手もびっくりするしね。まずは返事を待とう。",
+    "en": "If you suddenly call out to me, the other person will be surprised. Let's wait for a reply first."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "穏やかでフレンドリーな声が助けになります。 「助けが必要ですか？」",
+    "en": "A calm, friendly voice helps. “Do you need help?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、穏やかに声をかけるつもりで。マークに続けて。",
+    "en": "Hona, I'm trying to call out to you calmly. Follow Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何かお手伝いしましょうか？",
+    "en": "Do you need help?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。何か困ってそうな人に。「何かお手伝いしましょうか？」。",
+    "en": "One more time. To someone who seems to be in trouble. \"Can I help you with something?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何かお手伝いしましょうか？",
+    "en": "Do you need help?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「大丈夫です、ありがとう」って返ってくることもあるよね。そのときは、軽く挨拶して離れたらええ。",
+    "en": "Sometimes they say, \"It's okay, thank you.\" In that case, just say a quick hello and leave."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。すでに誰かが助けてくれているかもしれません。",
+    "en": "Exactly. They might already have someone helping them."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "友達を待ってるだけかもしれんしね。何回も聞かんでええと思う。",
+    "en": "Maybe he's just waiting for a friend. I've heard it many times and think it's okay."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして、時には人々はただ静かな時間を過ごしたいだけなのです。",
+    "en": "And sometimes people just want a quiet minute."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それもあるな。今日の人は「手伝ってほしい」って返事やったから、何があったか聞いてん。",
+    "en": "That's also true. Today's person replied, \"I want your help,\" so I asked him what happened."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それが2番目のフレーズです。 \"どうしたの？\"",
+    "en": "That's our second phrase. “What happened?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「何があったんですか？」。ワット・ハプンド。相手に事情を話してもらうときのひと言です。",
+    "en": "\"What happened?\" Wat Happened. This is a word used when you ask someone to tell you something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何があったんですか？",
+    "en": "What happened?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "話を聞いて、買い物袋やって分かった。見てるだけでは分からへんね。",
+    "en": "After listening to the story, I found out about the shopping bags. You can't tell just by looking at it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。それは携帯電話、財布、または購入したものかもしれません。",
+    "en": "Right. It could be a phone, a wallet, or something they bought."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その人は、お店を出たときに持ってたか、そこが曖昧やってん。",
+    "en": "Did that person have it with him when he left the store? That's ambiguous."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "不安になると思い出すのが難しくなることがあります。",
+    "en": "It can be hard to remember when you're worried."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "焦ると、さっき見たところも、また探してまうよね。",
+    "en": "If you get impatient, you'll start looking again for the places you just looked at."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "だから、声は優しくしてください。 \"どうしたの？\"彼らに説明してもらいましょう。",
+    "en": "So keep your voice gentle. “What happened?” Let them explain."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "急かさずに聞きたいね。聞き取れへんかったら、もう一回お願いしても大丈夫。",
+    "en": "I want to hear it without rushing. If you can't hear it, it's okay to ask again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。 「もう一度言っていただけますか？」と言うことができます。",
+    "en": "Yes. You can say, “Could you say that again?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「もう一度言ってもらえますか？」やね。ほな、事情を聞くひと言を、マークに続けて。",
+    "en": "\"Can you say that again?\" I asked. Hona, I asked Mark a few words to find out what was going on."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何があったんですか？",
+    "en": "What happened?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。手伝ってほしいと言われたけど、まだ何があったか分からへん。そんなときに。",
+    "en": "One more time. I was asked to help, but I still don't know what happened. At times like that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何があったんですか？",
+    "en": "What happened?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そういえば、マークも昨日、ずっと何か探してたな。カウンターの引き出し、全部開けてたやん。",
+    "en": "Come to think of it, Mark was also looking for something all yesterday. All the drawers on the counter were open."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の鍵。すべての引き出しをチェックしました。 2回。",
+    "en": "My keys. I checked every drawer. Twice."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "２回ずつ？あのあと見つかったん？",
+    "en": "Twice each? Did you find it after that?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。もう一方の手には。ずっと抱きしめていたんです。",
+    "en": "Yes. In my other hand. I'd been holding them the whole time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "持ってたんかい。探してる間、音せえへんかった？",
+    "en": "Did you have it? Was there no sound while you were searching?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "知っている。それで、あなたはその訪問者をインフォメーションデスクに連れて行きましたか？",
+    "en": "I know. So, you took the visitor to the information desk?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん。私も詳しくない施設やったから、まず案内所で聞こうと思って。",
+    "en": "Yeah. I didn't know much about the facility either, so I thought I'd ask at the information center first."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「インフォメーションデスクに聞いてみましょう」と言えます。",
+    "en": "You can say, “Let's ask at the information desk.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「案内所で聞いてみましょう」。レッツ・アスク・アット・ジ・インフォメーション・デスク。",
+    "en": "\"Let's ask at the information desk.\" Let's Ask at the Information Desk."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内所で聞いてみましょう。",
+    "en": "Let's ask at the information desk."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "レッツ・アスクで「一緒に聞こう」。インフォメーション・デスクは「案内所」。長いので、分けて練習してみてね。",
+    "en": "\"Let's listen together\" with Let's Ask. The information desk is an \"information center\". It's long, so try practicing in parts."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「聞いてみましょう…」「案内所で」次に、それらを組み合わせます。",
+    "en": "“Let's ask...” “at the information desk.” Then put them together."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "案内所を指しながらやと、伝わりやすいね。",
+    "en": "It's easy to understand when you point to the information center."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "バッグがどこにあるかわからない場合でも、これは役立ちます。",
+    "en": "That's helpful, even if you don't know where the bag is."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、一緒に聞きに行くつもりで。マークに続けて。",
+    "en": "Hona, I'm planning on going to listen to it together. Follow Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内所で聞いてみましょう。",
+    "en": "Let's ask at the information desk."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。近くに案内所が見えてる。「案内所で聞いてみましょう」。",
+    "en": "One more time. You can see an information center nearby. \"Let's ask at the information desk.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内所で聞いてみましょう。",
+    "en": "Let's ask at the information desk."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅の回では、駅員さんに聞いたよね。今回は、案内所の人に聞いてみよう。",
+    "en": "In the station episode, you asked the station staff. This time, let's ask the staff at the information desk."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "会話全体を試してみましょう。私はショッピングバッグを探している訪問者になります。",
+    "en": "Let's try the whole conversation. I'll be the visitor looking for a shopping bag."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークが旅行者役。近くに案内所がある、架空の商業施設の設定です。",
+    "en": "Mark plays the role of a traveler. The setting is a fictional commercial facility with an information center nearby."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "何かお手伝いしましょうか？",
+    "en": "Do you need help?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい、お願いします。",
+    "en": "Yes, please."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "何があったんですか？",
+    "en": "What happened?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "買い物かごをどこかに忘れてしまいました。見つからないんです。",
+    "en": "I left my shopping bag somewhere. I can't find it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "買い物袋を置いてきて、見つからない。ここで、案内所を提案します。",
+    "en": "I left my shopping bag behind and can't find it. I would like to suggest an information center here."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "案内所で聞いてみましょう。",
+    "en": "Let's ask at the information desk."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。一緒に来てもらえますか？",
+    "en": "Okay. Could you come with me?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "もちろん。一緒に行きましょう。",
+    "en": "Of course. Let's go together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう。どうすればいいのか分かりませんでした。",
+    "en": "Thank you. I wasn't sure what to do."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今日の人も、一緒に行こうって言うたら、少しほっとしてはった。",
+    "en": "Today's person was a little relieved when I asked him to go with me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。彼らは自分たちで何をすべきかを考える必要はありませんでした。",
+    "en": "Of course. They didn't have to figure out what to do all by themselves."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私も旅行先やったら心強いわ。知らん窓口に、ひとりで行くんは不安やもん。",
+    "en": "I also feel relieved when I travel to a destination. I don't feel comfortable going alone to a counter I don't know."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ゆっくりしてください。一度に 1 つの質問です。",
+    "en": "Take your time. One question at a time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。何か困ってそうな人に、声をかけたい。「何かお手伝いしましょうか？」。",
+    "en": "First one. I want to talk to people who seem to be in trouble. \"Can I help you with something?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何かお手伝いしましょうか？",
+    "en": "Do you need help?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。手伝ってほしいと言われたけど、事情が分からへん。「何があったんですか？」。",
+    "en": "Second. I was asked to help, but I don't understand the situation. \"What happened?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何があったんですか？",
+    "en": "What happened?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。自分だけでは分からんから、近くの案内所で一緒に尋ねたい。「案内所で聞いてみましょう」。",
+    "en": "Three. I can't figure it out on my own, so I'd like to ask at a nearby information center. \"Let's ask at the information desk.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内所で聞いてみましょう。",
+    "en": "Let's ask at the information desk."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？今日のやったら「Do you need help?」だけでも、覚えといたら使えそうやね。",
+    "en": "How did you do it? If you do it today, you might be able to use it if you memorize just \"Do you need help?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "絶対に。さて、あなたはまだ私に教えてくれませんでした。彼らはバッグを見つけましたか?",
+    "en": "Definitely. Now, you still haven't told me. Did they find the bag?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あ、そうやった。見つかったで。案内所で確認してもらったら、さっきのお店に置いてたって。",
+    "en": "Ah, that's what I did. Found it. When I checked at the information desk, they said they had it at the store I was at earlier."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、良かった。それで、プレゼントは家に届きましたか？",
+    "en": "Oh, good. So the presents made it home?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まだ旅行中やけど、持って帰れると思うよ。袋を受け取って、何回もお礼言うてくれた。",
+    "en": "I'm still traveling, but I think I can bring it home. He received the bag and thanked me many times."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "立ち止まって聞いてくれてよかったです。本当に高く評価していただいたようです。",
+    "en": "I'm glad you stopped to ask. It sounds like they really appreciated it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "声かけてよかったわ。さて、道案内から続けてきた、おもてなし英会話シリーズは、今回で一区切りです。",
+    "en": "I'm glad you spoke to me. Well, this is the end of the hospitality English conversation series that we have been continuing with directions."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私たちは道案内をしたり、行きたい場所を確認したり、提案したりする練習をしてきました。",
+    "en": "We've practiced giving directions, checking where someone wants to go, and making suggestions."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "食べ物を勧めたり、友達と大阪を回る相談もしたね。使ってみたいひと言があったら、また声に出してみてね。",
+    "en": "I recommended food and even talked about going around Osaka with my friends. If there's a word you'd like to use, say it out loud again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "さて、ミカ…その荷物を運ぶのを手伝う必要はありますか?",
+    "en": "And now, Mika... do you need help carrying those bags?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "助かる。この買い物袋、けっこう重いねん。でも、その前に、店の鍵はちゃんと持った？",
+    "en": "That's helpful. This shopping bag is quite heavy. But before that, did you have the key to the store?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。左手：鍵。右手：バッグ。私のためにそれを覚えていてください。",
+    "en": "Yes. Left hand: keys. Right hand: your bags. Please remember that for me."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "また鍵探し始めたら、「左手」って言うたらええんやな。ほな、今日はこのへんで。番組はまだ続くので、また聴きに来てね。",
+    "en": "When I start looking for my keys again, if I say \"left hand,\" it'll be fine. Hey, that's it for today. The program continues, so come back and listen again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、さっきからスマホばっかり見てるな。誰かに電話するん？",
+    "en": "Mark, you've been looking at your smartphone all the time. Are you going to call someone?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。毎週日曜日の夜、私はシカゴにいる母に電話します。",
+    "en": "Yeah. Every Sunday night, I call my mom in Chicago."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ああ、日曜は早じまいやったな。もうすぐじゅうじか。",
+    "en": "Oh, it ended early on Sunday. It's almost full time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。こちらでは10時ですが、あちらでは朝の8時です。彼女にとっては良い時期だ。",
+    "en": "Right. Ten o'clock here is eight in the morning there. It's a good time for her."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ時間。ほな、何をそんなに悩んでるん？",
+    "en": "Yeah time. Hey, what are you so worried about?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次の日曜日、アメリカで何かが変わります。そしていつも忘れてしまいます。",
+    "en": "Next Sunday, something changes in America. And I always forget."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "来週の日曜…ああ、サマータイムが終わる日か。",
+    "en": "Next Sunday... Ah, the day that daylight saving time ends."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい！毎年、忘れてしまいます。そして毎年、母は少し怒っています。",
+    "en": "Yes! Every year, I forget. And every year, my mom is a little angry."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "毎年おこられてるん？ それは聞き捨てならんな。",
+    "en": "Does it happen every year? I can't ignore that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そこで今日は時間について話しましょう。時差も時計も。",
+    "en": "So today, let's talk about time. Time difference, and clocks."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええね。私もカリフォルニアで、この時期にやらかしたことあるしな。",
+    "en": "Yeah. I also did this in California during this time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "始めましょう。今日の最初のフレーズは「そこは何時ですか?」",
+    "en": "Let's start. Today's first phrase is, \"What time is it there?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「そっちは今、何時？」って意味。遠くにおる相手に聞くときのひとこと。",
+    "en": "It means \"What time is it over there?\" Something to say when asking someone who is far away."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それは正しい。 「そこ」とは相手がいる場所のことです。",
+    "en": "That's right. \"There\" means the place where the other person is."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手の場所の時間を聞くんやね。日本が夜でも、向こうは朝やし。",
+    "en": "Ask the time of the other person's location. Even if it's night in Japan, it's morning over there."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "母はいつも私にこう尋ねます。 「マーク、そこには何時ですか？」",
+    "en": "My mom always asks me this. \"Mark, what time is it there?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "電話に出たら、まず息子が夜更かししてへんか確認するんか。",
+    "en": "When I answer the phone, do I first check to see if my son is up late?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "毎回！彼女に電話するときも。彼女は私のことを心配しています。",
+    "en": "Every time! Even when I call her. She worries about me."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "でも、毎週同じ時間に電話してるんやろ？ そろそろ覚えてくれてもよさそうやけど。",
+    "en": "But you're calling at the same time every week, right? I hope you remember it soon."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一度そう言いました。彼女は「今何時か知っています」と言いました。なぜあなたがまだ働いているのか知りたいのです。」",
+    "en": "I said that once. She said, 'I know what time it is. I want to know why you're still working.'"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "時間を知らんのやなくて、まだ働いてるんかって聞きたかったんか。",
+    "en": "You don't know the time, you just wanted to know if you were still working."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。それから彼女は私が食べたかどうか尋ねます。私は成人男性ですが、彼女はまだチェックしています。",
+    "en": "Exactly. Then she asks if I've eaten. I'm a grown man, but she still checks."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "遠くに住んでたら、ちゃんと食べてるかも気になるんやろな。",
+    "en": "If you live far away, you might be concerned about whether you're eating properly."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は彼女に夕食を食べたと伝えます。コーヒーしか飲んでいないと言うと、電話はさらに長くなります。",
+    "en": "I tell her I had dinner. If I say I only had coffee, the call gets much longer."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "心配の仕方がお母さんやな。ほな、そのひとことを練習してみよか。",
+    "en": "Your mother is the one who worries. Hey, let's try practicing that one word."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の後に続いて繰り返してください。 \"そこは何時ですか？\"",
+    "en": "Repeat after me. \"What time is it there?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。 \"そこは何時ですか？\"",
+    "en": "One more time. \"What time is it there?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ感じ。私もカリフォルニアにおった時は、日本の家族に電話するたびに、これ言うてた。",
+    "en": "Yes, it feels like it. When I was in California, I said this every time I called my family in Japan."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう、あなたはカリフォルニアに住んでいたのです！太平洋時間。",
+    "en": "Right, you lived in California! Pacific time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。シカゴとはにじかん違い。シカゴの方がにじかん進んでる。",
+    "en": "yes. It's completely different from Chicago. Chicago is far ahead."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。シカゴとカリフォルニアも同じ時計ではありません。聞いてみる価値はある。",
+    "en": "Exactly. Chicago and California aren't on the same clock, either. It's worth asking."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "2番目のフレーズ。 「時計が1時間戻ります。」",
+    "en": "Second phrase. \"The clocks go back one hour.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「時計がいちじかん戻る」。サマータイムが終わるときに使うひとこと。",
+    "en": "\"The clock goes back one step.\" A word to use when daylight saving time ends."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "シカゴでは、夏時間は 11 月の第 1 日曜日に終了します。今年は11月1日ですね。次の日曜日。",
+    "en": "In Chicago, daylight saving time ends on the first Sunday in November. This year, that's November first. Next Sunday."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "じゅういちがつついたちの午前にじが、もういっかい、午前いちじになるんやね。",
+    "en": "The morning rainbow that the little one pecks is already turning into a morning fig."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "アメリカ人にはちょっとしたルールがある。 「前に進んで、後ろに下がる。」",
+    "en": "Americans have a little rule. \"Spring forward, fall back.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "春は進めて、秋は戻す。「fall」は秋のこと。時計をどっちに動かすか、これで覚えられるな。",
+    "en": "Advance in spring and reverse in autumn. \"Fall\" means autumn. Now you can remember which way to move the clock."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして日本は変わらない。私たちの時計は変わりません。",
+    "en": "And Japan doesn't change. Our clocks stay the same."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "大阪の時計はそのまま。シカゴがいちじかん戻るから、時差が広がるんやね。",
+    "en": "The clock in Osaka remains the same. The time difference will widen since Chicago will be back in time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい！現在、時差は14時間です。来週は15時。",
+    "en": "Yes! Right now, the time difference is fourteen hours. Next week, fifteen."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゅうことは、来週もじゅうじに電話したら…シカゴは朝のしちじになるな。",
+    "en": "If Chukoto calls Juji again next week...Chicago will become Shichiji in the morning."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "日曜日の午前7時！私の母は幸せにならないでしょう。",
+    "en": "Seven a.m. on Sunday! My mom will not be happy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そら怒るな。ほな、このフレーズも練習しとこか。",
+    "en": "Don't get angry. Hey, maybe I should practice this phrase as well."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の後に続いて繰り返してください。 「時計が1時間戻ります。」",
+    "en": "Repeat after me. \"The clocks go back one hour.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。 「時計が1時間戻ります。」",
+    "en": "One more time. \"The clocks go back one hour.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私、それでいちじかん損した気分になったことある。留学してたカリフォルニアで、サマータイムが終わった翌日の月曜。",
+    "en": "I once felt like I was missing out on something like that. It was Monday, the day after daylight saving time ended in California, where I was studying abroad."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、聞きたいです！",
+    "en": "Oh, I want to hear it!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "スマホは自動で直ったんやけど、腕時計だけ直すの忘れててん。",
+    "en": "My smartphone fixed itself automatically, but I forgot to fix my watch."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "月曜は朝はちじから授業。腕時計だけ見て、いつもどおりに教室へ行ってん。",
+    "en": "On Mondays, classes begin in the morning. I just looked at my watch and went to class as usual."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして？",
+    "en": "And?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "教室に着いたら、誰もおらんかった。スマホを見たら、まだしちじやってん。",
+    "en": "When I arrived at the classroom, no one was there. When I looked at my smartphone, it was still working."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ははは！睡眠時間が 1 時間増えたのに、それを使いませんでした。",
+    "en": "Ha ha! You got one extra hour of sleep... and you didn't use it!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そうそう。遅刻せんかったのだけは、よかったけど。",
+    "en": "oh yeah. I'm glad I wasn't late."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それで、1時間ずっと何をしていたのですか？",
+    "en": "So what did you do for the whole hour?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "同じ授業の子に、「今日、休みやった？」ってメッセージ送ってん。そしたら「まだ家」って。",
+    "en": "I sent a message to a child in the same class saying, ``Did you take a day off today?'' Then he said, \"Still home.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼らにその時計のことを話しましたか？",
+    "en": "Did you tell them about the watch?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言うたら、「その時計、昨日に置いてきたん？」って返ってきた。朝から笑われた。",
+    "en": "When I said that, he replied, \"Did you leave that watch there yesterday?\" I was laughed at since morning."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まあ、少なくとも朝食の時間はありましたね。",
+    "en": "Well, at least you had time for breakfast."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それが、コーヒー買って戻ったら、もうみんな来ててん。いちじかん前に来たのに、席は後ろのほう。",
+    "en": "But when I went back after buying coffee, everyone had already arrived. Even though I arrived at the front, my seat was in the back."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それが11月の良いところです。あと一時間寝ろ！",
+    "en": "That's the good part of November. One more hour of sleep!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "春は逆にいちじかん減るから、そっちの方がきついけどな。",
+    "en": "In spring, on the other hand, it decreases by a lot, so it's tougher that way."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "3番目のフレーズ。 「時差を確認してみます。」",
+    "en": "Third phrase. \"Let me check the time difference.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「時差を確認させて」。電話する時間を決めるときにも使えるな。",
+    "en": "\"Let me check the time difference.\" You can also use it when deciding when to call."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「Let me」で、「ちょっと私に〜させて」。ここでは、自分が確認するって伝えるんやね。",
+    "en": "\"Let me\" means \"let me...\". I'm just telling you that I'll check it out."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。時間を決める前に確認すると言っています。",
+    "en": "Right. You're saying you'll check before you decide on a time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "勘で電話して、友達を起こしたらあかんもんな。",
+    "en": "It would be no good if I called on a hunch and woke up my friend."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の携帯電話にはシカゴの時間が表示されます。では、なぜ私はこれを間違え続けるのでしょうか？",
+    "en": "My phone shows Chicago time. So why do I keep getting this wrong?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "時計は合ってても、「日曜の夜じゅうじに電話する」って習慣が変わってへんからちゃう？",
+    "en": "Even if the clock is set, your habit of \"calling all the time on Sunday night\" will change."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それでおしまい。 10時を見てコールを押します。シカゴすら見ません。",
+    "en": "That's it. I see ten o'clock and press call. I don't even look at Chicago."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "来週の予定に、「シカゴの朝はちじ」って書いといたら？ 大阪の何時かもいっしょに。",
+    "en": "What if I wrote \"Chicago Morning Morning\" in next week's schedule? Also what time it is in Osaka."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "良いアイデア。そして、8 がまだ機能するかどうかを彼女に尋ねます。もしかしたら彼女は寝たいのかもしれない。",
+    "en": "Good idea. And I'll ask her if eight still works. Maybe she wants to sleep in."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せやね。時差が合ってても、相手の都合は聞かなわからんし。",
+    "en": "Let's see. Even if the time difference is right, I don't know what the other person's convenience is."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の後に続いて繰り返してください。 「時差を確認してみます。」",
+    "en": "Repeat after me. \"Let me check the time difference.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。 「時差を確認してみます。」",
+    "en": "One more time. \"Let me check the time difference.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みっつ使って練習しよか。今、カリフォルニアの友達と電話してて、来週の電話の時間を決める場面。",
+    "en": "Hona, let's practice using Mitsu. I'm currently on the phone with a friend in California and deciding on a time to call next week."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。私はカリフォルニアにいるあなたの友達です。",
+    "en": "Okay. I'm your friend in California."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今日はじゅうがつにじゅうごにちの日曜。大阪は夜のじゅうじで、カリフォルニアは朝のろくじ。友達は早起きしてて、今なら話せるって連絡くれた設定な。",
+    "en": "Today is Jugatsunijugonichi Sunday. In Osaka, it's night time, and in California, it's morning time. My friend woke up early and let me know that we could talk now."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は起きていますが、まだコーヒーを飲んでいません。ゆっくり話してください！",
+    "en": "I'm awake, but I haven't had my coffee yet. Speak slowly!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "こんにちは！そこは何時ですか？",
+    "en": "Hi! What time is it there?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "朝の6時です。来週の日曜日にも話せませんか？たぶん少し後ですか？",
+    "en": "It's six in the morning. Can we talk next Sunday, too? Maybe a little later?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "もちろん。時差を確認してみます。",
+    "en": "Sure. Let me check the time difference."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "時計は次の日曜日に1時間戻ります。朝の8時くらいでしょうか？",
+    "en": "The clocks go back one hour next Sunday. How about eight in the morning, your time?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "八つが良いですね。大阪には何時になりますか？",
+    "en": "Eight is good. What time will it be in Osaka?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "月曜日の午前中のひと時。ふーむ。またの機会を見つけてみましょう！",
+    "en": "One in the morning on Monday. Hmm. Let's find another time!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "良いキャッチです。両方の場所を確認するまでは、8 が問題ないようです。",
+    "en": "Good catch. Eight sounds fine until you check both places."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "向こうが日曜の朝はちじなら、大阪は月曜の午前いちじ。今度はこっちが眠くなるな。",
+    "en": "If it's Sunday morning over there, it's Monday morning in Osaka. I won't be sleepy this time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手の都合だけやなく、自分の時間も確認してから約束せなあかんね。",
+    "en": "Be sure to check not only the other person's availability, but also your own time before making a promise."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。そして、どの都市のことを指しているのか言ってください。シカゴの 8 はカリフォルニアの 8 ではありません。",
+    "en": "Exactly. And say which city you mean. Eight in Chicago isn't eight in California."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「日曜のはちじな」だけやと、朝か夜か、どこのはちじかも分からんな。",
+    "en": "I don't know if it's in the morning or at night, or where it is, just ``Sunday Hachijina.''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の母はそれをシンプルにしています。彼女は「朝食後に電話してください」と言います。しかし、それでも時計を確認する必要があります。",
+    "en": "My mom keeps it simple. She says, 'Call after breakfast.' But I still need to check the clock."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お母さんはそれで通じると思ってるんやな。離れてるこっちは、ちゃんと時間に直さなあかん。",
+    "en": "I think your mom thinks that's okay. Since I'm far away, I need to get back to you on time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。よくわからない場合は、電話する前にメッセージを送信できます。彼女を起こすよりずっといいよ。",
+    "en": "Right. And if I'm not sure, I can send a message before I call. Much better than waking her up."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。遠くにいる相手に、「そっちは今、何時？」って聞きたいとき。",
+    "en": "First one. When you want to ask someone who is far away, \"What time is it over there?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そっちは今、何時？",
+    "en": "What time is it there?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。「時計がいちじかん戻る」って言いたいとき。",
+    "en": "Second. When you want to say, \"The clock goes back one step.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "時計が1時間戻る。",
+    "en": "The clocks go back one hour."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。電話する前に、「時差を確認させて」って言いたいとき。",
+    "en": "Three. When you want to say \"Let me check the time difference\" before calling."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "時差を確認させて。",
+    "en": "Let me check the time difference."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ばっちり。ほな、マーク。来週の日曜は、お母さんに何時に電話するん？",
+    "en": "Perfect. Hey, Mark. What time are you going to call your mom next Sunday?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "11時。それからシカゴは朝の8時です。完璧！",
+    "en": "Eleven o'clock. Then it's eight in the morning in Chicago. Perfect!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええな。ほな、今日は？",
+    "en": "Yeah. Hey, what about today?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今日も昔のままです。それで...10時。もう10時だよ！",
+    "en": "Today is still the old time. So... ten o'clock. It's ten now!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、はよ電話し。お母さん待ってるで。",
+    "en": "Hey, okay, call me. Mom is waiting."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "こんにちは、お母さん！はい、大丈夫です。はい、ここは10時です。いつもと同じです！",
+    "en": "Hi, Mom! Yes, I'm fine. Yes, it's ten o'clock here. Same as always!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お母さん、やっぱり聞いてきたんか。",
+    "en": "Mom, did you ask me after all?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。そして今、彼女は私に食事をしたかどうか尋ねています。はい、お母さん。私は持っている！",
+    "en": "Of course. And now she's asking if I've eaten. Yes, Mom. I have!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "時差の次は、ごはんの確認か。じゃあ私はそろそろ帰ろかな。",
+    "en": "Next to the time difference, it's time to check on dinner. Well, I guess it's time for me to go home."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "皆さん、聞いてくれてありがとう。次回お会いしましょう！",
+    "en": "Thanks for listening, everyone. See you next time!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

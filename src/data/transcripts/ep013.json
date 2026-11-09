@@ -1,0 +1,638 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、そのチラシの束、なに？",
+    "en": "Mark, what is that bunch of flyers?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "チラシ！自分で作りました。",
+    "en": "Flyers! I made them myself."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今週土曜日にここバーで開催されるハロウィーンパーティーのためのものです。",
+    "en": "They're for our Halloween party this Saturday, right here at the bar."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ハロウィンパーティー？ ここで？",
+    "en": "Halloween party? Here?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん！コスチューム、ドリンク、そしてとっても怖いカボチャのスナック。",
+    "en": "Of course! Costumes, drinks, and a very scary pumpkin snack."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さすがアメリカ人、気合い入ってるな。",
+    "en": "As expected of Americans, they are in great spirits."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私もカリフォルニアにおったとき、近所のハロウィンにびっくりした。家ごと飾ってたもん。",
+    "en": "When I was in California, I was surprised by Halloween in my neighborhood. I used to decorate my whole house."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん！アメリカではハロウィンは一大事です。",
+    "en": "Yeah! In America, Halloween is a big deal."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "家、衣装、お菓子…すべて。",
+    "en": "Houses, costumes, candy... everything."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "日本は、仮装して街に集まるイメージが強いな。",
+    "en": "Japan has a strong image of people dressing up in costumes and gathering in the streets."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私がシカゴで子供の頃、それはすべてキャンディーでした。",
+    "en": "When I was a kid in Chicago, it was all about the candy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんで、そのチラシはもう誰かに渡したん？",
+    "en": "So, have you given that flyer to anyone yet?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。本日常連のお客様にプレゼントさせていただきました。",
+    "en": "Yes. I gave some to my regular customers today."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今日、もう配ったん？ 早いなあ。ちょっと見せて。",
+    "en": "Have you given it out yet today? It's early. Show me a little."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どうぞ。素敵ですね?",
+    "en": "Here you go. Looks great, right?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "デザインはええやん。かぼちゃもかわいい。……ん？",
+    "en": "The design is okay. Pumpkins are cute too. ……yeah?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、これ、ほんまに今日お客さんに渡したん？",
+    "en": "Mark, did you really give this to a customer today?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい、そうでした。なぜ？何か問題がありますか?",
+    "en": "Yes, I did. Why? Is something wrong?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここに、Saturday, October 30th って書いてあるやん。",
+    "en": "It says \"Saturday, October 30th\" here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。 10月30日土曜日。ハロウィンパーティー！",
+    "en": "Yes. Saturday, October 30th. Halloween party!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "でも、ハロウィンはさんじゅういちにちやん。",
+    "en": "But Halloween is every day."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "しかも、さんじゅうにちは土曜日ちゃう。金曜日。",
+    "en": "Moreover, my third birthday is on Saturday. Friday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "...待って。確認させてください。土曜日は…31日？",
+    "en": "...Wait. Let me check. Saturday is... the thirty-first?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。今月のさんじゅうにちは金曜日。土曜日は、さんじゅういちにち。",
+    "en": "yes. This month's anniversary is Friday. Saturday is Sanjuichi Day."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "なんてこった。興奮しすぎてカレンダーチェックしませんでした。",
+    "en": "Oh no. I was so excited, I didn't check the calendar."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "楽しみすぎて、確認がとんだんやな。",
+    "en": "I'm so excited that I can't wait to check it out."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "こういうとき、英語やったらこう言うよな。",
+    "en": "In situations like this, if you were to speak English, you would say something like this."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "それ、おかしくない？（つじつまが合わない）",
+    "en": "That doesn't make sense."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "\"意味をなす。\"それは物語が成り立つことを意味します。明快で論理的です。",
+    "en": "\"Make sense.\" It means the story works. It's clear and logical."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「make sense」で「筋が通る、意味が通る」。それに「doesn't」がついて、「つじつまが合わへん」。",
+    "en": "``make sense'' means ``make sense, make sense.'' \"Doesn't\" is added to it, meaning \"it doesn't make sense.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「That」は、いま話してる日付のこと。曜日と日付が合わんときに、ぴったりやな。",
+    "en": "\"That\" refers to the date we are talking about. Perfect when the day of the week and date match."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "makeは「作る」のイメージが強いけど、ここは「意味が成り立つ」くらいの感じ。",
+    "en": "Make has a strong image of ``creating'', but here it feels like ``making sense''."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。私の後に続いて繰り返してください。",
+    "en": "Your turn. Repeat after me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それ、おかしくない？（つじつまが合わない）",
+    "en": "That doesn't make sense."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。",
+    "en": "One more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それ、おかしくない？（つじつまが合わない）",
+    "en": "That doesn't make sense."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかりました、わかりました。今はわかります。間違った日付を書いてしまいました。",
+    "en": "OK, OK. I see it now. I wrote the wrong date."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "気づいたん、まだ土曜日の前でよかったな。",
+    "en": "I just realized that I'm glad it's still before Saturday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "でも今日はチラシを12枚配りました。",
+    "en": "But I gave out twelve flyers today."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "じゅうにまいも？ みんな、金曜日にここに来てしまうかもしれんな。",
+    "en": "Juuniimo? Guys, I think we'll probably be here on Friday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "金曜日には、バーは仮装をした混乱した人々でいっぱいになるだろう。",
+    "en": "On Friday, the bar will be full of confused people in costumes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それはそれで見たいけど。……でも、わかる。私もやったことあるし。",
+    "en": "I'd like to see that though. ...But I understand. I've done it too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなた？どうしたの？",
+    "en": "You? What happened?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "留学中にな、パーティーの日を間違えて、ひとりで魔女の格好で学校に行ってん。",
+    "en": "While studying abroad, I went to the wrong party on the wrong day and went to school alone dressed as a witch."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一人で？魔女の衣装で？",
+    "en": "Alone? In a witch costume?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。誰もおらへん教室で、ほうきを持って立ってた。",
+    "en": "yes. I was standing in an empty classroom holding a broom."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はぁ！素晴らしい話ですね。",
+    "en": "Ha! That's a great story."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま恥ずかしかったんやから。",
+    "en": "It was really embarrassing."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それであなたも間違いを犯しました。",
+    "en": "So you made a mistake too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……今の、ええフレーズやん。",
+    "en": "...That's the current phrase."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「間違えた」って、英語でさらっと言えると強いよな。",
+    "en": "It's really powerful if you can simply say \"I made a mistake\" in English."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "間違えた。",
+    "en": "I made a mistake."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「間違いをする」は、英語では make a mistake。この組み合わせで覚えとこ。",
+    "en": "\"Make a mistake\" means \"make a mistake\" in English. Remember this combination."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてそれはすでに起こっているので、「できた」と言います。",
+    "en": "And it already happened, so we say \"made.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう起きたことやから、makeの過去形で「made」やな。",
+    "en": "Since it has already happened, \"made\" is the past tense of \"make\"."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言い訳せんと、さらっと言うのがええと思う。",
+    "en": "I think it's best to just say it without making any excuses."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。",
+    "en": "Your turn."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "間違えた。",
+    "en": "I made a mistake."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。",
+    "en": "One more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "間違えた。",
+    "en": "I made a mistake."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、チラシを直さな。でも、渡した人にはどうやって伝える？",
+    "en": "Hey, fix the flyer. But how do you tell the person you gave it to?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ほとんどの人の電話番号を知っています。明日電話します。今度他の人が来たときに聞いてみます。",
+    "en": "I have phone numbers for most of them. I'll call tomorrow. I'll ask the others next time they come in."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "電話するなら、日付を直したあとに、土曜日に来られるかも聞いといたほうがええな。",
+    "en": "If you're going to call, it would be a good idea to correct the date and ask if you can come on Saturday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい！もう一つフレーズが必要です。",
+    "en": "Yes! I need one more phrase."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "土曜日、来られる？",
+    "en": "Can you make it on Saturday?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "この「make it」は、「都合をつけて来られる」ってこと。",
+    "en": "This \"make it\" means \"you can come at your convenience.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「来てもらえますか？」も機能します。 「できますか？」なんとかそこに着くことができるかどうか尋ねます。",
+    "en": "\"Can you come?\" works too. \"Can you make it?\" asks if you can manage to be there."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "予定が合って、参加できそうか聞いてるんやね。パーティーとか待ち合わせで使えるな。",
+    "en": "I'm asking if your schedule allows me to participate. It can be used for parties and meetings."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「はい、できます」と答えることができます。または、「ごめんなさい、行けません。」",
+    "en": "You can answer, \"Yes, I can make it.\" Or, \"Sorry, I can't make it.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "行かれへんときは、「Sorry, I can't make it」。ひとこと添えて断れるな。",
+    "en": "When you can't go, say \"Sorry, I can't make it.\" I can't refuse with one word."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。",
+    "en": "Your turn."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "土曜日、来られる？",
+    "en": "Can you make it on Saturday?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。",
+    "en": "One more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "土曜日、来られる？",
+    "en": "Can you make it on Saturday?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、練習してみよ。私がお客さん役。マークは電話してみて。",
+    "en": "Hey, let's practice. I'm the customer. Mark, give me a call."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "こんにちは？バーのマークです。",
+    "en": "Hello? This is Mark from the bar."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ああ、こんにちは、マーク！チラシを受け取りました。",
+    "en": "Oh, hi, Mark! I got your flyer."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "でも、10月30日土曜日って書いてある。それは意味がありません。",
+    "en": "But it says Saturday, October 30th. That doesn't make sense."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたが正しい。間違いを犯してしまいました。 10月31日土曜日です。",
+    "en": "You're right. I made a mistake. It's Saturday, October 31st."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ああ、なるほど！",
+    "en": "Oh, I see!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "土曜日、来られる？",
+    "en": "Can you make it on Saturday?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "はい、できますよ！魔女として来ます。",
+    "en": "Yes, I can make it! I'll come as a witch."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "素晴らしい。そして、ほうきを持ってきてください。",
+    "en": "Great. And please bring your broom."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "はぁ！私はします。",
+    "en": "Ha! I will."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ感じ。ひとつの電話で、みっつとも使えたな。",
+    "en": "Yes, it feels like it. I was able to use all of them on one phone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。曜日と日付が合わへん。「それ、おかしい」って言いたい。",
+    "en": "First one. The day of the week and date don't match. I want to say, \"That's strange.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それ、おかしくない？（つじつまが合わない）",
+    "en": "That doesn't make sense."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。やってしもた。「間違えた」って素直に言いたい。",
+    "en": "Second. I did it. I want to honestly say, \"I made a mistake.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "間違えた。",
+    "en": "I made a mistake."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。友だちに、土曜日に来られるか聞きたい。",
+    "en": "Three. I want to ask my friend if he can come on Saturday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "土曜日、来られる？",
+    "en": "Can you make it on Saturday?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言えた？ 出てこんかっても大丈夫。声に出したぶん、ちゃんと残るから。",
+    "en": "Did you say it? It's okay if you don't go out. If you say it out loud, it will stick."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカさん、新しいチラシを作りました。チェックしてください。",
+    "en": "Mika, I made a new flyer. Check it, please."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お、直したん？ ほな、読むな。Saturday, October 31st。うん、合うてる。",
+    "en": "Oh, did you fix it? Hey, don't read it. Saturday, October 31st. Yeah, it fits."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてパーティーは午前8時に始まります。",
+    "en": "And the party starts at eight a.m."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……朝のはちじ？ 朝のハロウィン？",
+    "en": "...Hachiji in the morning? Halloween in the morning?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "待ってください。それは意味がありません。",
+    "en": "Wait. That doesn't make sense."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、さっきのフレーズやん。",
+    "en": "That's the phrase from earlier."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "また間違いを犯してしまいました。",
+    "en": "I made another mistake."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう、にかいめやん。",
+    "en": "I'm not shy anymore."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "皆さん、ご清聴ありがとうございました。次回お会いしましょう！",
+    "en": "Thank you for listening, everyone. See you next time!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ゆうじさん、今日はメニュー見ながら、ぶつぶつ言うてたな。何の練習してたん？",
+    "en": "Yuuji-san, you were grumbling to yourself while looking at the menu today. What were you practicing?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "食べ物。ユウジがレストランのカウンターにいたとき、隣にいた旅行者が「ここは何がおいしいの？」と尋ねました。",
+    "en": "Food. Yuji was at a restaurant counter, and the traveler next to him asked, “What's good here?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ここ、何がおいしいですか？」って聞かれたんや。お店のこと聞かれたら、うれしいもんな。",
+    "en": "\"What's delicious here?\" I was asked. I'd be happy if someone asked me about the shop."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼はとても幸せでした。彼は深呼吸して、「すべてが順調です！」と言いました。",
+    "en": "He was so happy. He took a deep breath and said, “Everything is good!”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "全部おいしい。気持ちは分かるし、うそやないんやろな。それで、相手はなんて？",
+    "en": "Everything is delicious. I understand how you feel, and I'm sure you're not lying. So, what about your opponent?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "旅行者はメニューを見た。続いてユウジさんへ。それからメニューに戻ります。",
+    "en": "The traveler looked at the menu. Then at Yuji. Then back at the menu."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "メニュー、ゆうじさん、メニュー。選ぶ側は、ますます迷うやつやな。",
+    "en": "Menu, Yuji-san, menu. The person who chooses is the one who is getting more and more confused."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。最後に、「わかりました…でもどれを注文すればいいですか？」と尋ねられました。",
+    "en": "Exactly. Finally, they asked, “Okay... but which one should I order?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「全部」って言われても、頼めるのはひとつずつやもんな。おすすめを聞いたのに、迷う材料が増えてもうた。",
+    "en": "Even if you say \"everything,\" you can only ask for one thing at a time. Even though I asked for recommendations, I was confused by the number of ingredients."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "全部おすすめやったら、メニューはいらんな。",
+    "en": "If you recommend everything, you won't need a menu."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今回は、おすすめを聞かれたときのひと言やね。いきなり「これがおいしいで」って言うんやなくて、まず何をしたらええんやろ。",
+    "en": "This time, when I was asked for a recommendation, this is what I said. Don't just say, ``This is delicious,'' but what should I do first?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まず質問してください。辛い食べ物が好きな人もいます。軽い食べ物が好きな人もいます。お腹を満たすものを求める人もいます。",
+    "en": "Ask first. Some people like spicy food. Some like light food. Some want something filling."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "辛いのが好きな人も、さっぱりが好きな人も、がっつり食べたい人もおる。おいしいは、人によって違うんやな。",
+    "en": "Some people like spicy food, some people like it refreshing, and some people like it hearty. What tastes delicious differs from person to person."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。そこで、「どんな食べ物が好きですか？」と聞いてみましょう。",
+    "en": "Right. So, try, “What kind of food do you like?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「どんな食べ物が好きですか？」。ワット・カインド・オブ・フード・ドゥ・ユー・ライク。",
+    "en": "\"What kind of food do you like?\" What kind of food do you like?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どんな食べ物が好きですか？",
+    "en": "What kind of food do you like?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ワット・カインド・オブ・フードで「どんな食べ物」、ドゥ・ユー・ライクで「好きですか」。ちょっと長いな。",
+    "en": "\"What kind of food\" in \"What kind of food\" and \"Do you like it\" in \"Do you like?\" It's a bit long."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次にそれを二つに分けます。 「どんな食べ物…」「好きなものは？」",
+    "en": "Then split it in two. “What kind of food...” and “do you like?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "前半と後半に分けて言うたら、言いやすそうやな。ゆっくりでもええんやね。",
+    "en": "I think it would be easier to say if I divided it into the first half and the second half. It's okay to take it slow."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ゆっくりで結構です。あなたはスピーチをしているのではなく、質問をしているのです。",
+    "en": "Slow is fine. You're asking a question, not giving a speech."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手の好みを、ちゃんと聞きたいだけやもんな。ほな、マークに続けて。「どんな食べ物が好きですか？」。",
+    "en": "I just want to hear what the other person likes. Hey, continue with Mark. \"What kind of food do you like?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どんな食べ物が好きですか？",
+    "en": "What kind of food do you like?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。相手が、メニューを見ながら迷ってる。そんな場面で。",
+    "en": "One more time. The other person is confused while looking at the menu. In such a situation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どんな食べ物が好きですか？",
+    "en": "What kind of food do you like?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちなみに、マークは何が好きなん？",
+    "en": "By the way, what does Mark like?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うーん...すべてが良いです。",
+    "en": "Hmm... Everything is good."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、ゆうじさんと同じ答えやん！今日いちばん困る答えやで。",
+    "en": "That's the same answer as Yuuji! This is the most difficult answer for me today."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "分かった、分かった。私はカリカリの食べ物と、冷たい飲み物に合うものが好きです。",
+    "en": "Okay, okay. I like crispy food, and anything that goes with a cold drink."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、好みが分かったな。外はカリッとしてて、冷たい飲み物に合うやつ。これなら、ひとつ選べそうや。",
+    "en": "Hey, I know what you like. It's crispy on the outside and goes well with cold drinks. If this is the case, I guess I can choose one."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次に、1 つ選んでください。 「これをお勧めします。」",
+    "en": "Next, pick one. “I recommend this one.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「これがおすすめです」。アイ・レコメンド・ディス・ワン。",
+    "en": "\"This is what I recommend.\" I Recommend This One."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これがおすすめです。",
+    "en": "I recommend this one."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "レコメンドが「勧める」、ディス・ワンが「これ」。メニューを指しながら言うんやね。",
+    "en": "Recommend is \"recommended\" and \"this one\" is \"this\". You say it while pointing at the menu."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。メニューを指さして「これ」と言います。簡単。",
+    "en": "Yes. Point at the menu and say, “This one.” Easy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "指さしながらやったら、料理の名前が言いにくくても大丈夫やな。",
+    "en": "It doesn't matter if it's hard to say the name of the dish if you point to it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。料理名を完璧に言う必要はありません。",
+    "en": "Exactly. You don't have to say the dish name perfectly."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、ゆうじさんに聞かせたいわ。名前を完璧に言おうとして、固まってそうやもん。",
+    "en": "I want to ask Yuji-san about that. I froze trying to say the name perfectly."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼はそうしました。彼は料理名全体を完璧に言おうとしました。旅行者はすでに何か別のものを指さしていました。",
+    "en": "He did. He tried to say the whole dish name perfectly. The traveler had already pointed at something else."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "完璧に言おうとしてる間に、相手は別のを指してたんか。そこまで頑張らんでええ。「これ」で十分や。",
+    "en": "While you were trying to say it perfectly, the other person was pointing at something else. I don't have to try that hard. “This” is enough."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。指をさし、微笑んで、どれか 1 つを選択してください。",
+    "en": "Right. Point, smile, and choose one."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、メニューを指すつもりで、マークに続けて。「これがおすすめです」。",
+    "en": "Hona, I'm going to point to the menu, and I'm going to follow the mark. \"This is what I recommend.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これがおすすめです。",
+    "en": "I recommend this one."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。好みを聞いたあとに、ひとつだけ選ぶつもりで。",
+    "en": "One more time. After listening to your preferences, I plan on choosing just one."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これがおすすめです。",
+    "en": "I recommend this one."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ひとつだけ」やから、ええんやな。あれもこれも言うたら、また迷わせてまうもん。",
+    "en": "It's only one thing, so that's fine. If I say this or that, I'll just confuse you again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。明確な選択肢が 5 つあるよりも、1 つある方が良いでしょう。",
+    "en": "Exactly. One clear choice is better than five maybes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "全部おいしいから、ひとつおすすめへ。ゆうじさん、ここまで来たら完璧やな。",
+    "en": "All of them are delicious, so I recommend one. Yuji-san, if you've come this far, it's perfect."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ほとんど。もう一枚。なぜそれが？",
+    "en": "Almost. One more piece. Why that one?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつ選んだら、なんでそれなんかも、ひと言ほしいな。",
+    "en": "If you choose one, I'd like you to tell me why you chose it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。短い理由です。 「ここは人気があります。」",
+    "en": "Right. A short reason. “It's popular here.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ここでは人気です」。イッツ・ポピュラー・ヒア。",
+    "en": "\"It's popular here.\" It's Popular Here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここでは人気です。",
+    "en": "It's popular here."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ポピュラーが「人気の」、ヒアが「ここでは」。観光で来てたら、地元で人気って聞くと安心するな。",
+    "en": "Popular means ``popular,'' and here means ``here.'' If you're here for sightseeing, you'll be relieved to hear that it's popular with the locals."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。ただし、それが本当の場合にのみ言ってください。よくわからない場合は、「これをお勧めします」で十分です。",
+    "en": "Yes. But only say it if it's true. If you're not sure, “I recommend this one” is already enough."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "適当に「人気です」って言うて、ほんまは違ったらあかんもんな。自信ないときは、「これがおすすめです」だけでもええんやね。",
+    "en": "Just saying \"it's popular\" doesn't mean it's not true. When you're not confident, it's okay to just say, ``I recommend this.''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。正直に言って、短くしてください。",
+    "en": "Exactly. Be honest, and keep it short."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、マークに続けて。「ここでは人気です」。",
+    "en": "Hey, continue with Mark. \"It's popular here.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここでは人気です。",
+    "en": "It's popular here."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。ほんまに人気のものを、すすめるつもりで。",
+    "en": "One more time. I'm just going to recommend something that's really popular."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここでは人気です。",
+    "en": "It's popular here."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これで三つそろったな。好みを聞いて、ひとつ選んで、理由をひと言。",
+    "en": "Now I have all three. Ask them what they like, choose one, and tell them why."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それらをまとめてみましょう。私が旅行者になります。今夜は何か軽いものが欲しいです。",
+    "en": "Let's put them together. I'll be the traveler. I want something light tonight."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークが旅行者役で、軽めのものが食べたい設定な。私は店員さんで、うどんのメニューを指すで。",
+    "en": "Mark plays the role of a traveler and wants to eat something light. I'm a clerk, and I'm pointing to the udon menu."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すみません。ここの何が良いの？",
+    "en": "Excuse me. What's good here?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "どんな食べ物が好きですか？",
+    "en": "What kind of food do you like?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何か軽いものをください。",
+    "en": "Something light, please."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "これをお勧めします。ここは人気があります。",
+    "en": "I recommend this one. It's popular here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "素晴らしい。それをいただきます。",
+    "en": "Great. I'll have that."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほら、「全部おいしい」より、ずっと選びやすいな。ゆうじさんにも聞かせたいわ。",
+    "en": "You know, it's much easier to choose than \"everything is delicious.\" I want to ask Yuji-san too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "さて、切り替えます。もうあなたは旅行者です。そして、あなたはとてもお腹が空いています。",
+    "en": "Okay, switch. You're the traveler now. And you're very hungry."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今度は私が旅行者やな。がっつり食べたい設定で、マークは店員さん。お好み焼きのメニューを指してな。",
+    "en": "This time I'm a traveler. The setting is that you want to eat a lot, and Mark is a store clerk. Point to the okonomiyaki menu."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "すみません。ここの何が良いの？",
+    "en": "Excuse me. What's good here?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どんな食べ物が好きですか？",
+    "en": "What kind of food do you like?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "何かお腹を満たすものをください。",
+    "en": "Something filling, please."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これをお勧めします。ここは人気があります。",
+    "en": "I recommend this one. It's popular here."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "完璧。ありがとう！",
+    "en": "Perfect. Thank you!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ふたりとも、店員さんできそうやな。",
+    "en": "I think both of them could work as store clerks."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ゆっくりしてください。一度に 1 つの質問です。",
+    "en": "Take your time. One question at a time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。おすすめを聞かれたけど、相手の好みが分からん。そんなとき。「どんな食べ物が好きですか？」。",
+    "en": "First one. I was asked for a recommendation, but I don't know what the other person likes. At times like that. \"What kind of food do you like?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どんな食べ物が好きですか？",
+    "en": "What kind of food do you like?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。好みが分かったから、メニューを指して、ひとつだけ勧めたい。そんなとき。「これがおすすめです」。",
+    "en": "Second. Now that I know what I like, I'd like to point to the menu and recommend just one thing. At times like that. \"This is what I recommend.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これがおすすめです。",
+    "en": "I recommend this one."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。この辺りで人気のものやから、理由をひと言添えたい。そんなとき。「ここでは人気です」。",
+    "en": "Three. It's popular around here, so I'd like to tell you why. At times like that. \"It's popular here.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここでは人気です。",
+    "en": "It's popular here."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？今日は、好みを聞いて、ひとつ選んで、理由をひと言。この順番やったね。",
+    "en": "How did you do it? Today, we'll ask you what you like, choose one, and tell us why. You did it in this order."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "メニュー全体を知る必要はありません。質問して 1 つを選択し、理由を追加します。",
+    "en": "You don't need to know the whole menu. Ask, choose one, and add a reason."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「全部おいしい」って気持ちは大事やけど、相手が選べる形にして渡したらええんやな。",
+    "en": "It's important to have the feeling that ``everything is delicious,'' but it would be nice if you could give it to the recipient in a way that they can choose from."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ユウジは次の旅人で再挑戦した。彼は「どんな食べ物が好きですか？」と尋ねました。",
+    "en": "Yuji tried again with the next traveler. He asked, “What kind of food do you like?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゃんと聞けたんや。それで、相手はなんて？",
+    "en": "I heard it properly. So, what about your opponent?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "旅行者は微笑みながら、「すべてが好きです」と言いました。",
+    "en": "The traveler smiled and said, “I like everything.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今度は、相手が「全部好き」なん？ほんで、ゆうじさんはどうしたん？",
+    "en": "This time, does the other person “like everything”? So, what happened to Yuuji?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼は笑った。それから彼は一つを選びました。 「これをお勧めします。ここは人気があります。」",
+    "en": "He laughed. Then he picked one. “I recommend this one. It's popular here.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゃんとひとつに絞ったんや。「全部おいしい」の人が、ひとつ選べるようになった。成長やな。",
+    "en": "I narrowed it down to just one. People who say ``everything is delicious'' can now choose one. Growth."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして彼は私に「どんな食べ物が好きですか？」と尋ねました。",
+    "en": "And then he asked me, “What kind of food do you like?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここで、私らに返ってくるんか。マークは何て答えたん？",
+    "en": "Will it come back to us now? What did Mark say?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「すべてが順調です。」彼はただ私を見つめただけでした。それから彼はメニューを指さした。 「1つ選んでください。」",
+    "en": "“Everything is good.” He just looked at me. Then he pointed at the menu. “Pick one.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "自分が言われて、初めて分かったんやな。ええ勉強になったやん。次回は、「大阪で何したらいい？」って聞かれたときの英会話。行きたいところや使える時間を聞いて、ひとつ提案する練習をしよか。",
+    "en": "It was only when I was told that that I understood. Yeah, I learned a lot. Next time, I'll talk about English conversation when someone asks me, \"What should I do in Osaka?\" Let's practice asking them where they want to go and how much time they have available, and then making a suggestion."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっきの常連さん、何の話してたん？ずっと地図アプリで道を説明してたみたいやけど。",
+    "en": "What were you and that regular talking about earlier? It looked like you were giving directions with a map app the whole time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、ゆうじさん？ 旅行者に駅への行き方を聞かれたんだ。道は分かってたのに、言葉が出てこなかったって。",
+    "en": "Oh, Yuji? A tourist asked him how to get to the station. He knew the way, but the words just wouldn't come out."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅への道は分かってるのに、英語が出てこなかったんや。",
+    "en": "So he knew how to get to the station, but the English just wouldn’t come out."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それで笑顔でスマホを指さしたんだ。ひとことも出なくて、ひたすら指さしてたって。",
+    "en": "So he's smiling, pointing at his phone. No words. Just a lot of pointing."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "笑顔でスマホを指さしてたんや。道は見せられるけど、ひと言添えたいのに出てこえへんかったんやな。",
+    "en": "He was smiling and pointing at his smartphone. I could show you the way, but I couldn't come out even though I wanted to say something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。結局彼は彼らと一緒に駅まで歩いた。",
+    "en": "Yeah. He ended up walking to the station with them."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "結局、一緒に駅まで歩いたんか。ちゃんと助けてるやん。",
+    "en": "In the end, we walked to the station together. I'm helping you properly."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、でも彼は「何か言えればよかったのに」って感じだった。",
+    "en": "Yeah, but he was like, \"I wish I could've said something.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「もうちょっと何か言えたらよかったな」か。その気持ちは、よう分かるわ。",
+    "en": "“I wish I could have said something more.” I understand that feeling."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ほな、次に言えるひと言、用意しとこか。",
+    "en": "Well, I guess I'll prepare what I can say next."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今回からは、大阪で使える、おもてなし英会話をやっていこか。手伝いたいのに言葉が出えへん。その「ああ言えばよかった」を、ちょっとずつ減らしていこ。",
+    "en": "From this time on, let's try some hospitality English conversation that can be used in Osaka. I want to help, but I can't find the words. Little by little, reduce those ``I wish I had said that.''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。小さな会話を一度に一つずつ。まずは道順から始めましょう。",
+    "en": "Yeah. One little conversation at a time. Let's start with directions."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まずは道案内からやな。いきなり大阪じゅう案内せんでええから、ひとつずつ。",
+    "en": "Let's start with directions. All of a sudden there are guidebooks all over Osaka, so I'll take them one by one."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてユージにはそれがどの駅のことを言っているのか分かりませんでした。福島か新福島か？",
+    "en": "And Yuji wasn't sure which station they meant. Fukushima or Shin-Fukushima?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "福島駅か、新福島駅か、ゆうじさんもどっちのことか迷ったんやな。名前も似てるし、まず確かめたいね。",
+    "en": "I think Yuuji was wondering which one he meant, Fukushima Station or Shin-Fukushima Station. The names are similar, so I'd like to check first."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。まず、どこに行きたいかを尋ねます。 \"どこに行くの？\"",
+    "en": "Yeah. First, ask where they wanna go. \"Where are you going?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「どこに行きたいんですか？」。道を聞かれたとき、まず行き先を確認するひと言やね。",
+    "en": "\"Where do you want to go?\" When someone asks you for directions, it's the first thing you say to confirm your destination."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこに行きたいんですか？",
+    "en": "Where are you going?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "道を聞かれてる場面やから、目的地を聞くのが自然なんやな。知らん人を追いかけて、いきなり聞くんはちゃうで。",
+    "en": "Since you're being asked for directions, it's only natural to ask for the destination. Don't follow people you don't know and ask them out of the blue."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。あなたは彼らを家まで追いかけるのではなく、彼らを助けているのです。",
+    "en": "Yeah. You're helping them out, not following them home."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "家までついていく話ちゃうもんな。ほな、マークに続けて言うてみて。",
+    "en": "I'll talk about following you home. Hey, go ahead and say it to Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこに行きたいんですか？",
+    "en": "Where are you going?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。道を聞かれたけど、どこに行きたいか分からへん。そんなときに。",
+    "en": "One more time. I was asked for directions, but I don't know where I want to go. At times like that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこに行きたいんですか？",
+    "en": "Where are you going?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もしかしたら駅名を言ってくれるかも知れません。または、携帯電話であなたを見せてください。",
+    "en": "Maybe they'll say a station name. Or just show you on their phone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅名を言うてくれたり、スマホで行き先を見せてくれたりするんやね。返事が長くて聞き取れへんこともあるやろけど。",
+    "en": "They will tell you the station name and show you your destination on your smartphone. Sometimes the replies are long and hard to understand."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「もう一度言ってもらえますか？」と聞いてください。",
+    "en": "Just ask, \"Could you say that again?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「もう一回言ってもらえますか？」やな。分かったふりして進めんでもええねん。今日はまず、行き先を聞くひと言を覚えよ。",
+    "en": "\"Can you say it again?\" There's no point in pretending you understand and moving on. Today, first of all, learn how to ask someone where you are going."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "駅名はユウジがつけました。しかしその後、彼は携帯電話で地図を動かし続けました。",
+    "en": "Yuji got the station name. But then he kept moving the map around on his phone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅名は分かったのに、今度は地図をあっちこっち動かしてたん？相手も、どこ見たらええか迷うな。",
+    "en": "I knew the station name, but now I was moving the map around? Don't worry about where the other person should look."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "気持ちは、めっちゃ伝わっててん。",
+    "en": "My feelings are really conveyed."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それから彼は速度を落とした。二人とも見えるところに電話をかざした。それは役に立ちました。",
+    "en": "Then he slowed down. Held the phone where they could both see it. That helped."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "いったん落ち着いて、ふたりで見えるようにスマホを持ったんや。地図を見せるんも、焦るとうまくいかへんね。",
+    "en": "Once I calmed down, I held my phone so we could both see it. Showing the map won't go well if you rush."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。彼は緊張していて、一度にすべてを説明しようとしていた。",
+    "en": "Yeah. He was nervous, trying to explain everything at once."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "緊張して、いっぺんに全部説明しようとしてたんやな。まず一緒に地図を確認する。それだけでも、会話は進むんやね。",
+    "en": "I guess I was nervous and tried to explain everything at once. First, let's check the map together. That alone will move the conversation forward."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そこで、便利なものをご紹介します。 「地図を確認しましょう。」",
+    "en": "So, here's a handy one. \"Let's check the map.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「一緒に地図を確認しましょう」。道がちょっと曖昧なときにも使えるな。",
+    "en": "\"Let's check the map together.\" It can also be used when the road is a little vague."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に地図を確認しましょう。",
+    "en": "Let's check the map."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "レッツで「一緒にしよう」。チェックは「確認する」。ひとりで全部答えようとせんでもええんやね。",
+    "en": "Let's ``Let's do it together.'' Check \"Confirm\". You don't have to try to answer everything by yourself."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "電話は大丈夫です。または駅にある地図を利用してください。",
+    "en": "Your phone's fine. Or just use a map at the station."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "自分のスマホでも、駅の案内図でもええと。ほな、行き先を指さすつもりで、続けて言うてみて。",
+    "en": "Whether it's your smartphone or a guide map at the station. Hey, try saying it again while pointing to your destination."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に地図を確認しましょう。",
+    "en": "Let's check the map."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。自信ないまま右や左や言う前に、一緒に確認しよ。",
+    "en": "One more time. Before you say “right” or “left” without confidence, let’s check together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に地図を確認しましょう。",
+    "en": "Let's check the map."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "大阪でも地図が必要です。特に地下。",
+    "en": "I still need a map in Osaka, too. Especially underground."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークも大阪では地図見るんや。特に地下。あそこ、出た出口で景色ぜんぜん変わるもんな。",
+    "en": "Mark also looks at maps in Osaka. Especially underground. The scenery changes completely when you exit there."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ある時、私は出発点に戻ってきました。",
+    "en": "One time, I came back up right where I started."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "地下通って、最初と同じ場所に出たん？散歩としてはきれいにまとまってるな。",
+    "en": "Did you go underground and end up in the same place as the first time? It's well organized for a walk."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "待ち合わせには、遅れたけどな。",
+    "en": "I was late for the meeting."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、まとまってへんわ。で、ゆうじさんは地図で分かったん？",
+    "en": "Hey, I'm having a hard time keeping it together. So, did you find out Yuuji from the map?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。結局のところ、駅は彼の帰宅途中だった。",
+    "en": "Yep. Turns out, the station was on his way home."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちょうど帰り道にある駅やったんや。ここで、最初の「一緒に歩いた」に戻るんやな。",
+    "en": "I just stopped at the station on the way home. At this point, we return to the beginning of ``We walked together.''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それで、彼は「私が道を教えます」と言いたかったのです。",
+    "en": "So, he wanted to say, \"I can show you the way.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「案内しますよ」。説明するだけやなくて、手伝えるよって申し出る感じやね。",
+    "en": "\"I'll show you around.\" It's like they don't just explain it to you, they offer to help you."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内しますよ。",
+    "en": "I can show you the way."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ショー・ユー・ザ・ウェイで「道を教える、案内する」。今回は、帰り道やから一緒に行けるよ、って場面やな。",
+    "en": "``Show you the way, guide me'' with Show You the Way. This time, it's a scene where they say they can go together since they're on their way home."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ただ申し出て、少し待ってください。彼らは「はい、お願いします」と言うかもしれません。",
+    "en": "Just offer, then give them a second. They might say, \"Yes, please.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "声かけたら、まず相手の返事を待つ。「お願いします」って言うてくれたら案内するんやな。いきなり荷物持って歩きだしたら、びっくりするし。",
+    "en": "When you talk to someone, first wait for the other person to respond. If you say \"please,\" I'll show you around. I would be surprised if I suddenly started walking with my luggage."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてねえ、あなたは彼らと一緒に歩く必要はありません。ルートを説明するだけでも構いません。",
+    "en": "And hey, you don't have to walk with them. You can just explain the route."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "必ず一緒に歩かなあかんわけでもないんやね。自分が分かるところ、できる範囲で。ほな、練習しよ。",
+    "en": "It doesn't necessarily mean we have to walk together. To the best of my knowledge and ability. Hey, let's practice."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内しますよ。",
+    "en": "I can show you the way."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。行き先も分かった。道も分かる。「案内できますよ」。",
+    "en": "One more time. I knew where I was going. I know the way. \"I can show you around.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内しますよ。",
+    "en": "I can show you the way."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼らは駅で彼に感謝した。とても充実した一日でした。",
+    "en": "They thanked him at the station. Totally made his day."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅でお礼を言われて、ええ一日になったんや。英語が出てこなかったことばっかり、悔しがらんでもええのにな。",
+    "en": "I was thanked at the station, and the day was over. I can't help but regret that I couldn't speak English."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それが私が彼に言ったことです。彼は彼らを助けましたよね？次回は彼も一言。",
+    "en": "That's what I told him. He helped them, right? Next time, he'll have a few words, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今回は行動で助けた。次はそこに言葉もちょっと足せる。ええやん、そのくらいで。",
+    "en": "This time I helped by taking action. Next, we can add some words to it. Yeah, that's about it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ユウジはすぐにそれを試してみたかった。彼は「どこへ行くの？」と言いました。",
+    "en": "Yuji wanted to try it right then. He goes, \"Where are you going?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "早速マーク相手に練習したんや。「どこ行くん？」って、店の中で？",
+    "en": "I immediately practiced against Mark. “Where are you going?” Inside the store?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は「キッチンです」と言いました。そして彼は「道を教えてやろう」と言いました。",
+    "en": "I said, \"The kitchen.\" And he goes, \"I can show you the way.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "キッチン行く言うたら「案内しますよ」って。店のオーナー相手に、えらい自信ついたな。",
+    "en": "When I said I was going to the kitchen, she said, ``I'll show you around.'' I gained a lot of confidence in dealing with the store owner."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "そのまま皿洗いも、案内したかったわ。",
+    "en": "I also wanted to show you how to wash the dishes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは自分でしてな。ほな、私らも短くつなげてみよか。マークが旅行者役ね。",
+    "en": "Don't do that yourself. Hey, let's try making a short connection too. Mark plays the role of a traveler."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すみません。手伝ってもらえますか？",
+    "en": "Excuse me. Could you help me?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "もちろん。どこに行くの？",
+    "en": "Sure. Where are you going?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "この駅を探しています。",
+    "en": "I'm looking for this station."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "一緒に地図を確認しましょう。",
+    "en": "Let's check the map."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ああ、それは知っています。道を教えてあげることができます。",
+    "en": "Oh, I know it. I can show you the way."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい、お願いします。ありがとう！",
+    "en": "Yes, please. Thanks!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "行き先を聞いて、見せてもらった駅を地図で確認して、分かったら案内を申し出る。長い説明せんでも、会話が進んだな。",
+    "en": "Ask them where they are going, check the station they show you on the map, and once you know, offer to guide them. Even though I didn't have a long explanation, the conversation progressed."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "見る？いくつかの言葉を話せば、目的地にたどり着くでしょう。",
+    "en": "See? A few words, and you're getting somewhere."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "急ぐ必要はありません。試してみましょう。",
+    "en": "No rush. Let's give it a try."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。道を聞かれたけど、行き先がまだ分からへん。「どこに行きたいんですか？」。",
+    "en": "First one. I was asked for directions, but I still don't know where I'm going. \"Where do you want to go?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこに行きたいんですか？",
+    "en": "Where are you going?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。場所は聞けたけど、道がちょっと曖昧。「一緒に地図を確認しましょう」。",
+    "en": "Second. I was able to find the location, but the directions were a little vague. \"Let's check the map together.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に地図を確認しましょう。",
+    "en": "Let's check the map."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。そこなら道が分かる。手伝えるよ、とひと言。「案内しますよ」。",
+    "en": "Three. You can find your way there. Just say I'll help you. \"I'll show you around.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内しますよ。",
+    "en": "I can show you the way."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？三ついっぺんに出てこんでも、まずひとつ、次の機会に使えたらええな。",
+    "en": "How did you do it? Even if all three appear at once, it would be nice if I could use one for the next opportunity."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして、必要に応じて地図を使用してください。そうすることはわかっています。",
+    "en": "And hey, use the map if you need it. I know I will."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "地図が要るなら、ちゃんと見る。マークもな。次回は「まっすぐ」「右」「左」で、短く道を説明してみよか。",
+    "en": "If you need a map, look at it. Mark too. Next time, why don't you briefly explain the route using ``straight'', ``right'', and ``left''?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ニース。たぶん、ユウジはついに親指を休めることができるでしょう。",
+    "en": "Nice. Maybe Yuji can finally give his thumb a break."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "地図動かしてた、ゆうじさんの親指も休めると。あんたは休む前に、お皿片づけてな。",
+    "en": "Yuuji's thumb, which was moving the map, could rest. Before you go to rest, please clean up the dishes."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこに行きたいんですか？",
+    "en": "Where are you going?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "帰るねん。急に今日の練習で引き止めんといて。",
+    "en": "I'm not going home. I suddenly decided to stop him at today's practice."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "案内しますよ。",
+    "en": "I can show you the way."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "出口まで三歩や。気持ちだけ、もろとくわ。",
+    "en": "Three steps to the exit. It's just a feeling."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

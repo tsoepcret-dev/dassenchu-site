@@ -1,0 +1,614 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うーん……うーん……。",
+    "en": "Hmmm…hmm…."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、10分くらい「うーん」って言ってるね。",
+    "en": "Mika, you've been saying \"hmm\" for ten minutes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "えっ、もうじゅっぷんも？ ごめん、お店を探してて。",
+    "en": "Huh, ten minutes already? Sorry, I was looking for a restaurant."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "レストラン？何のために？",
+    "en": "A restaurant? For what?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "向こうでルームメイトやった子が、来週の土曜日に大阪に来るねん。",
+    "en": "My roommate over there is coming to Osaka next Saturday."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちょうど誕生日やから、ええお店でお祝いしたいなって。",
+    "en": "It's my birthday, so I wanted to celebrate at the store."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、いいですね！カリフォルニア出身の友達ですか？",
+    "en": "Oh, nice! Your friend from California?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。ほんまに久しぶり。",
+    "en": "yes. It's been a really long time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それで、どこへ行くのですか？",
+    "en": "So, where are you going?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それが問題。お寿司か、焼肉か、お好み焼きか……。",
+    "en": "That's the problem. Sushi, Yakiniku, Okonomiyaki..."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "良い選択肢が 3 つあります。それは簡単ですね。",
+    "en": "Three good choices. That sounds easy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "全然。どれもよさそうで、同じお店のページを行ったり来たりしてる。",
+    "en": "not at all. Everything looks good, so I keep going back and forth on the same store's pages."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、なんか、ええ案ない？",
+    "en": "Mark, do you have any ideas?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "推測させてください。決断ができないのです。",
+    "en": "Let me guess. You can't make up your mind."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "図星。それ、ええ言い方やな。",
+    "en": "hit the mark. That's a good way to say it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「make up your mind」は「心を決める」。",
+    "en": "\"Make up your mind\" means \"make up your mind.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "make は、ほかの言葉と組み合わさると、いろんな意味になるな。",
+    "en": "Make can have many different meanings when combined with other words."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。 「Make up your thought」は「決める」という意味です。フレーズ全体として学習してください。",
+    "en": "Right. \"Make up your mind\" means decide. Learn it as a whole phrase."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そこで私たちは「決断ができない」と言います。",
+    "en": "So we say, \"I can't make up my mind.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「I can't decide」も、会話でよう使うな。",
+    "en": "Don't use \"I can't decide\" in conversation either."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「I can't make up my mind」も、「どれにしよう」って迷ってるときに使える。",
+    "en": "``I can't make up my mind'' can also be used when you are unsure of what to do."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。私の後に続いて繰り返してください。",
+    "en": "Your turn. Repeat after me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "決められない。",
+    "en": "I can't make up my mind."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。",
+    "en": "One more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "決められない。",
+    "en": "I can't make up my mind."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私もそうですよ。日本のコンビニでは決められない。",
+    "en": "Me too, you know. In a Japanese convenience store, I can't make up my mind."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おにぎりが多すぎる。ツナマヨとかサーモンとか？毎回。",
+    "en": "Too many onigiri. Tuna mayo or salmon? Every time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "コンビニのおにぎり、種類多いもんな。",
+    "en": "There are many types of rice balls at convenience stores."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おにぎりも迷うけど、今は友だちの誕生日の話な。どうやって選ぼ。",
+    "en": "I'm not sure about the rice balls, but right now I'm talking about my friend's birthday. How do I choose?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "簡単な質問。あなたの友達が一番恋しいのは何ですか?",
+    "en": "Easy question. What does your friend miss the most?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "向こうにもお寿司屋さんはあるけど、日本のお寿司がいちばん恋しいって言うてた。",
+    "en": "There's a sushi restaurant over there, but he said he misses Japanese sushi the most."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それから寿司です。終わり。",
+    "en": "Then it's sushi. Done."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……ほんまや。迷う必要なかった。",
+    "en": "...Really. There was no need to hesitate."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お寿司に決定！ よさそうなお店も見つけたし、予約せなあかんな。",
+    "en": "Decided on sushi! I found a restaurant that looked good, so I decided to make a reservation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "電話するか、オンラインで予約しますか?",
+    "en": "Do you want to call, or book online?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "誕生日のお祝いのことも相談したいし、電話にしよかな。",
+    "en": "I'd like to talk to you about birthday celebrations, so I think I'll give you a call."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの言語であっても電話は怖いものです。",
+    "en": "Phone calls are scary, in any language."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "分かる。顔が見えへんと、緊張するよな。",
+    "en": "I understand. I get nervous because I can't see your face."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここでは、始めるための便利な方法を紹介します。",
+    "en": "Here's a useful way to start."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "予約をしたいのですが。",
+    "en": "I'd like to make a reservation."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「make a reservation」で「予約をする」。これも、ひとかたまりで覚えとこ。",
+    "en": "``Make a reservation'' with ``make a reservation.'' This is also something to remember in one go."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「I'd like to」は、「〜したいんですが」って丁寧な言い方。",
+    "en": "\"I'd like to\" is a polite way of saying \"I'd like to...\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「予約をしたい」というと、少し単刀直入に聞こえるかもしれません。 「～したいのですが」は丁寧なお願い方法です。",
+    "en": "\"I want a reservation\" can sound a little blunt. \"I'd like to\" is a polite way to ask."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "電話でもお店でも使えて、便利やな。",
+    "en": "It's convenient because you can use it on the phone or at the store."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次に、人数、曜日、時間を伝えます。 「2名様で、来週土曜日の午後7時からです。」",
+    "en": "Then give the number of people, the day, and the time. \"For two people, next Saturday at seven p.m.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私と友だちのふたりで、来週の土曜日、夜のしちじ。これで伝わるな。",
+    "en": "My friend and I will be having a night out next Saturday. Don't tell me this."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。",
+    "en": "Your turn."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "予約をしたいのですが。",
+    "en": "I'd like to make a reservation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。",
+    "en": "One more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "予約をしたいのですが。",
+    "en": "I'd like to make a reservation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ちなみに、夕食後、友達をここに連れて行きましょう。",
+    "en": "By the way, after dinner, bring your friend here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼女の誕生日に特別なカクテルを作ります。",
+    "en": "I'll make a special cocktail for her birthday."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに？ それは嬉しい。ありがとう！",
+    "en": "Really? That makes me happy. thank you!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それは「You made my day!」の素晴らしい瞬間です。",
+    "en": "That's a nice moment for \"You made my day!\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "おかげで最高の日になった！",
+    "en": "You made my day!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り！",
+    "en": "Exactly!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「You made my day」は、「あなたのおかげで、今日がいい日になった」。",
+    "en": "\"You made my day\" means \"Thanks to you, today was a good day.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まだカクテルは飲んでへんけど、そう言うてもらえただけで嬉しいわ。",
+    "en": "I haven't had a cocktail yet, but I'm glad to hear that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "誰かが何か良いことをしたときに使います。親切なメッセージ、ギフト、無料のデザート。",
+    "en": "Use it when someone does something nice. A kind message, a gift, or a free dessert."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "親切にしてもらったときや、嬉しい知らせをもらったときに使えるな。",
+    "en": "It can be used when someone does something kind to you or when you receive good news."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。このオファーはすでにあなたを幸せにしています。だからこそ、ここでは「made」が機能します。",
+    "en": "Right. The offer has already made you happy. That's why \"made\" works here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。",
+    "en": "Your turn."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おかげで最高の日になった！",
+    "en": "You made my day!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一度。",
+    "en": "One more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おかげで最高の日になった！",
+    "en": "You made my day!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、予約の練習してみよ。私がお客さん、マークはお店の人。",
+    "en": "Hey, let's practice making reservations. I'm the customer and Mark is the shopkeeper."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "海外旅行でも使えるしな。",
+    "en": "You can also use it when traveling abroad."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "こんにちは、お電話ありがとうございます。どんな御用でしょうか？",
+    "en": "Hello, thank you for calling. How can I help you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "こんにちは。予約をしたいのですが。",
+    "en": "Hello. I'd like to make a reservation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。何人分ですか？",
+    "en": "Sure. For how many people?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "2名様でしたら、来週土曜日の午後7時にお願いします。",
+    "en": "For two people, next Saturday at seven p.m., please."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "確かに。レギュラーコースとシェフのスペシャルコースどちらにしますか？",
+    "en": "Certainly. Would you like the regular course or the chef's special?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "うーん…決められない。おすすめは何ですか？",
+    "en": "Hmm... I can't make up my mind. What do you recommend?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "シェフ特製が大人気です。",
+    "en": "The chef's special is very popular."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "それではシェフ特製をお願いします。",
+    "en": "Then the chef's special, please."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "特別な日を祝っていますか？",
+    "en": "Are you celebrating a special occasion?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "はい！私の友達の誕生日です。",
+    "en": "Yes! It's my friend's birthday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "素晴らしい。私たちは彼女のために小さな誕生日デザートを用意できます。お名前を頂けますか？",
+    "en": "Wonderful. We can prepare a small birthday dessert for her. May I have your name?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "本当に？あなたは私の一日をとても充実させてくれました！名前はミカです。",
+    "en": "Really? You made my day! The name is Mika."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう、ミカ。次の土曜日の午後7時に2人用のテーブルがあります。それではまた。",
+    "en": "Thank you, Mika. A table for two next Saturday at seven p.m. See you then."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ感じ。みっつとも、ちゃんと使えたな。",
+    "en": "Yes, it feels like it. All of them worked fine."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。迷ってて、決められへん。「決められない」って言いたい。",
+    "en": "First one. I'm confused and can't decide. I want to say, \"I can't decide.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "決められない。",
+    "en": "I can't make up my mind."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。電話で、「予約をしたいんですが」って丁寧に切り出したい。",
+    "en": "Second. I want to politely say, ``I'd like to make a reservation'' over the phone."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "予約をしたいのですが。",
+    "en": "I'd like to make a reservation."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。親切にしてもらって、「おかげで最高の日になった」って伝えたい。",
+    "en": "Three. When someone is kind to me, I want to tell them, \"Thanks to you, it was the best day ever.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おかげで最高の日になった！",
+    "en": "You made my day!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言えた？ 出てこんかっても大丈夫。声に出したぶん、ちゃんと残るから。",
+    "en": "Did you say it? It's okay if you don't go out. If you say it out loud, it will stick."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカさん、もう一つ質問です。",
+    "en": "Mika, one more question."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "なに？",
+    "en": "what?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "カクテルを飲みに来る前に、お寿司の後にお好み焼きを食べるスペースはありますか？",
+    "en": "Before you come here for cocktails, will there be room for okonomiyaki after the sushi?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……行きたい。焼肉も。",
+    "en": "……i wanna go. Yakiniku too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "決断ができないのです。",
+    "en": "You can't make up your mind."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゃう。ぜんぶ食べたいだけ。",
+    "en": "Let's go. I just want to eat it all."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それも同じことです。",
+    "en": "That's the same thing."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゃう……はず。",
+    "en": "Oh... it should be."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "皆さん、ご清聴ありがとうございました。次回お会いしましょう！",
+    "en": "Thank you for listening, everyone. See you next time!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

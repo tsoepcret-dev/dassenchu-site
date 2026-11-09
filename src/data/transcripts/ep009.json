@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "営業中に、青い顔で「パスワードが漏れたかも」って言うてきたやつさ。その話、よかったら聞こうか？",
+    "en": "While I was at work, the guy came up to me with a blank look on his face and said, ``I think your password may have been leaked.'' Would you like to hear about that?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい、お願いします！私は一晩中平静を装った。ミカ、どうすればいいの？！",
+    "en": "Yes, please! I pretended to be calm all night. Mika, what do I do?!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あー、私AIエンジニアやから、セキュリティに関しては専門外やけど…。まず落ち着き。順番に聞かせて。何があったん？",
+    "en": "Ah, I'm an AI engineer, so I'm not an expert in security... First of all, calm down. Let me hear it in order. What happened?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "開店前にメールが届きました。 「荷物を配達できませんでした。ここをクリックしてください。」クリックしてしまいました。それからパスワードを入力しました。",
+    "en": "Before we opened, I got a text. “Your package couldn't be delivered. Click here.” I clicked it. Then I typed my password."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それな。荷物の不在通知を装う、よくある偽メッセージやな。押して、入力までしてもうたんか。",
+    "en": "That's it. It's a common fake message that pretends to be a missed package notification. Is it worth it to press and input?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてサービス中に、顧客は大きなハッキング ニュースについて話しました。クラウド サービスがランサムウェアの攻撃を受けました。企業や自治体は約500社。グラスを落としそうになった。",
+    "en": "And during service, a customer talked about big hacking news. A cloud service got hit by ransomware. About five hundred companies and local governments. I almost dropped a glass."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あのお客さんの話やな。ランサムウェアは、データを勝手に暗号化して使えんようにして、「元に戻したかったらお金払え」って要求する攻撃。報道では、一部のデータは取り出しや復元が難しい見通しって言われてたな。マークの件とは、別の話やけどな。",
+    "en": "It's about that customer. Ransomware is an attack that encrypts your data to make it unusable and then demands that you pay if you want it back. Reports have said that some data may be difficult to retrieve or restore. Mark's case is a different story, though."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "しかし、あなたは一日中 AI と仕事をしています。もしかしたら何か知っているでしょうか？泣く前に助けてください。",
+    "en": "But you work with AI all day. Maybe you know something? Please, help me before I cry."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "専門外は専門外やけど、AIの仕事してたら他人事ではおれんしな。分かる範囲で、一緒に整理しよか。英語のひと言も、一緒に覚えて帰ってな。",
+    "en": "It's not my area of ​​expertise, but if I were working on AI, I wouldn't want to be someone else's problem. Let's sort this out together to the best of our knowledge. Let's memorize every word of English and go home together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "頼むわ、ミカ先生。",
+    "en": "Please, Mika-sensei."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まず、ひとつめのひと言やね。怪しいメッセージを、相手が押す前に止めるときのひと言。",
+    "en": "First of all, let me say the first thing. A word to use when stopping a suspicious message before the other person clicks it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私には遅すぎます。もうクリックしてしまいました。",
+    "en": "Too late for me. I already clicked it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークは、もう押してもうたけどな。次に誰かが押しそうなとき、お客さんでも友だちでも、止められるようにしとこ。",
+    "en": "I could have pressed Mark already. Next time someone tries to push you, be it a customer or a friend, try to stop them."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "このような。 「そのリンクをクリックしないでください。」",
+    "en": "Like this. “Don't click that link.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「そのリンクは押さないでください」。ドント・クリック・ザット・リンク。",
+    "en": "\"Please don't click that link.\" Don't click that link."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのリンクは押さないでください。",
+    "en": "Don't click that link."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ドントが「〜しないで」、クリックが「押す」。ザット・リンクが「そのリンク」。相手の画面のメッセージを指す感じやね。",
+    "en": "Don't means \"don't...\" and click means \"push.\" That link is “that link”. It feels like it's referring to the message on the other person's screen."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "タップする前に言ってください。短い方が良いです。後で説明できます。",
+    "en": "Say it before they tap. Short is better. You can explain later."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "理由は後でええ。まず止める。マークも、押す前に、誰かにこれ言われたかったやろ。",
+    "en": "I'll tell you why later. Stop it first. Mark also wanted someone to tell him this before he pressed the button."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。昨日私に言ってください。",
+    "en": "Yes. Please say it to me yesterday."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "昨日には戻れんねん。ほな、マークに続けて。「そのリンクは押さないでください」。",
+    "en": "I can't go back to yesterday. Hey, continue with Mark. \"Please don't click that link.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのリンクは押さないでください。",
+    "en": "Don't click that link."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。相手が、今にも押しそうなときに。",
+    "en": "One more time. When the other person is about to push you."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのリンクは押さないでください。",
+    "en": "Don't click that link."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカさん、早速質問です。ハッカーは AI を使用してこれらのメッセージを作成しますか?日本語はとても自然でした。",
+    "en": "Mika, quick question. Do hackers use AI to write these messages? The Japanese was very natural."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "使うで。前は、不自然な日本語やったり翻訳っぽかったりして、気づけることも多かった。でもAIで自然な文章にされると、見た目だけでは見分けにくくなるんよ。",
+    "en": "Use it. Previously, there were many times when I noticed that the Japanese was unnatural or seemed like a translation. But when AI creates natural sentences, it becomes difficult to tell them apart just by looking at them."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "では、言葉が上手だからといってメッセージを信頼することはできないのでしょうか？",
+    "en": "So I can't trust a message just because the language is good?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そういうこと。文章が自然かどうかだけでは、判断できんようになってきてる。そこで大事になるんが、次のひと言や。",
+    "en": "That's what it is. It has become impossible to judge a sentence just by whether it sounds natural or not. The next word is important here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "では、メッセージが本物かどうかはどうすればわかるのでしょうか?",
+    "en": "So how do I know if a message is real?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "見た目やなくて、送ってきた相手を確かめるんや。二つ目のひと言やで。",
+    "en": "Check the person who sent it, regardless of how it looks. That's the second word."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "送信元を確認しましょう。",
+    "en": "“Let's check the sender.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「送信元を確認しましょう」。レッツ・チェック・ザ・センダー。",
+    "en": "\"Let's check the sender.\" Let's check the sender."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "送信元を確認しましょう。",
+    "en": "Let's check the sender."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "チェックが「確認する」、センダーが「送った人」。メッセージやメールの送り主のことやね。",
+    "en": "The check is \"confirm\" and the sender is \"the person who sent it\". It's about the sender of the message or email."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてリンクは使用しないでください。自分で公式アプリやウェブサイトを開きます。",
+    "en": "And don't use the link. Open the official app or website yourself."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "届いたリンクやなくて、自分で公式アプリとか、前から知ってるサイトを開いて確認する。これ、ほんまに大事やで。",
+    "en": "Instead of checking the link you received, open the official app or a site you already know and check. This is really important."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今度は差出人を確認してみます。 …変な電話番号ですね。",
+    "en": "Let me check the sender now. ...It's a strange phone number."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "知らん番号から「荷物が届けられません」って、だいぶ怪しいもんな。押す前に見たかったな。",
+    "en": "It's quite suspicious when an unknown number tells you that your package hasn't been delivered. I wish I had seen it before I pressed it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "知っている。リアルタイムで勉強してます。",
+    "en": "I know. I'm learning in real time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "勉強代、高うつきそうやけどな。ほな、マークに続けて。「送信元を確認しましょう」。",
+    "en": "The cost of studying seems expensive. Hey, continue with Mark. \"Let's check the sender.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "送信元を確認しましょう。",
+    "en": "Let's check the sender."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。怪しいメッセージが来た画面を、一緒に見るつもりで。",
+    "en": "One more time. I was planning to look at the screen with the suspicious message together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "送信元を確認しましょう。",
+    "en": "Let's check the sender."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここまでは人が騙される話やったけど、AIにも似たような話があるんよ。",
+    "en": "So far, we have talked about people being deceived, but there is a similar story with AI."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "待って。 AIも騙されるのか？",
+    "en": "Wait. Can AI be tricked, too?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あるで。プロンプトインジェクションって言うてな。AIが読むWebページや書類の中に、人には気づきにくい指示を隠しといて、AIにそっちを聞かせるやり方。",
+    "en": "There it is. It's called prompt injection. A method of hiding instructions that are difficult for humans to notice in the web pages and documents that the AI ​​reads, and having the AI ​​listen to them."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "メニューに「ウェイターに財布を渡してください」というメモのようなものでしょうか？",
+    "en": "Like a note on a menu that says, “Give the waiter your wallet”?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ例えやな。お客さんは気づかんのに、AIだけがその一文を読んで、従ってしまうかもしれん。",
+    "en": "Yeah, that's an example. Even though the customer doesn't notice, the AI ​​might just read that sentence and follow it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今は修正されていますか？ AIはそれをブロックできるでしょうか？",
+    "en": "Is it fixed now? Can AI block that?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まだ完全には防げてへんな。今年の研究でも、試したAIエージェントは、どれも一貫して防げんかったって報告されてるし、イギリスの機関も「完全になくすのは難しいかも」って言うてる。",
+    "en": "It's still not completely preventable. In this year's research, it was reported that all the AI ​​agents tested were consistently unable to prevent the virus, and a British agency said it might be difficult to eliminate it completely."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "では、職場ではまだ AI を信頼していますか?",
+    "en": "So at work, do you still trust your AI?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "信用はするけど、任せる範囲は小さくするな。お金を動かすとか、大事なデータを送るとか、そういう操作は、人が確認するまで勝手にさせへん。",
+    "en": "I trust you, but don't limit the scope of your entrustment. Operations such as moving money or sending important data are not allowed until someone confirms it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "送信者を確認するようなものです。ロボットに対しても。",
+    "en": "That's like checking the sender. Even for robots."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまや。人でもAIでも、「誰が言うてるん？」を確かめるのは同じやね。",
+    "en": "Really. Whether it's humans or AI, it's the same thing to check to see who's saying it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もう一つ。 AI にパスワードを教えたことはありますか?",
+    "en": "One more. Do you ever tell AI your passwords?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "入れへん。パスワードとか、大事な個人情報は、AIに渡さんのが基本や。",
+    "en": "I can't put it in. Basically, passwords and other important personal information should be passed on to AI."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "良い。さて最後のフレーズです。そのページにパスワードを入力しました。また、他のサイトでも同じパスワードを使用しています。",
+    "en": "Good. Now the last phrase. I typed my password on that page. And I use the same password on other sites, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、ひとつ漏れたら全部心配になるやつやな。ほな、いちばん大事なひと言や。",
+    "en": "If one thing leaks out, I'm worried about everything. Well, that's the most important word."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "パスワードを変えましょう。",
+    "en": "“Let's change the password.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「パスワードを変えましょう」。レッツ・チェンジ・ザ・パスワード。",
+    "en": "\"Let's change your password.\" Let's change the password."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "パスワードを変えましょう。",
+    "en": "Let's change the password."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "チェンジが「変える」、パスワードはそのまま。同じパスワードを使い回すんは、家と自転車と金庫を、同じ鍵で開けるようなもんやな。",
+    "en": "Change means \"change\", but the password remains the same. Reusing the same password is like opening your house, bicycle, and safe with the same key."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "1 つのキーですべてに対応。それは私です。",
+    "en": "One key for everything. That's me."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "サービスごとに変えて、使えるなら二段階認証もつけるのがええな。ほな、マークに続けて。「パスワードを変えましょう」。",
+    "en": "It would be a good idea to change it for each service and add two-step authentication if available. Hey, continue with Mark. \"Let's change your password.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "パスワードを変えましょう。",
+    "en": "Let's change the password."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。怪しいページで入力してしもたかも、って言う相手に。",
+    "en": "One more time. For people who think they may have entered information on a suspicious page."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "パスワードを変えましょう。",
+    "en": "Let's change the password."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、三つ全部、短いロールプレイで使ってみよか。マークがお客さん役な。",
+    "en": "Hey, why don't you use all three in a short role play? Mark is the customer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "このテキストを見てください。 「あなたのアカウントはロックされています。ここをクリックしてください。」タップしてみます。",
+    "en": "Look at this text. “Your account is locked. Click here.” I'm going to tap it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そのリンクは押さないでください。",
+    "en": "Don't click that link."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "なぜだめですか？",
+    "en": "Why not?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "送信元を確認しましょう。",
+    "en": "Let's check the sender."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "不思議な数字ですね。そして...すでにパスワードを別のページに入力してしまいました。",
+    "en": "It's a strange number. And... I already typed my password on another page."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "パスワードを変えましょう。",
+    "en": "Let's change the password."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう！",
+    "en": "Thank you!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "止めて、確かめて、変える。三つの順番がつながったな。",
+    "en": "Stop, check, and change. The three orders are connected."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "押す前に、これ言うてほしかったわ。",
+    "en": "I wish you'd said this before I pressed it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ゆっくりしてください。一度に 1 つの状況。",
+    "en": "Take your time. One situation at a time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。お客さんが、怪しいメッセージのリンクを押しそう。止めたいとき。「そのリンクは押さないでください」。",
+    "en": "First one. A customer is likely to click on a link with a suspicious message. When you want to stop. \"Please don't click that link.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのリンクは押さないでください。",
+    "en": "Don't click that link."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。そのメッセージ、誰から来たんか一緒に見たいとき。「送信元を確認しましょう」。",
+    "en": "Second. When you want to see who the message came from. \"Let's check the sender.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "送信元を確認しましょう。",
+    "en": "Let's check the sender."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。同じパスワードを使い回してるって聞いたから、変えてもらいたいとき。「パスワードを変えましょう」。",
+    "en": "Three. I heard that you are using the same password over and over again, so I want you to change it. \"Let's change your password.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "パスワードを変えましょう。",
+    "en": "Let's change the password."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？今日は、止める、確かめる、変える。この三つやったね。",
+    "en": "How did you do it? Today, I will stop, check, and change. You did these three."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そしてミカ、私は今何をすべきですか？今夜？",
+    "en": "And Mika, what should I do right now? Tonight?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今夜やることは、押してしもたページで入れたパスワードを変えること。同じパスワードを使ってるサイトも、全部変えてな。二段階認証をつけられるところは、つけてほしいわ。不安やったら、そのサービスの窓口にも相談な。",
+    "en": "What I'm going to do tonight is change the password I entered on the page I pressed. Change all sites where you use the same password. I would like to have two-factor authentication installed where possible. If you have any concerns, please contact the service representative."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。 AI側はどうなるのでしょうか？ AIが悪者なのか？",
+    "en": "Okay. And what about the AI side? Is AI the bad guy?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "悪者っていうより、道具やな。攻撃する人も使うし、守る側も、怪しい動きを見つけるのに使う。大事なんは、AIに任せる範囲と、人が確認するところを決めとくことやね。",
+    "en": "He's more of a tool than a villain. Attackers use it, and defenders use it to spot suspicious movements. The important thing is to decide what to leave to AI and what to check with humans."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "良い答えですね。閉店後のバーでも。",
+    "en": "That's a good answer. Even in a bar after closing time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "閉店後のバーで、真面目な話してもうたな。でも、こういうのは、ニュースになってからやと遅いこともあるからな。",
+    "en": "We could have a serious conversation at the bar after closing time. However, sometimes it takes a while for something like this to become news."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。今夜パスワードを変更するつもりです。実際に。",
+    "en": "Okay. I'm going to change my password tonight. For real."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "偉い。ほな、新しいのは、何個のサイトで使うつもりなん？",
+    "en": "great. Hey, how many sites are you planning on using the new one?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "全員です。覚えやすいです。",
+    "en": "All of them. It's easy to remember."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "全部て！それ、ひとつ漏れたら全部開いてまうやつやで。ほな、せめて、ちゃんと覚えられるん？",
+    "en": "Everything! If one thing leaks, they all open up. Hey, can you at least remember it properly?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "心配しないで。付箋に書きました。画面上にあります。",
+    "en": "Don't worry. I wrote it on a sticky note. Right on the screen."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それも、いちばんあかんやつ。今日の話、ちゃんと聞いてたんかいな。付箋は今すぐ剥がしや。怪しいメッセージのリンクは押さんように、パスワードの使い回しにも気をつけてな。今日はここまで。",
+    "en": "That's also the most dangerous thing. Did you listen to me properly today? Peel off the sticky note now. Don't click links in suspicious messages, and be careful about reusing passwords. That's all for today."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

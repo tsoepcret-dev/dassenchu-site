@@ -1,0 +1,650 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "なあマーク。ほんまに今日からポッドキャスト始めるん？",
+    "en": "Hey, Mark. Are we really starting a podcast today?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "せやで。もうマイクも買うたし、準備万端や。",
+    "en": "Yep. I’ve already bought a mic, so we’re all set."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その前に店の掃除せなあかんのちゃう？まだグラス残ってるで。",
+    "en": "Shouldn’t we clean up the bar first? There are still glasses out."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "まあまあ、仕事の話は置いとこうや。今日は記念すべき第1回やで。",
+    "en": "Come on, let’s leave work aside for now. This is our very first episode!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "いや、それも仕事やろ。まあええわ。で、何の番組なん？",
+    "en": "No, that's also work. Oh well. So, what program is it?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話や。日常のどうでもええ話から、使える英語を覚えてもらおうと思てな。",
+    "en": "English conversation. I wanted them to learn useful English from everyday trivial conversations."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうでもええ話って、自分で言うてもうてるやん。",
+    "en": "It doesn't matter, even if I say so myself."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "やあ、私はマークです。はじめまして！",
+    "en": "Hey, I'm Mark. Nice to meet you!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そして私はミカです。私の方もお会いできてうれしいです！",
+    "en": "And I'm Mika. Nice to meet you, too!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おお、なんか始まった感じするな。",
+    "en": "Oh, I feel like it's starting."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "せやろ？ほな、最初はわしらの自己紹介からいこか。",
+    "en": "Let's do it? Well, let's start by introducing ourselves."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゃんと英語も教えてや。マークの昔話だけで10分終わりそうやし。",
+    "en": "Please teach me English properly. It looks like it will last 10 minutes just talking about Mark's old stories."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほなマーク、まず英語で自己紹介してみて。",
+    "en": "Hona Mark, first of all, please introduce yourself in English."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私の名前はマーク・ジョンソンです。私は 35 歳で、シカゴ出身です。私は5年前に日本に来ました。今は大阪で小さなバーを経営しています。",
+    "en": "My name is Mark Johnson. I'm thirty-five years old, and I'm originally from Chicago. I came to Japan five years ago. Now I run a small bar in Osaka."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん、ちゃんとアメリカ人やった。",
+    "en": "Yes, I did it properly as an American."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "何回確認すんねん。",
+    "en": "How many times do you have to check it?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ところで、そもそも何で日本に来たん？",
+    "en": "By the way, why did you come to Japan in the first place?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ごねんまえに旅行で来てん。日本がめっちゃ気に入ってな。帰国してからもずっと日本のこと考えてたんや。",
+    "en": "Sorry, I came here on a trip. I really like Japan. Even after I returned to Japan, I kept thinking about Japan."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は日本が大好きになりました。",
+    "en": "I fell in love with Japan."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "日本が大好きになった、ってことやね。",
+    "en": "That means I've come to love Japan."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "せや。ほんで日本で英会話講師して、ツアーガイドもやって、最終的にバー開いてん。",
+    "en": "Saya. I taught English conversation in Japan, worked as a tour guide, and eventually opened a bar."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "転職の幅が広すぎるねん。英会話から酒場って。",
+    "en": "The range of career changes is too wide. From English conversation to bars."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "どっちも人としゃべる仕事やからな。",
+    "en": "Both jobs involve talking to people."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まあ、それは確かに。ほんで今は日本人の彼女もおるしな。",
+    "en": "Well, that's for sure. I also have a Japanese girlfriend now."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "おるで。結婚はまだやけどな。",
+    "en": "Orde. I'm not married yet."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あんた、英語教えるときより彼女に怒られてるときのほうが流暢に謝ってるやん。",
+    "en": "You apologize more fluently when your girlfriend is yelling at you than when you're teaching her English."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごめんなさい、ハニー。もう二度と起こらないでしょう。",
+    "en": "I'm sorry, honey. It won't happen again."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言い慣れすぎやろ！",
+    "en": "You're too used to saying that!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ほな、ここで英語の練習や。",
+    "en": "Hey, let's practice English here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私はシカゴ出身です。",
+    "en": "I'm from Chicago."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "これは、シカゴ出身です、という意味やな。地名を変えたら誰でも使えるで。",
+    "en": "This means I'm from Chicago. If you change the place name, anyone can use it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "東京出身です。",
+    "en": "I'm from Tokyo."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ええやん。みんなも自分の出身地を入れて言うてみよか。",
+    "en": "Yeah. Why don't you all tell us where you're from?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私はシカゴ出身です。",
+    "en": "I'm from Chicago."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "よし。ひとつ覚えたな。",
+    "en": "Okay. I remember one thing."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ほな次はミカやな。自己紹介してみ。",
+    "en": "Next up is Mika. Please introduce yourself."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "こんにちは、ミカです。私は28歳です。私は2年前に東京から大阪に引っ越してきました。 AIエンジニアとして働いており、Mark's barでアルバイトもしています。",
+    "en": "Hi, I'm Mika. I'm twenty-eight years old. I moved to Osaka from Tokyo two years ago. I work as an AI engineer, and I also work part-time at Mark's bar."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ええやん。英語うまいなぁ。",
+    "en": "Yeah. Your English is good."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そらカリフォルニアに留学してたからな。",
+    "en": "Well, I was studying abroad in California."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "しかもアメリカで結婚してたんやろ？",
+    "en": "And they were married in America, right?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん。アメリカ人と結婚したことあるで。",
+    "en": "Yeah. I've been married to an American."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おお。それはロマンチックですね。",
+    "en": "Wow. That's romantic."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "一年で離婚したけどな。",
+    "en": "We got divorced within a year."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おお。それは早かったです。",
+    "en": "Oh. That was quick."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ネット通販の返品みたいに言うな！",
+    "en": "Don't make it sound like you're returning a product online!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "いや、ごめんごめん。ほんで今は？",
+    "en": "No, sorry, sorry. What about now?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "私は独身です。",
+    "en": "I'm single."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "絶賛、彼氏募集中です。",
+    "en": "High praise, I'm looking for a boyfriend."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "独身で、付き合う準備ができています。",
+    "en": "Single and ready to mingle."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "何それ？",
+    "en": "What is that?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "独身で、出会いを楽しむ気満々っていう、ちょっとおもろい言い方や。",
+    "en": "It's a funny way of saying that you're single and are looking forward to meeting new people."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おお、ええやん。プロフィールに書いとこ。",
+    "en": "Oh, yes. Write it on your profile."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ほな、真面目な英語も教えとこか。仕事を紹介するときはこれや。",
+    "en": "Hona, I'm going to teach you some serious English too. This is how you introduce your work."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私はバーのオーナーとして働いています。",
+    "en": "I work as a bar owner."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "AIエンジニアとして働いています。",
+    "en": "I work as an AI engineer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "職業を伝えるときの言い方やで。自分の仕事に変えて練習してみよ。",
+    "en": "It's a way of expressing your occupation. Try practicing by turning it into your own job."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちなみに私、バーのバイト辞めたら、あんた困るやろ？",
+    "en": "By the way, if I quit my part-time job at the bar, you'd be in trouble, right?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "めっちゃ困る。レジの設定すら分からへん。",
+    "en": "I'm really in trouble. I don't even know how to set up the cash register."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "オーナーとしてどうなん、それ。",
+    "en": "As an owner, what do you think?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ほな次は趣味の話やな。英語で趣味を聞くときはこう言うで。",
+    "en": "Next, let's talk about hobbies. When asking people about their hobbies in English, say this."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "趣味は何ですか？",
+    "en": "What do you do for fun?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "休みの日とか、普段何して楽しんでるんって感じやな。",
+    "en": "I wonder what you usually do for fun on your days off."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "マーク、何を楽しんでいますか？",
+    "en": "Mark, what do you do for fun?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は日本中を旅行するのが大好きです。キャンプ、ハイキング、日本のコメディを見ることも好きです。",
+    "en": "I love traveling around Japan. I also enjoy camping, hiking, and watching Japanese comedy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま日本好きやなぁ。お笑いもめっちゃ詳しいし。",
+    "en": "I really like Japan. I also know a lot about comedy."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "せやろ。でも関西弁はまだ修行中や。",
+    "en": "Let's do it. But I'm still learning the Kansai dialect."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは知ってる。たまにイントネーション変やもん。",
+    "en": "I know that. Sometimes the intonation is weird."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ミカかて東京から来てまだ二年やろ。",
+    "en": "It's only been two years since Mika came from Tokyo."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "だから私も修行中や言うてるやん。",
+    "en": "That's why I say I'm still training."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私たちはまだ勉強中です!",
+    "en": "We're still learning!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せやな。ほんで私の趣味はDJとドラマ鑑賞やで。",
+    "en": "Seyana. My hobbies are DJing and watching dramas."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "私はヒップホップ、R&B、ソウルミュージックが大好きです。 DJやドラマ鑑賞も好きです。",
+    "en": "I love hip-hop, R&B, and soul music. I also enjoy DJing and watching TV dramas."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ミカ、店でもたまにDJしてくれるもんな。",
+    "en": "Mika also DJs at the store sometimes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん。けど、この前あんた私のDJ中に急に演歌かけたやろ。",
+    "en": "Yeah. But the other day, you suddenly started playing enka while I was DJing."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "あれは常連のおっちゃんの誕生日やったからな。",
+    "en": "That was because it was a regular guy's birthday."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せめて曲終わるまで待ってくれへん？",
+    "en": "Can you at least wait until the song ends?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "音楽は心でつながるもんや。",
+    "en": "Music connects us with our hearts."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "DJのミキサーから勝手にケーブル抜いてって、ようわ。",
+    "en": "DJのミキサーから勝手にケーブル抜いといて、よう言うわ。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ほなみんなも、自分の趣味を英語で言うてみよ。",
+    "en": "Everyone, let's say your hobbies in English."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は音楽を聴くのが大好きです。",
+    "en": "I love listening to music."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "趣味は何ですか？",
+    "en": "What do you do for fun?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "素晴らしい仕事だ！",
+    "en": "Great job!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな最後に、今日覚えた英語を使って練習してみよか。",
+    "en": "Finally, let's practice using the English we learned today."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "ええで。わしが質問するから、みんな英語で答えてな。",
+    "en": "Yeah. I'll ask you a question, so everyone should answer in English."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "こんにちは。はじめまして。あなたの名前は何ですか？",
+    "en": "Hi. Nice to meet you. What's your name?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ミカです。私の方もお会いできてうれしいです。",
+    "en": "I'm Mika. Nice to meet you, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこの出身ですか？",
+    "en": "Where are you from?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "私は東京出身ですが、今は大阪に住んでいます。",
+    "en": "I'm from Tokyo, but I live in Osaka now."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "職業はなんですか？",
+    "en": "What do you do?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "AIエンジニアとして働いています。",
+    "en": "I work as an AI engineer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "趣味は何ですか？",
+    "en": "What do you do for fun?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "音楽とDJが大好きです。",
+    "en": "I love music and DJing."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すごいですね。",
+    "en": "That's awesome."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どう？みんな、答えられたかな？",
+    "en": "copper? Were you able to answer everyone?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "全部できんでも大丈夫や。何回も聴いて、少しずつ覚えたらええねん。",
+    "en": "It's okay if you can't do everything. It's okay if you listen to it many times and memorize it little by little."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、今日の三つをもう一回だけ確認しよ。",
+    "en": "Hey, let's check today's three things one more time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私はシカゴ出身です。",
+    "en": "I'm from Chicago."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "AIエンジニアとして働いています。",
+    "en": "I work as an AI engineer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "趣味は何ですか？",
+    "en": "What do you do for fun?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これで今日の練習は終わり。どうやった？",
+    "en": "This concludes today's practice. How did you do it?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "いやぁ、楽しかったな。次回もわしの大阪生活の話でもしよか。",
+    "en": "Well, it was fun. Next time, let's talk about my life in Osaka."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "また何かやらかした話？",
+    "en": "Did you do something again?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "そんな毎回やらかしてへんわ。",
+    "en": "I don't want to do something like that every time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そういえば昨日、彼女と花火大会の話してたとき、めっちゃ気まずそうやったやん。",
+    "en": "Come to think of it, yesterday, when I was talking about the fireworks festival with my girlfriend, I felt really awkward."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "あ、それは……次回にしよ。",
+    "en": "Ah, that's for next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "絶対なんかあったやろ。",
+    "en": "There definitely was something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

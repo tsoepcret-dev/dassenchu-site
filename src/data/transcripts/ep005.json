@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ゆうじさん、今日も英語の練習して帰ったん？最近、店に来るたびに何か覚えてるな。",
+    "en": "Yuji-san, did you practice your English today? Lately, every time I come to the store, I remember something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。そして彼は別の駅の話をしました。誰かが彼に難波への行き方を尋ねました。",
+    "en": "Yeah. And he had another station story. Someone asked him how to get to Namba."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今度は「なんばにどうやって行くんですか？」って聞かれたんや。",
+    "en": "This time I was asked, ``How are you going to get to Namba?''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「ナンバ」と聞いて「ああ、知ってる！」と。大きな笑顔。とても自信があります。",
+    "en": "He heard “Namba” and went, “Oh, I know!” Big smile. Very confident."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "知ってる地名が聞こえたら、うれしいもんな。「そこやったら分かるで！」ってなる。",
+    "en": "It makes me happy to hear the name of a place I know. I'm like, \"You'll understand once you've done that!\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それから彼らは彼にホテルの予約を見せました。彼らは駅を求めていたわけではない。彼らはホテルに行きたかったのです。",
+    "en": "Then they showed him a hotel reservation. They weren't asking for a station. They wanted to get to their hotel."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "見せてもらったん、ホテルの予約やったんか。駅に行きたいんやなくて、ホテルまで行きたかったんやね。",
+    "en": "Did you show me the hotel reservations? I didn't want to go to the station, I just wanted to go to the hotel."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。彼はすでに電車の乗り方について説明を始めていた。",
+    "en": "Exactly. He'd already started explaining the train ride."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手はホテルの話してるのに、こっちは電車の説明を始めてたと。知ってる言葉ひとつで、先走ってもうたんやな。",
+    "en": "The other person was talking about the hotel, but I started explaining about the train. There's no point in getting ahead of yourself with just one word you know."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "説明する前に、もうひとつ聞かなあかんかったな。",
+    "en": "Before I explain, let me ask you one more thing."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今回は、駅で行き先を確かめるひと言やね。道を説明する前に、まず何を聞いたらええんやろ。",
+    "en": "This time, I'll just say something to confirm my destination at the station. Before I explain the route, what should I ask first?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まず、彼らがどこに行きたいのかを確認してください。駅？ホテル？どこか別の場所でしょうか？",
+    "en": "First, make sure you know where they want to go. A station? A hotel? Somewhere else?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅に行きたいんか、ホテルなんか、それとも別の場所なんか。地名が聞こえただけで、決めつけんことやな。",
+    "en": "Do you want to go to the station, a hotel, or somewhere else? Don't make a decision just by hearing the name of a place."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。駅について話している場合は、「どの駅ですか?」と尋ねることができます。",
+    "en": "Right. And if you're talking about stations, you can ask, “Which station?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅の話をしてると分かったら、「どの駅ですか？」。ウィッチ・ステイション。",
+    "en": "If you find out we're talking about the station, you'll ask, \"Which station?\" Witch Station."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの駅ですか？",
+    "en": "Which station?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ウィッチが「どの」、ステイションが「駅」。短いな。これなら、話の途中でも聞けそうやわ。",
+    "en": "Witch means “do” and station means “station”. It's short. If this is the case, you can listen to it even during the conversation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。もしかしたら駅名を知っているかもしれない。もしかしたら彼らの携帯電話にそれが入っているかもしれない。",
+    "en": "Yep. Maybe they know the station name. Maybe they have it on their phone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅名を言うてくれるかもしれんし、スマホに出してくれるかもしれん。最初から全部聞き取れんでもええんやね。",
+    "en": "They might tell you the station name, or they might send it to your smartphone. It's okay if you can't hear everything from the beginning."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。あなたはテストを受けているのではなく、チェックしているのです。",
+    "en": "Exactly. You're checking, not taking a test."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "試験ちゃうもんな。ほな、駅の名前を確かめるつもりで、マークに続けて。",
+    "en": "I'm going to take a test. Hona, I followed Mark to find out the name of the station."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの駅ですか？",
+    "en": "Which station?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。相手は電車で行きたいみたい。どの駅か確かめたいとき。「どの駅ですか？」。",
+    "en": "One more time. The other person seems to want to go by train. When you want to check which station it is. \"Which station?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの駅ですか？",
+    "en": "Which station?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ゆうじさんは、「なんば」って聞いた瞬間に、自分がいつも行く場所を思い浮かべたんやろな。",
+    "en": "The moment Yuuji heard the word \"Namba,\" he must have thought of the place he always goes."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。私もそうします。誰かが「駅」と言うと、私は自分が使っている駅を思い出します。",
+    "en": "Yeah. I do that, too. Someone says “the station,” and I think of the one I use."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「駅で待ち合わせな」だけで通じるつもりになって、違うところで待ってたりするもんな。",
+    "en": "Sometimes people just say, ``Let's meet at the station,'' and then they end up waiting somewhere else."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして、二人とも「私はここにいます」とメッセージを送ります。とても役に立ちます。",
+    "en": "And then you both text, “I'm here.” Very helpful."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたりとも「着いたで」って送ってるのに会えへんやつな。場所の名前まで送ってほしいわ。",
+    "en": "Both of us send messages saying, ``We're here,'' but we can't see each other. I would like you to send me the name of the place."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "だからこそ、名前を見ると役に立つのです。 「名前を見せてもらえますか？」と試してみてください。",
+    "en": "That's why seeing the name helps. Try, “Can you show me the name?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「名前を見せてもらえますか？」。駅の話をしてるときなら、駅名を見せてほしいって伝わるんやね。",
+    "en": "\"Can I see your name?\"駅の話をしてるときなら、駅名を見せてほしいって伝わるんやね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "名前を見せてもらえますか？",
+    "en": "Can you show me the name?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これ、聞き取れへんかったときにも使えるな。何回も聞き直して、だんだん焦ってくることあるし。",
+    "en": "This can also be used when you have trouble hearing.何回も聞き直して、だんだん焦ってくることあるし。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "絶対に。場所が書かれているのを見ると、その場所がわかることがあります。",
+    "en": "Definitely. Sometimes I recognize a place when I see it written down."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "耳では分からんかったけど、文字で見たら「ああ、そこか」ってなることあるね。",
+    "en": "I couldn't understand it with my ears, but when I see it in writing, I sometimes think, \"Oh, that's it.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして彼らに電話を持たせてください。名前を見ればいいだけです。",
+    "en": "And let them hold the phone. You just need to see the name."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "スマホは相手に持っててもらったままでええと。見せてもらうだけやね。",
+    "en": "I'll leave the smartphone in the hands of the other person. I just have to show it to you."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。ユウジさんはかなり身を乗り出し、観光客と頭がぶつかりそうになった。",
+    "en": "Right. Yuji leaned in so far, he and the tourist nearly bumped heads."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "見ようとして近づきすぎたんか。親切なんは分かるけど、画面の前で頭ぶつけんといてな。",
+    "en": "Did I get too close to see it? I know you're being kind, but don't bang your head in front of the screen."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ですから、彼らに少しスペースを与えてください。 「名前を見せてもらえますか？」",
+    "en": "So, give them a little space. “Can you show me the name?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "少し離れて、画面を見せてもらうつもりで。ほな、マークに続けて。",
+    "en": "I was going to step away a little and ask him to look at the screen. Hey, continue with Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "名前を見せてもらえますか？",
+    "en": "Can you show me the name?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。名前は聞いたけど、よく分からへん。そんなときに。",
+    "en": "One more time. I've heard the name, but I don't really understand it. At times like that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "名前を見せてもらえますか？",
+    "en": "Can you show me the name?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅名だけやなくて、ホテルとかお店の名前を見せてもらうときにも使えるんやね。",
+    "en": "It can be used not only to show station names, but also to show the names of hotels and shops."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。場所がわかれば、次のステップに進むことができます。",
+    "en": "Yep. Once you know the place, you can work out the next step."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まず、どこのことか分かるようにする。そのあとで、どうやって行くかを考えるんやな。",
+    "en": "First, make sure you understand what you're talking about. After that, I'll think about how to go about it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "間違った質問に対して完璧な答えを与えるよりもはるかに優れています。",
+    "en": "Much better than giving a perfect answer to the wrong question."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "違う質問に、めっちゃ丁寧に答えてもな。で、ゆうじさんはホテルの名前を見て、場所が分かったん？",
+    "en": "Even if you answer a different question very politely. So, Yuuji-san, did you know the location by looking at the name of the hotel?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼は地図でそれを見つけた。しかし、どの列車が必要なのかは分かりませんでした。",
+    "en": "He found it on the map. But he wasn't sure which train they needed."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "地図で場所は見つかった。でも、どの電車に乗ったらええかは自信がなかったんやね。",
+    "en": "I found the location on the map. However, I wasn't sure which train to take."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そこで彼は駅員を探しました。それが3つ目のフレーズ「駅員さんに聞いてみよう」です。",
+    "en": "So he looked for a station staff member. That's our third phrase: “Let's ask the station staff.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「駅員さんに聞いてみましょう」。レッツ・アスク・ザ・ステイション・スタッフ。",
+    "en": "\"Let's ask the station staff.\" Let's Ask the Station Staff."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "駅員さんに聞いてみましょう。",
+    "en": "Let's ask the station staff."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "レッツで「一緒にしよう」、アスクは「聞く」。ステイション・スタッフが「駅員さん」やね。",
+    "en": "Let's say \"Let's do it together,\" and Ask means \"Listen.\" Station staff are called \"station attendants.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すべての列車とすべてのプラットフォームを知る必要はありません。",
+    "en": "You don't have to know every train and every platform."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "全部の電車や乗り場を知ってなあかんわけちゃうもんな。分かる人につなぐのも、ちゃんとお手伝いや。",
+    "en": "If you don't know all the trains and boarding stations, you won't be able to do it. Please help me connect you with someone who understands."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。 「駅員さんに聞いてみましょう。」",
+    "en": "Exactly. “Let's ask the station staff.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、一緒に駅員さんを探すつもりで、マークに続けて。",
+    "en": "Hona, I was going to look for the station staff together, so I followed Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "駅員さんに聞いてみましょう。",
+    "en": "Let's ask the station staff."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。行き先は分かったけど、乗る電車に自信がない。そんなときに。",
+    "en": "One more time. I know where I'm going, but I'm not sure which train to take. At times like that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "駅員さんに聞いてみましょう。",
+    "en": "Let's ask the station staff."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これ、言うたあとに黙って歩きだしたら、相手がついてきてええんか迷うこともありそうやな。",
+    "en": "これ、言うたあとに黙って歩きだしたら、相手がついてきてええんか迷うこともありそうやな。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。少し待ってから答えてください。それなら一緒に行ってもいいよ。",
+    "en": "Yeah. Give them a second to answer. Then you can go together."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まず相手の返事を待つ。ほな、短くつなげて練習しよか。今回は、駅に行きたい人を案内する場面ね。",
+    "en": "First, wait for the other person's reply. Hey, let's practice connecting them in short bursts.今回は、駅に行きたい人を案内する場面ね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私が旅行者になります。駅名は知っていますが、そこへの行き方がわかりません。",
+    "en": "I'll be the traveler. I know the station name, but I'm not sure how to get there."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークが旅行者役。駅名はスマホに出してある設定で、私が確認するで。",
+    "en": "Mark plays the role of a traveler. The station name is in the settings on my smartphone, so I'll check it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すみません。駅まで行くのを手伝ってくれませんか？",
+    "en": "Excuse me. Can you help me get to the station?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "もちろん。どの駅ですか？",
+    "en": "Sure. Which station?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どう言えばいいのかわかりません。携帯に名前が入ってます。",
+    "en": "I'm not sure how to say it. I've got the name on my phone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "名前を見せてもらえますか？",
+    "en": "Can you show me the name?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。ここにあります。",
+    "en": "Sure. Here it is."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここで画面の駅名を確認。でも、私は行き方が分からへん。そんなときは、知ってるふりをせずに。",
+    "en": "Check the station name on the screen here. But I don't know how to get there.そんなときは、知ってるふりをせずに。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "駅員さんに聞いてみましょう。",
+    "en": "Let's ask the station staff."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。ありがとう！",
+    "en": "Okay. Thank you!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "行き方までは答えられへんかったけど、次にどうしたらええかは、一緒に考えられたな。",
+    "en": "I couldn't tell you exactly how to get there, but we were able to think about what to do next."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。あなたは私が次の一歩を踏み出すのを助けてくれました。それで十分です。",
+    "en": "Yep. You helped me take the next step. That's enough."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ゆっくりしてください。一度に 1 つの質問です。",
+    "en": "Take your time. One question at a time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。相手は駅に行きたいみたい。どの駅か、確かめたいとき。「どの駅ですか？」。",
+    "en": "First one. It seems like the other person wants to go to the station. When you want to check which station it is. \"Which station?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの駅ですか？",
+    "en": "Which station?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。行き先の名前が、よう聞き取れんかった。相手はスマホに出せるみたい。そんなとき。「名前を見せてもらえますか？」。",
+    "en": "Second. I couldn't quite catch the name of my destination. It looks like the other person can send it to their smartphone. At times like that. \"Can I see your name?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "名前を見せてもらえますか？",
+    "en": "Can you show me the name?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。行き先は分かったけど、乗る電車が分からん。そんなとき。「駅員さんに聞いてみましょう」。",
+    "en": "Three.行き先は分かったけど、乗る電車が分からん。 At times like that. \"Let's ask the station staff.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "駅員さんに聞いてみましょう。",
+    "en": "Let's ask the station staff."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？今日は、道を教える前に確かめるひと言と、分からんときに頼るひと言やったね。",
+    "en": "How did you do it? Today, I told you something to confirm before giving directions, and something to rely on when you don't understand."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すべての答えを持っている必要はありません。まずは質問を理解することから始めましょう。",
+    "en": "You don't need to have all the answers. Start by understanding the question."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "全部答えられんでもええ。まず、相手が何を知りたいんか分かるところからやな。",
+    "en": "It's okay if you can't answer them all. First, you need to understand what the other person wants to know."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ユウジさんはそこが大変だったと言っていました。彼は本当に助けたかったので、あまりにも急いで始めました。",
+    "en": "Yuji said that was the hard part. He wanted to help so badly, he started too fast."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "助けたい気持ちが強くて、説明を急いでもうたんやね。ひと言聞き返すほうが、結局早いこともあるな。",
+    "en": "I had a strong desire to help, so I was in a hurry to explain. Sometimes it's faster to just ask someone back."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。最終的には、駅員が正しい列車を見つけるのを手伝ってくれました。ユウジは彼らが理解するまでそこにいた。",
+    "en": "Yeah. In the end, the station staff helped them find the right train. Yuji stayed until they understood."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は駅員さんに確認できて、相手が分かるまで一緒におったんや。ちゃんと助けられたやん。",
+    "en": "In the end, I was able to confirm with the station staff, and I stayed with them until I knew who it was. I was able to help you properly."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼はそうしました。それから彼はここに来て、すべての話を私に話しました。",
+    "en": "He did. Then he came here and told me the whole story."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それで、今日はあんなに話してたんやな。マークも最後まで聞いてあげたん？",
+    "en": "That's why we talked so much today. Did you listen to Mark till the end?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。それから彼は「何か食べましょう」と言いました。",
+    "en": "Of course. Then he said, “Let's get something to eat.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "練習のあとは、ごはんか。どこ行くことになったん？",
+    "en": "After practice, how about some food? Where are you going?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼は「ナンバ」と言った。私は「わかりました、もう少し情報が必要になります。」と言いました。",
+    "en": "He said, “Namba.” I said, “Okay, we're going to need a little more information.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そこは、今日いちばん確認したいとこやな。次回は、おすすめを聞かれたときの英会話。「何がおいしい？」って聞かれても、全部うまいとしか出てこん。相手の好みを聞いてから、これどう？って出せるようになろか。",
+    "en": "That's what I want to confirm the most today. Next time, I will talk about English conversation when asked for recommendations. When asked, \"What's delicious?\" all I can say is that it's delicious. After asking the other person what they like, how about this? I wonder if I'll be able to say that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、ちょっと相談してええ？ロスに住んでる友達が、日本に遊びに来るねん。大阪にも寄るって。",
+    "en": "Mark, can I ask you something? My friend who lives in Los Angeles is coming to visit Japan. He's also going to stop by Osaka."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、いいですね！ LAから来た友人です！最後に彼らに会ったのはいつですか?",
+    "en": "Oh, nice! A friend from L.A.! When did you last see them?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう何年も会ってへん。せっかく来るんやから、あちこち連れていきたくて。これ、私が考えた予定。",
+    "en": "We haven't seen each other for many years. Since you are coming, I want to take you here and there. This is the plan I came up with."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "お城、水族館、ショッピング、ランチ、コーヒー…これは 1 日ですか、それとも全旅ですか?",
+    "en": "A castle, an aquarium, shopping, lunch, coffee... Is this one day or the whole trip?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "一緒に回れる日の、午後の分。あと、夜ごはんの前に、ちょっと川沿いも歩こうかなって。",
+    "en": "In the afternoon on the day we can go around together. Also, before dinner, I thought I'd take a walk along the river."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして、実際に一緒にいる時間はどのくらいですか？",
+    "en": "And how much time do you actually have together?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その日は、夕方から友達に別の約束があるねん。昼に会うから……２時間くらい？",
+    "en": "That day, I have another appointment with my friend in the evening. I'll meet you in the afternoon...about 2 hours?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "2時間？ミカ、今日は休日じゃないよ。体力テストです。",
+    "en": "Two hours? Mika, this isn't a holiday. It's a fitness test."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "体力測定ちゃうわ！でも、これ全部回ったら、思い出より筋肉痛が残りそうやな。",
+    "en": "Let's measure your physical strength! But if I go through all of this, I'm sure my muscles will be more sore than I remember."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "久しぶりの再会で、まず準備運動やな。",
+    "en": "It's been a long time since we met again, so first of all, we're warming up."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "前回は、食べ物の好みを聞いてから勧めようって言うてたのに。私、自分が連れていきたいところばっかり考えてたわ。",
+    "en": "Last time, I said I would ask them about their food preferences and then recommend them. I was thinking about all the places I wanted to take."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それは起こります。あなたは友達に会えるのを楽しみにしています。しかし、彼らは何がしたいのでしょうか？",
+    "en": "It happens. You're excited to see your friend. But what do they want to do?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そこ、まだ聞いてへん。「大阪来るん？任せて！」って、先に返事してもうた。",
+    "en": "I haven't heard about that yet. ``Are you coming to Osaka? Leave it to me!'' I replied first."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それからこれから始めてください。 「何がしたいですか？」",
+    "en": "Then start with this. “What would you like to do?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「何をしたいですか？」。ワット・ウッド・ユー・ライク・トゥ・ドゥ。",
+    "en": "\"What do you want to do?\" What Would You Like to Do?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何をしたいですか？",
+    "en": "What would you like to do?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "前回の「どんな食べ物が好きですか？」は好みの話。今回は、大阪で何をしたいか聞くんやね。",
+    "en": "The previous question, \"What kind of food do you like?\" was about preferences. This time, I'm going to ask you what you want to do in Osaka."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。丁寧でフレンドリーな質問です。お友達同士でも使えますよ。",
+    "en": "Exactly. It's a polite, friendly question. You can use it with your friend, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "丁寧やけど、友達にも普通に使えるんや。ちょっと長いから、分けて練習してもええ？",
+    "en": "It's polite, but you can also use it with friends. It's a bit long, so can we practice separately?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。 「何をしたいですか...」「何をしたいですか？」次に、それらを組み合わせます。",
+    "en": "Sure. “What would you like...” “to do?” Then put them together."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "前半と後半をつなぐんやね。ほな、友達に聞くつもりで、マークに続けて。",
+    "en": "It connects the first half and the second half. Hona, I was going to ask my friend, but I continued with Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何をしたいですか？",
+    "en": "What would you like to do?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。大阪を案内する前に、まず相手の希望を聞きたい。「何をしたいですか？」。",
+    "en": "One more time. Before I show people around Osaka, I want to first ask them what their wishes are. \"What do you want to do?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何をしたいですか？",
+    "en": "What would you like to do?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "でも、「何でもええよ、任せる」って返ってきそうやな。前から、そういうところあるねん。",
+    "en": "But I think they'll probably say, ``Whatever you want, I'll leave it to you.'' That kind of thing has been going on for a long time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次に、小さな選択肢を提案します。 「食事ですか、それとも買い物ですか？」彼らに始める場所を与えてください。",
+    "en": "Then offer a small choice. “Food or shopping?” Give them somewhere to start."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "食べるか、買い物か。ふたつくらいやったら答えやすいな。私の予定表、全部に丸つけてほしいアンケートやったわ。",
+    "en": "Eating or shopping? It's easy to answer once you've tried two things. I did a survey where I wanted people to circle everything on my calendar."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「座りたいです」と書くスペースもない。",
+    "en": "With no space to write, “I'd like to sit down.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「座りたい」の欄、作っとくわ。したいことの次は、さっきマークが聞いてくれた、時間の話やね。",
+    "en": "I'm going to create a column for \"I want to sit down.\" The next thing I want to do is talk about time, which Mark asked me about earlier."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。 「どれくらい時間がありますか？」",
+    "en": "Right. “How much time do you have?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「どのくらい時間がありますか？」。ハウ・マッチ・タイム・ドゥ・ユー・ハヴ。",
+    "en": "\"How much time do you have?\" How Much Time Do You Have?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どのくらい時間がありますか？",
+    "en": "How much time do you have?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ハウ・マッチ・タイムで「どのくらいの時間」。今、何時ですかって聞いてるんとは違うんやね。",
+    "en": "\"How Much Time\" with How Much Time. It's different from asking what time it is."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。あなたは彼らがどのくらいの時間を費やすことができるかを尋ねています。 1時間？ 2時間？午後ずっと？",
+    "en": "Exactly. You're asking how much time they can spend. An hour? Two hours? All afternoon?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "１時間なんか、２時間なんか、午後ずっとなんか。私も「２時間くらい」やなくて、ちゃんと聞いとかな。",
+    "en": "Maybe an hour, maybe two hours, maybe all afternoon. I didn't say \"about 2 hours\" either, but listened carefully."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして、その後はどこに行く必要があるのでしょうか？そこに着くまで時間を残してください。",
+    "en": "And where do they need to be afterward? Leave time to get there."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "次の約束の場所に行く時間もいるもんな。私と２時間遊んでから出発したら、間に合わんかもしれん。",
+    "en": "I still have time to go to my next appointment. If you play with me for two hours and then leave, you might not make it in time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。自由な午後と約束の 2 時間前は大きく異なります。",
+    "en": "Right. A free afternoon and two hours before an appointment are very different."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "午後が丸ごと空いてるんと、約束まで２時間あるんとは違う。楽しかったのに、最後だけ全力疾走は嫌やな。",
+    "en": "Having the entire afternoon free is different from having two hours until an appointment. Even though it was fun, I didn't want to go all out at the end."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。少し時間に余裕を持ってください。立ち止まって話してみるといいかもしれません。",
+    "en": "Exactly. Leave a little extra time. You might want to stop and talk."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "久しぶりやし、絶対しゃべるわ。ほな、使える時間を確かめるつもりで、マークに続けて。",
+    "en": "It's been a while since we last talked, so we'll definitely talk. Hona, I'm going to check the time I can use, so I'm going to follow Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どのくらい時間がありますか？",
+    "en": "How much time do you have?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。予定を決める前に。「どのくらい時間がありますか？」。",
+    "en": "One more time. before making plans. \"How much time do you have?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どのくらい時間がありますか？",
+    "en": "How much time do you have?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "でもな、久しぶりの友達と会うたら、最初の「元気やった？」だけで30分くらいたつやん。",
+    "en": "But, when I meet up with a friend I haven't seen in a while, it takes about 30 minutes just to ask them, \"How are you?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それからそれを計画に入れます。こんにちは、30分です。",
+    "en": "Then put that in the plan. Thirty minutes for hello."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんで、別れ際の「またな」が20分。もう観光する時間、だいぶ減ったで。",
+    "en": "The ``matana'' before we parted was 20 minutes long. I have less time to sightsee."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "しかし、すでに良い訪問になっているようです。",
+    "en": "But it sounds like a good visit already."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そっか。しゃべってる時間も、会う楽しみのうちやもんな。場所をいっぱい回るだけが、おもてなしちゃうね。",
+    "en": "I see. The time we spend talking is part of the fun of meeting us. It's a treat just to visit many places."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。友達が大阪を上から見たいと言ったら、通天閣はいかがですか?",
+    "en": "Exactly. If your friend wants to see Osaka from above, how about Tsutenkaku?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "大阪の景色を上から見たいんやったら、通天閣もええな。一緒に行こうって提案するには、何て言うたらええ？",
+    "en": "If you want to see the scenery of Osaka from above, Tsutenkaku is a must. What should I say to suggest that we go together?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「通天閣に行ってもいいよ」って言えます。",
+    "en": "You can say, “We could visit Tsutenkaku.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「一緒に通天閣に行くのもいいね」。ウィー・クッド・ヴィジット・ツーテンカク。",
+    "en": "\"It would be nice to go to Tsutenkaku together.\" We Could Visit."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に通天閣に行くのもいいね。",
+    "en": "We could visit Tsutenkaku."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "クッドって、「できた」って覚えてたけど、ここは過去の話ちゃうんやね。",
+    "en": "I remember saying \"I was able to do it\", but this is a story from the past."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。 「できる」というのは、一緒にやることを検討できるという意味です。それは提案です。",
+    "en": "Right. “We could” means it's something we can consider doing together. It's a suggestion."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「一緒にこんなんどう？」って提案なんや。「ここ行くで、次ここやで」って、私が全部決めんでもええんやな。",
+    "en": "My suggestion was, ``How about we do something like this together?'' I don't have to make all the decisions like, ``Let's go here, then here.''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。それを提案して、友達がどう思うか見てみましょう。",
+    "en": "Exactly. Suggest it, then see what your friend thinks."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "提案したら、友達の返事も聞く。ほな、一緒に出かけるつもりで、マークに続けて。",
+    "en": "If you make a suggestion, listen to your friend's response. Hona, I'm going to go out with you, so follow Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に通天閣に行くのもいいね。",
+    "en": "We could visit Tsutenkaku."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。大阪の景色を見たい友達に。「一緒に通天閣に行くのもいいね」。",
+    "en": "One more time. For friends who want to see the scenery of Osaka. \"It would be nice to go to Tsutenkaku together.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に通天閣に行くのもいいね。",
+    "en": "We could visit Tsutenkaku."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "実際に行くときは、営業時間や待ち時間、次の約束に間に合うかも確認やね。ほな、友達に聞く練習してもええ？",
+    "en": "When you actually go, check the business hours, waiting time, and whether you'll be on time for your next appointment. Hey, can I practice asking my friends?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。私はあなたの友達になります。チェックを終えて、出発まで十分な時間があったと想像してみましょう。",
+    "en": "Of course. I'll be your friend. Let's imagine we've checked, and we have enough time to go."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークがロスの友達役な。ここからは、移動や待ち時間も確認して、次の約束までに戻れる設定で。",
+    "en": "Mark plays Ross's friend. From here, you can check your travel and waiting times, and make settings so that you can return before your next appointment."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカさんに会えて本当に嬉しいです！それで、計画は何ですか？",
+    "en": "I'm so happy to see you, Mika! So, what's the plan?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "何をしたいですか？",
+    "en": "What would you like to do?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "大阪を上から見てみたいです。",
+    "en": "I'd like to see Osaka from above."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "どのくらい時間がありますか？",
+    "en": "How much time do you have?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "約2時間。それからホテルに戻らなければなりません。",
+    "en": "About two hours. Then I need to be back at the hotel."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "大阪の景色を上から見たい。ホテルに戻るまで２時間。今回は時間も確認できてるから、通天閣を提案してみるで。",
+    "en": "I want to see the scenery of Osaka from above. It took 2 hours to get back to the hotel. This time I can confirm the time, so I'll suggest Tsutenkaku."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "一緒に通天閣に行くのもいいね。",
+    "en": "We could visit Tsutenkaku."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それは素晴らしいですね！以前にそこに行ったことがありますか？",
+    "en": "That sounds great! Have you been there before?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "実は行ったことがないんです。私も初めてになります。",
+    "en": "Actually, I've never been there. It'll be my first time, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "本当に？それなら一緒に調べてみましょう！",
+    "en": "Really? Then we can explore it together!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "実は、私もまだ行ったことないねん。大阪に住んでても、行ってへんところってあるやん。友達と一緒に初めて行くんも、楽しそうやな。",
+    "en": "Actually, I haven't been there yet either. Even if you live in Osaka, there are places you can't go to. It's going to be fun to go with friends for the first time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。あなたの友人もあなたに会いに来ます。大阪だけじゃないよ。",
+    "en": "Exactly. Your friend is coming to see you, too. Not just Osaka."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ゆっくりしてください。一度に 1 つの質問です。",
+    "en": "Take your time. One question at a time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。日本に遊びに来る友達に、まず希望を聞きたい。「何をしたいですか？」。",
+    "en": "First one. First of all, I would like to ask my friends who are coming to Japan what their hopes are. \"What do you want to do?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何をしたいですか？",
+    "en": "What would you like to do?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。一緒に回る予定を決める前に、使える時間を確かめたい。「どのくらい時間がありますか？」。",
+    "en": "Second. Before deciding on a plan to go around together, I would like to check the available time. \"How much time do you have?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どのくらい時間がありますか？",
+    "en": "How much time do you have?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。大阪の景色を見たい友達に、一緒に行こうと提案したい。「一緒に通天閣に行くのもいいね」。",
+    "en": "Three. I would like to suggest to a friend who wants to see the scenery of Osaka that we go together. \"It would be nice to go to Tsutenkaku together.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一緒に通天閣に行くのもいいね。",
+    "en": "We could visit Tsutenkaku."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？今日は、何をしたいか聞いて、時間を確かめて、ひとつ提案する。この順番やったね。",
+    "en": "How did you do it? Today, I ask them what they want to do, check the time, and make a suggestion. You did it in this order."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "友達にすべてを見せる必要はありません。一緒にいることを楽しむために余裕を残してください。",
+    "en": "You don't have to show your friend everything. Leave room to enjoy being together."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "大阪の全部を見せようとせんでもええ。一緒に楽しむ余裕を残しとくんやな。ほな、今ちょっと聞いてみよ。",
+    "en": "I don't want to show you all of Osaka. I'll leave you some time to enjoy it together. Hey, listen to me for a moment."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "良いアイデア。 「何をしたいですか？」から始めましょう。",
+    "en": "Good idea. Start with, “What would you like to do?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……あ、ちょうど向こうもスマホ見てたみたい。返事来た。「一緒に何か食べて、ゆっくり話したい」って。",
+    "en": "...Ah, it looks like the other person was also looking at their smartphone. I got a reply. ``I want to eat something together and talk slowly.''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "さあ、どうぞ。ツアー全体を計画していたんですね。彼らはあなたと一緒にランチをしたかったのです。",
+    "en": "There you go. You were planning a whole tour. They wanted lunch with you."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私とごはん食べたかったんや。なんか、うれしいな。予定表に書くこと、急に少なくなったわ。",
+    "en": "You wanted to eat dinner with me. I'm kind of happy. There was suddenly less to write on my schedule."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "計画性が少なくなります。さらに追いつきます。",
+    "en": "Less planning. More catching up."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あ、もうひとつ。「いつも話に出てくる、マークのバーにも行ってみたい」やって。別の日の夜に来てもええ？",
+    "en": "Oh, one more thing. ``I want to go to Mark's bar, which we always talk about,'' he said. Can I come another night?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん！シカゴのこと、大阪に来た経緯、初めてのバーのことを話します—",
+    "en": "Of course! I'll tell them about Chicago, how I came to Osaka, my first bar—"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "待って。まだ友達、ロスにおるねん。来る前から、話を全部始めんといて。",
+    "en": "hang on. My friend is still in Los Angeles. Please start talking about everything before you arrive."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そうそう。ここに着くと最初の質問は「時間はどれくらいありますか?」",
+    "en": "Right. First question when they get here: “How much time do you have?”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "観光の相談やったのに、最後はマークの話の長さを確認する英語になったな。次回は、困ってる人に声をかける英会話。「大丈夫？」のその先を聞いて、手伝ってくれる人につなぐ練習をしよか。",
+    "en": "We were talking about sightseeing, but in the end I turned to English to check the length of Mark's story. Next time, we will have an English conversation where we talk to people who are in trouble. Let's practice asking beyond \"Are you okay?\" and connecting you with someone who can help."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

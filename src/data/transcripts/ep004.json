@@ -1,0 +1,620 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっき、ゆうじさんと何してたん？ふたりで右向いたり左向いたり。閉店後の体操？",
+    "en": "What were you doing with Yuuji earlier? Both of us turned to the right and to the left. Exercise after closing?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ、道案内の練習をしていました。雄二はあの駅の話の後、もう一度やりたいと思った。",
+    "en": "Oh, we were practicing directions. Yuji wanted to try again after that station story."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "この前、英語が出てこなくて、一緒に駅まで歩いた話な。今度は言葉でも案内したいんや。",
+    "en": "The other day, I couldn't speak English and we walked to the station together. This time I would like to guide you in words."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。彼は「道を教えてやろう」と思い出した。それから彼は次の部分で行き詰まってしまいました。",
+    "en": "Yeah. He remembered, “I can show you the way.” Then he got stuck on the next part."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「案内しますよ」は言えた。でも、その先の「まっすぐ行って、右」が出てこんかったんやね。",
+    "en": "\"I'll show you around,\" I said. However, I couldn't get the message \"Go straight, right\" beyond that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。そこで彼は手を使いました。それから彼の肩。すぐに彼の全身が指示を出し始めた。",
+    "en": "Exactly. So he used his hands. Then his shoulders. Pretty soon, his whole body was giving directions."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "手だけやなくて、肩も体も使ってたん？それで、ふたりしてくるくる回ってたんか。",
+    "en": "Did you use your shoulders and body, not just your hands? So, the two of you were spinning around."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "私は彼の後を追った。どういうわけか、私たちは冷蔵庫と向き合うことになりました。",
+    "en": "I followed him. Somehow, we ended up facing the fridge."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "駅に案内する練習で、冷蔵庫に到着。目的地、だいぶ近くなったな。",
+    "en": "We arrived at the refrigerator while practicing guiding them to the station. The destination is getting closer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "飲み物までは、迷わず着くねんけどな。",
+    "en": "As for the drinks, I didn't have to worry about getting there."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今回は、道を短く説明するひと言やね。",
+    "en": "This time, I'll use one word to briefly explain the path."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。 3 つの小さなフレーズ: ストレート、ライト、レフト。",
+    "en": "Yep. Three little phrases: straight, right, and left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まっすぐ、右、左。この三つ。最初から長い道順を、全部英語で説明しようとせんでもええんやな。",
+    "en": "Straight, right, left. These three. There's no need to try to explain all the long directions in English from the beginning."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右。簡単なことから始めましょう。 \"真っ直ぐ進んで下さい。\"",
+    "en": "Right. Let's start with the easy one. “Go straight.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「まっすぐ進んでください」。ゴー・ストレイト。まずは、これだけ。",
+    "en": "\"Please go straight ahead.\" Go Straight. First of all, that's all."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まっすぐ進んでください。",
+    "en": "Go straight."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "道を聞かれて、相手が進む方を示しながら言うんやね。遠くまで説明しようと思うと、頭の中が迷子になってまうもんな。",
+    "en": "When someone asks you for directions, you tell them while pointing them in the right direction. If I try to explain it far enough, I get lost in my head."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。やり方はわかっていますが、一度に 5 つのことを言おうとしています。",
+    "en": "Yeah. You know the way, but you're trying to say five things at once."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "道は分かってるのに、「まっすぐ行って、二つ目を曲がって、その先の……」って、全部まとめて言おうとして止まる。",
+    "en": "Even though I know the way, I stop when I try to say everything in one sentence, ``Go straight, take the second turn, and then...''"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "したがって、一度に 1 つずつ与えてください。 \"真っ直ぐ進んで下さい。\"それから次のステップです。",
+    "en": "So, give them one piece at a time. “Go straight.” Then the next step."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつずつええんやな。ほな、まずはマークに続けて。「まっすぐ進んでください」。",
+    "en": "One by one. Well, let's start with Mark. \"Please go straight ahead.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まっすぐ進んでください。",
+    "en": "Go straight."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。目の前の道を、そのまま進んでもらうつもりで。",
+    "en": "One more time. I'm just going to let them continue down the path in front of me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まっすぐ進んでください。",
+    "en": "Go straight."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして友好的な関係を保ちましょう。あなたはマーチングバンドを率いているのではなく、誰かを助けているのです。",
+    "en": "And keep it friendly. You're helping someone, not leading a marching band."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "号令みたいに叫ばんでええと。「前へ、進め！」の練習ちゃうもんな。",
+    "en": "Just shout like a command. I'm practicing \"Move forward!\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ユウジさんはとても真剣に取り組んでいました。ほぼまっすぐに立ってしまいました。",
+    "en": "Yuji was very serious about it. I almost stood up straight."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "道より先に、マークの背筋がまっすぐなったんか。ふたりとも、練習には熱心やな。",
+    "en": "Did Mark's back straighten before the road did? Both of them are enthusiastic about practicing."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次は「右に曲がってください。」",
+    "en": "Next one: “Turn right.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「右に曲がってください」。ターン・ライト。",
+    "en": "\"Please turn right.\" turn light."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右に曲がってください。",
+    "en": "Turn right."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ターンが「曲がる」、ライトが「右」。ここ、向かい合ってると、一瞬分からんようになるねん。私の右？相手の右？って。",
+    "en": "The turn is \"turn\" and the light is \"right\". When we're facing each other here, it's hard to understand for a moment. my right? Opponent's right? That's it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そうだ、彼らの指示に従ってください。彼らがどちらの方向に歩くかを考えてください。",
+    "en": "Yeah, use their direction. Think about which way they'll be walking."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "案内される人が進む向きで考えるんやね。向かい合った自分の右を、そのまま言わんように。",
+    "en": "Think in the direction in which the person being guided is going. Don't just say what's on your right when you're facing each other."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "一瞬だけ同じ方向を向くことが助けになります。それからポイントします。",
+    "en": "It helps to face the same way for a second. Then point."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "一緒の向きで道を見たら、確認しやすいな。言葉と指してる方向が違ったら、相手も困るし。",
+    "en": "It's easier to check if you look at the road in the same direction. If your words and the direction you are pointing are different, the other person will be in trouble."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ユウジさんの場合もそうでした。彼は「右」と言って左を指さした。",
+    "en": "That's what happened with Yuji. He said “right” and pointed left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう起きてたんや。口は右、手は左。どっちについていったらええねん。",
+    "en": "I was already awake. Mouth on the right, hand on the left. I don't know which one to go with."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "待った。彼の手が追いつくまでには 1 秒かかりました。",
+    "en": "I waited. His hand needed a second to catch up."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "手と口の打ち合わせ待ちやな。ほな、私らは向きをそろえて言うてみよ。マークに続けて。",
+    "en": "Waiting for the meeting between hands and mouth. Hey, let's face each other and say it. Follow Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右に曲がってください。",
+    "en": "Turn right."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。相手が進む向きで、右に曲がる。",
+    "en": "One more time. Turn right in the direction your opponent is going."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右に曲がってください。",
+    "en": "Turn right."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっきの「まっすぐ」とつなげたら、「まっすぐ行って、それから右」になる？",
+    "en": "If we connect it with the word “straight” from earlier, will it become “go straight, then right”?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。 「真っ直ぐ行って、それから右に曲がってください。」",
+    "en": "Yep. “Go straight. Then turn right.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「まっすぐ進んで、それから右に曲がってください」。ゼンが「それから」。短い文を順番に言えばええんやね。",
+    "en": "\"Go straight, then turn right.\" Zen said, “And then.” It's okay if you say short sentences in order."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その通り。小さな2つのステップ。大きな一文は必要ありません。",
+    "en": "Exactly. Two small steps. You don't need one big sentence."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつの立派な英文にせんでええ。そう聞くと、ちょっと口が動きそうやわ。",
+    "en": "It can be written in one fine English sentence. When I hear that, my mouth seems to move a little."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そして3つ目は「左に曲がってください」。",
+    "en": "And the third one: “Turn left.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「左に曲がってください」。ターン・レフト。右のライトが、左のレフトに変わるだけやね。",
+    "en": "\"Please turn left.\" Turn left. The right light just changes to the left."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "左に曲がってください。",
+    "en": "Turn left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "頭では分かってても、急に聞かれると右と左が入れ替わることあるわ。日本語でも、たまにある。",
+    "en": "Even if I know it in my head, if someone suddenly asks me the question, the right and left will sometimes switch places. Even in Japanese, it happens sometimes."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "こっちも一緒。特に誰かが答えを待っているとき。",
+    "en": "Same here. Especially when someone's waiting for an answer."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手が待ってると思うと、余計に焦るんやな。",
+    "en": "If you think the other person is waiting, you'll get even more anxious."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ちょっと待ってください。方向を確認してください。それなら言ってみろよ。",
+    "en": "Take a second. Check the direction. Then say it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひと呼吸おいて、方向を確かめてから。ほな、マークに続けて。「左に曲がってください」。",
+    "en": "After taking a breath and getting my bearings. Hey, continue with Mark. \"Please turn left.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "左に曲がってください。",
+    "en": "Turn left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "もう一回。進む先の道を見ながら、左に曲がるつもりで。",
+    "en": "One more time. Look at the road ahead and plan on turning left."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "左に曲がってください。",
+    "en": "Turn left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "でも、「右に曲がって」だけやと、どこで曲がるん？ってなることもあるよな。",
+    "en": "But if you just say \"turn right,\" where do you turn? Sometimes it happens."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。ランドマークを追加できます。 「信号を右に曲がってください」みたいな。",
+    "en": "Sure. You can add a landmark. Like, “Turn right at the traffic light.”"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「信号のところで、右に曲がってください」。目印を足すと、曲がる場所が分かるんやね。",
+    "en": "\"At the traffic light, please turn right.\" By adding landmarks, you can see where to turn."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。しかし、今日の練習はシンプルにしておきましょう。ランドマークの作業はまた別の機会にしましょう。",
+    "en": "Yeah. But let's keep today's practice simple. We can work on landmarks another time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今日はまず、まっすぐ、右、左。目印の言い方は、また別の回で練習しよか。",
+    "en": "Today, first, go straight, right, left. Let's practice saying landmarks another time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ちょっとしたルートを試してみましょう。ここが角で、そのすぐ右側にカフェがあるとします。",
+    "en": "Let's try a tiny route. Say we're at a corner, and there's a café just around it, on the right."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、架空の道で練習な。今、角に立ってて、右に曲がるとすぐカフェがある。私が道を聞く人ね。",
+    "en": "Hey, let's practice on an imaginary road. If you're standing on the corner and turn right, there's a cafe right now. I'm the one asking for directions."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "すみません。カフェはどこですか？",
+    "en": "Excuse me. Where's the café?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右折。すぐそこです。",
+    "en": "Turn right. It's right there."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ああ、なるほど。ありがとう！",
+    "en": "Oh, I see it. Thank you!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「右に曲がって。すぐそこですよ」。長い説明がなくても、これで分かる場面はあるんやな。",
+    "en": "\"Turn right. You're right there.\" There are situations where you can understand something without a long explanation."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたの番です。同じ角ですが、カフェは左側にあります。",
+    "en": "Your turn. Same corner, but now the café is on the left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今度は反対側の設定な。左に曲がったらカフェ。よし、聞いて。",
+    "en": "Now set the opposite side. Turn left and you'll find a cafe. Okay, listen."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すみません。カフェはどこですか？",
+    "en": "Excuse me. Where's the café?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "左折してください。すぐそこです。",
+    "en": "Turn left. It's right there."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。ありがとう！",
+    "en": "Got it. Thanks!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言えた。今、手もちゃんと左やったで。",
+    "en": "I could say it. Now, my hand is properly on the left side."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "手と口、打ち合わせ済みやな。",
+    "en": "Hands and mouth have already been discussed."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "In the end, it's everyone's turn. Listen to the Japanese scene and try saying it in English. If he doesn't show up, you can continue after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "急ぐ必要はありません。まずは方向性をイメージしてください。",
+    "en": "No rush. Picture the direction first."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。目の前の道を、そのまま進んでもらいたいとき。「まっすぐ進んでください」。",
+    "en": "First one. When you want people to just follow the path in front of them. \"Please go straight ahead.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まっすぐ進んでください。",
+    "en": "Go straight."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。今いる角で、右へ曲がってもらいたいとき。「右に曲がってください」。",
+    "en": "Second. When you want someone to turn right at the corner you are currently on. \"Please turn right.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "右に曲がってください。",
+    "en": "Turn right."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。今度は反対。今いる角で、左へ曲がってもらいたいとき。「左に曲がってください」。",
+    "en": "Three. This time it's the opposite. When you want someone to turn left at the corner you are currently on. \"Please turn left.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "左に曲がってください。",
+    "en": "Turn left."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "どうやった？まっすぐ、右、左。ひとつずつなら、言えそうな気がしてきた？",
+    "en": "How did you do it? Straight, right, left. Do you feel like you can say one thing at a time?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ルートがわからない場合は、まず地図を確認してください。",
+    "en": "And if you're not sure about the route, check the map first."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "道が曖昧なときは、先に地図で確認。前回の「一緒に地図を確認しましょう」も、ここで使えるな。",
+    "en": "If the route is unclear, check the map first. The last time's \"Let's check the map together\" can also be used here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "地図を確認しましょう。",
+    "en": "Let's check the map."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "分からんまま、元気よく右や左や言わんことやね。親切な勢いで、別の場所に案内したらあかんし。",
+    "en": "Even if you don't understand, you can't say anything cheerfully to the left or right. It would be okay if I showed you somewhere else out of kindness."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "つまり、最後までに、ユウジは3つすべてを持っていました。まっすぐ、右、左。回転はありません。",
+    "en": "So, by the end, Yuji had all three. Straight, right, left. No spinning."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ゆうじさんも最後は三つ言えたんや。もう、くるくる回らんで済んだと。",
+    "en": "Yuuji was able to say three things at the end. I was done spinning around."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はい。それから私は彼に流しへの行き方を尋ねました。",
+    "en": "Yep. Then I asked him how to get to the sink."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "流しまでの道？また皿洗いに回そうとしてるやろ。",
+    "en": "The way to the sink? I guess I'm going to go wash the dishes again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "彼は「まっすぐ行ってください」と言った。それから彼は私にふきんをくれました。",
+    "en": "He said, “Go straight.” Then he gave me the dish towel."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "案内されたん、マークのほうか。ほな、まっすぐ行って洗ってきて。",
+    "en": "Was it Mark who guided you? Hey, just go straight and wash it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "行ってきた。ほんまに、まっすぐ流しやったわ。",
+    "en": "I went. Really, I just let it flow straight away."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "次回は、駅で行き先を確かめる英会話。「難波に行きたい」って聞かれたら、まず何を確認したらええんやろ。そんな話をしよか。",
+    "en": "Next time, we'll have an English conversation session to find out where we're going at the station. When someone asks me, \"I want to go to Namba,\" what should I check first? Shall we talk about that?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ご清聴ありがとうございました。次回お会いしましょう。",
+    "en": "Thanks for listening. See you next time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

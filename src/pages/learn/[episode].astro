@@ -12,16 +12,18 @@ export function getStaticPaths() {
 
 const { episode, lines } = Astro.props;
 const label = episodeLabel(episode.number);
+const fromRecordingScript = episode.number <= 14;
 ---
 <Base title={label + 'の台本・英語と日本語'} description={label + '「' + episode.title + '」を英語と日本語で読み返せる対訳台本です。'}>
   <header class="page-head">
     <a href="/learn/#transcripts">← 台本一覧へ</a>
     <p class="eyebrow">{label} / BILINGUAL SCRIPT</p>
     <h1>{episode.title}</h1>
-    <p>マークとミカの会話を、英語と日本語で。番組で話している言葉には「音声」の印をつけています。</p>
+    <p>マークとミカの会話を、英語と日本語で。「原文」の印があるほうが、もとのセリフです。</p>
+    {fromRecordingScript && <p class="muted">収録台本をもとにした機械翻訳つきです。配信音声と台本では、言い回しが一部異なることがあります。</p>}
     <div class="actions">
       <a class="button" href={episode.spotify}>Spotifyでこの回を聴く ↗</a>
-      {episode.youtube && <a class="button outline" href={episode.youtube}>YouTubeで見る ↗</a>}
+      {episode.youtube && <a class="button outline" href={episode.youtube}>YouTubeで聴く ↗</a>}
     </div>
   </header>
   <section aria-labelledby="script-title">
@@ -32,11 +34,11 @@ const label = episodeLabel(episode.number);
           <p class="eyebrow">{line.speaker === 'MARK' ? 'マーク' : 'ミカ'}</p>
           <div class="transcript-pair">
             <div lang="en">
-              <p class="transcript-label">English {line.spoken === 'en' && <span lang="ja">・音声</span>}</p>
+              <p class="transcript-label">English {line.spoken === 'en' && <span lang="ja">・原文</span>}</p>
               <p>{line.en}</p>
             </div>
             <div lang="ja">
-              <p class="transcript-label">日本語 {line.spoken === 'ja' && <span>・音声</span>}</p>
+              <p class="transcript-label">日本語 {line.spoken === 'ja' && <span>・原文</span>}</p>
               <p>{line.ja}</p>
             </div>
           </div>
