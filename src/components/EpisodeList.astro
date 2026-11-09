@@ -1,5 +1,6 @@
 ---
 import { episodeLabel, type Episode } from '../data/site';
+import { transcriptFor, transcriptHref } from '../data/transcripts';
 const { items } = Astro.props as { items: Episode[] };
 ---
 <ul class="episode-list">
@@ -10,6 +11,7 @@ const { items } = Astro.props as { items: Episode[] };
         <h3>{episode.title}</h3>
         <p>{episode.summary}</p>
         <div class="actions">
+          {transcriptFor(episode) && <a href={transcriptHref(episode)} aria-label={episodeLabel(episode.number) + 'の台本を読む'}>台本を読む</a>}
           <a href={episode.spotify} aria-label={episodeLabel(episode.number) + 'をSpotifyで聴く'}>Spotifyで聴く <span aria-hidden="true">↗</span></a>
           {episode.youtube && <a href={episode.youtube} aria-label={episodeLabel(episode.number) + 'をYouTubeで見る'}>YouTubeで見る <span aria-hidden="true">↗</span></a>}
         </div>

@@ -1,0 +1,650 @@
+[
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、昨日、京都に行ったんだ。",
+    "en": "Mika, I went to Kyoto yesterday."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "え、京都？ ええやん、旅行？",
+    "en": "Kyoto? Nice! Was it a trip?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いや。スーパーに行きたかっただけなんだ。",
+    "en": "No. I only wanted to go to the supermarket."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "スーパーに行くのに、京都まで行ったん？",
+    "en": "You went all the way to Kyoto for groceries?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まちがえて電車に乗ってしまった。",
+    "en": "I got on the wrong train."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちょっと待って。どこでまちがえたん。",
+    "en": "Wait. Where did you go wrong?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "速い電車だった。すごく速くて、降りたい駅に止まらなかったんだ。",
+    "en": "The train was fast. Very fast. It didn't stop at my station."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "快速に乗ったな。",
+    "en": "You got on a rapid train, didn't you?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「次の駅かな」と思ったけど、止まらない。「その次かな」でも、止まらない。",
+    "en": "I thought, \"Maybe the next station.\" No. \"Maybe the next one.\" No."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "気づいたら京都。",
+    "en": "And suddenly, you were in Kyoto."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "でも、京都のスーパーはすごくよかったよ。",
+    "en": "The supermarket in Kyoto was very nice, though."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "買い物はしたんかい。",
+    "en": "So you did go shopping!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "京都タワーの写真も撮ったよ。",
+    "en": "And I took a photo of Kyoto Tower."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "完全に観光やん。",
+    "en": "That's a sightseeing trip!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それで明日は、神戸で打ち合わせがあるんだ。",
+    "en": "And tomorrow, I have a meeting in Kobe."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "明日、神戸？ ほんまに大丈夫？",
+    "en": "Kobe tomorrow? Are you sure you'll be okay?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "だから、助けてほしいんだ。",
+    "en": "That's why I need your help."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今日は、電車で迷子になったマークと、明日の神戸への行き方を考える話。みんなも「乗る」の英語、いっしょに覚えよ。",
+    "en": "Today, we're helping Mark plan tomorrow's trip to Kobe after his train mix-up. Let's learn how to talk about taking trains."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっきのひとこと、ちょうど今日のフレーズやな。「I got on the wrong train.」",
+    "en": "That line is today's first phrase: \"I got on the wrong train.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今週いちばん役に立った文だよ。",
+    "en": "My most useful sentence this week."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「get on」は乗る。「wrong」はまちがった。まちがえて乗ってしもた、いう意味。",
+    "en": "\"Get on\" means to board, and \"wrong\" means incorrect. He boarded the wrong train."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それで、電車から降りるときは get off だね。",
+    "en": "And when you leave the train, you get off."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "降りるんは get off。on と off、セットで覚えたらええね。",
+    "en": "\"Get off\" means to leave the train. Learn \"on\" and \"off\" together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まちがえて電車に乗って、京都で降りた。",
+    "en": "I got on the wrong train. I got off in Kyoto."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "完璧な説明やな。悲しいけど。",
+    "en": "A perfect explanation. A sad one, though."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "同じ形で使えるよ。まちがったバス。まちがった飛行機。",
+    "en": "You can use the same pattern. Wrong bus. Wrong plane."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "飛行機は、まちがえたらシャレにならんで。",
+    "en": "Getting on the wrong plane would be no joke."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "本当にそうだね。",
+    "en": "Very true."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "シカゴでは、電車を乗りまちがえたことがなかった。家の近くには路線がひとつしかなかったから。",
+    "en": "In Chicago, I never got on the wrong train. There was only one line near my home."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、まちがえようがなかっただけやん。",
+    "en": "So you just didn't have a chance to get it wrong!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まちがえて電車に乗ってしまった。",
+    "en": "I got on the wrong train."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みんなも、いっしょに。",
+    "en": "Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まちがえて電車に乗ってしまった。",
+    "en": "I got on the wrong train."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、明日の話。神戸に行くには、まず、どの電車に乗るかやな。",
+    "en": "Now, about tomorrow. First, which train do you take to Kobe?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのとおり。どの電車に乗ったらいい？",
+    "en": "Exactly. Which train should I take?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それが、ふたつ目のフレーズ。「Which train」は、どの電車。「should I」は、〜したらええか。「どの電車に乗ったらええ？」いう意味。",
+    "en": "That's our second phrase. \"Which train\" asks about the train. \"Should I\" asks what to do: \"Which train should I take?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "名詞を変えられるよ。どのバスに乗ったらいい？ どの路線に乗ったらいい？",
+    "en": "You can change the noun. Which bus should I take? Which line should I take?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "take は、ここでも「その乗りもんを使って行く」って感じ。",
+    "en": "Here, \"take\" means to travel using that form of transport."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "アプリはあるよ。でも、電車が十本も出てくる。全部名前が違うんだ。",
+    "en": "I have an app. But the app shows ten trains. All different names."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "local、rapid、special rapid。止まる駅の数がちゃうねん。",
+    "en": "Local, rapid, special rapid. They stop at different numbers of stations."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "なんでそんなに名前があるの？ シカゴでは、電車は電車だよ。",
+    "en": "Why so many names? In Chicago, a train is a train."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "local は各駅に止まる。rapid は止まる駅が少ない。special rapid は、もっと少ない。",
+    "en": "Local trains stop at every station. Rapid trains stop at fewer, and special rapid trains at even fewer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ昨日、新快速に乗ったのかな？",
+    "en": "So yesterday, I took a special rapid?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "いちばん楽に京都へ行ける電車を、わざわざ選んだことになるな。",
+    "en": "You managed to pick the easiest train to Kyoto!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すごく快適な乗り心地だったよ。",
+    "en": "It was a very comfortable ride."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ride」は、乗ってる時間のことも言えるんやな。",
+    "en": "So \"ride\" can also mean the time you spend on the train."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。神戸までは短い乗車だね。",
+    "en": "Yes. It's a short ride to Kobe."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "乗りもんの中で過ごす時間、いう感じやね。",
+    "en": "It means the time you spend traveling in a vehicle."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの電車に乗ったらいい？",
+    "en": "Which train should I take?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みんなも、いっしょに。",
+    "en": "Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの電車に乗ったらいい？",
+    "en": "Which train should I take?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うち、カリフォルニアおったときは、ほとんど車やったから、電車の種類で迷うことはなかったな。",
+    "en": "In California, I mostly traveled by car, so I never got confused by train types."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "アメリカでは車に乗る人が多い。ここでは電車があちこち走っているね。",
+    "en": "In America, many people drive. Here, trains are everywhere."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せやから、日本は選択肢が多すぎて、逆にむずかしいと思う。",
+    "en": "Japan has so many choices that it can actually be harder."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次の問題。僕の駅からは、神戸に直接行けないんだ。",
+    "en": "Next problem. From my station, I can't go to Kobe directly."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、乗り換えやね。",
+    "en": "Then you'll need to change trains."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "英語では change trains と言うよ。transfer とも言うね。",
+    "en": "In English, you change trains. Or transfer."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「change trains」は電車を乗り換える。trains と s がつくんは、ふたつ以上の電車に乗るからやで。",
+    "en": "\"Change trains\" means to switch trains. \"Trains\" has an \"s\" because you use more than one."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ……どこで乗り換えたらいい？",
+    "en": "So... where do I change trains?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それが、みっつ目のフレーズ。「どこで乗り換えたらええ？」いう意味。駅員さんにも聞けるね。",
+    "en": "That's our third phrase: \"Where do I change trains?\" You can ask station staff, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "昨日のことがあって、みんなに聞くようにしてる。この前は親切なおばあさんが助けてくれて、二十分話したよ。",
+    "en": "After yesterday, I ask everybody. Last time, a nice grandmother helped me. We talked for twenty minutes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ話やけど、その間に電車は何本行ったん。",
+    "en": "That's lovely, but how many trains went by while you were talking?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "五本。六本かも。でも、すごく親切な人だったんだ。",
+    "en": "Five. Maybe six. But she was very nice."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "電車より、おばあちゃんを優先したんか。",
+    "en": "So you chose the grandmother over the trains!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこで乗り換えたらいい？",
+    "en": "Where do I change trains?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みんなも、いっしょに。",
+    "en": "Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこで乗り換えたらいい？",
+    "en": "Where do I change trains?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、ロールプレイしよか。マークが、迷ってる人。うちが、助けてくれる友だち。",
+    "en": "Let's role-play. Mark is lost, and I'm the friend helping him."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "簡単だよ。僕はプロだからね。",
+    "en": "Easy. I'm a professional."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "威張って言うことちゃうで。",
+    "en": "That's nothing to brag about!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、助けて！ 電車を乗りまちがえた！",
+    "en": "Mika, help! I got on the wrong train!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "あら、大変。今どこにいるの？",
+    "en": "Oh no. Where are you now?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "分からない。山が見えるよ。",
+    "en": "I don't know. I see mountains."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "分かった。次の駅で降りて。",
+    "en": "Okay. Get off at the next station."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それから、どの電車に乗ったらいい？",
+    "en": "Then which train should I take?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "大阪に戻る電車に乗って。",
+    "en": "Take the train going back to Osaka."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこで乗り換えたらいい？",
+    "en": "Where do I change trains?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "乗り換えなくていいよ。その電車に乗っていて。",
+    "en": "You don't. Just stay on that train. No change."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう！ 君は僕のヒーローだ。",
+    "en": "Thank you! You are my hero."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ぜんぶ使えたね。",
+    "en": "We used all three phrases."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、交代。ミカが道に迷ってる番だよ。",
+    "en": "Now, switch. Mika, you're lost."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "マーク、助けて！ 電車を乗りまちがえた！",
+    "en": "Mark, help! I got on the wrong train!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "心配しないで。どの駅にいるの？",
+    "en": "Don't worry. Which station are you at?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "分からない。どの電車に乗ったらいい？",
+    "en": "I don't know. Which train should I take?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次の駅で降りて、戻る電車に乗って。",
+    "en": "Get off at the next station. Take the train going back."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "どこで乗り換えたらいい？",
+    "en": "Where do I change trains?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "梅田で。",
+    "en": "At Umeda."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ありがとう、マーク！",
+    "en": "Thank you, Mark!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ほら。君もプロだね。",
+    "en": "See? You are also a professional."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "いっしょにせんといて。",
+    "en": "Don't put me in the same category!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to each situation and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。まちがえて、電車に乗ってしもた。",
+    "en": "First: you got on the wrong train."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まちがえて電車に乗ってしまった。",
+    "en": "I got on the wrong train."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。どの電車に乗ったらええか聞きたい。",
+    "en": "Second: you want to ask which train to take."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どの電車に乗ったらいい？",
+    "en": "Which train should I take?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。どこで乗り換えたらええか聞きたい。",
+    "en": "Third: you want to ask where to change trains."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どこで乗り換えたらいい？",
+    "en": "Where do I change trains?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、よくできたね。",
+    "en": "Great job, everybody."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、明日はいっしょに行ってあげよか。",
+    "en": "Shall I go with you tomorrow?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いや、大丈夫。明日はひとりでやってみたいんだ。",
+    "en": "No, thank you. Tomorrow, I want to do it alone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに大丈夫なん？",
+    "en": "Are you really sure you'll be okay?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "計画はあるよ。梅田、乗り換え、神戸。",
+    "en": "I have a plan. Umeda, change trains, Kobe."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええやん。ほな、京都のお土産、楽しみにしてるわ。",
+    "en": "Sounds good. I'll look forward to my souvenir from Kyoto!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "神戸に行くんだってば！",
+    "en": "I'm going to Kobe!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "知ってる。今日もありがとう。ほな、またね。",
+    "en": "I know. Thanks for listening today. See you!"
+  }
+]

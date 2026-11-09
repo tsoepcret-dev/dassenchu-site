@@ -1,0 +1,716 @@
+[
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ！ミカ！早くこっちに来て！",
+    "en": "Mika! Mika! Come here, quick!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "なに、そんなにあわてて。お客さん、もうおらんで。",
+    "en": "What's the rush? All the customers have left."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "昨日の夜、すごいものを見たんだ。これ見て！",
+    "en": "I saw something amazing last night. Look at this!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……まっくらな中に、ひかりがひとつあるだけやけど。",
+    "en": "...All I see is one light in the dark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！あれはUFOだよ！",
+    "en": "Exactly! That's a UFO!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ユーフォー？ ほんまに？",
+    "en": "A UFO? Really?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！大阪の空に！帰る途中、そこにいたんだ。",
+    "en": "Yes! Over Osaka! I was walking home, and it was right there."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "家に帰るとちゅうに、ユーフォーか。",
+    "en": "A UFO on your way home, huh?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "本当だよ。動画もあるんだ。",
+    "en": "I'm serious. I have a video, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "動画まであるんかい。",
+    "en": "You even got a video?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今朝、ごかいも見たよ。",
+    "en": "I watched it five times this morning."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ごかいも？ ひまか。",
+    "en": "Five times? Got nothing better to do?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "退屈じゃないよ！見るたびに光が少し動くんだ。",
+    "en": "It's not boring! Every time, the light moves a little."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほう。それは、ちょっと気になるな。",
+    "en": "Oh? Now I'm a little curious."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "信じてくれる？",
+    "en": "You believe me?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "はんぶんだけ、信じとくわ。",
+    "en": "I'll believe half of it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "半分でもうれしいよ。今日は「look」「watch」「see」にぴったりの話だね。",
+    "en": "Half is great. And this is a perfect topic for today: \"look,\" \"watch,\" and \"see.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ぜんぶ、日本語やと「見る」やな。",
+    "en": "They're all “見る” in Japanese."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！英語では、みっつの違う言葉なんだ。",
+    "en": "Yes! In English, they're three different words."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "使い分け、ちゃんと説明できるん？ ユーフォーで。",
+    "en": "Can you explain the difference? With a UFO?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん！僕のUFOで練習しよう！",
+    "en": "Of course! We'll practice with my UFO!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ユーフォーで英語の勉強、はじめてやわ。",
+    "en": "Learning English with a UFO? That's a first."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今日は大事なフレーズをみっつ。単語ごとにひとつずつ。準備はいい？",
+    "en": "Three key phrases today. One for each word. Ready?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっきマークは、「Look at this!」って言うたな。",
+    "en": "You said, “Look at this!” earlier, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！「look」は、自分から目を使うこと。何かに目を向けるんだ。",
+    "en": "Yes! \"Look\" means you choose to use your eyes. You turn your eyes to something."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "自分から、目を向けるってことか。",
+    "en": "So you choose to turn your eyes toward something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。たいていは動いていないもの。写真、看板、メニューとか。",
+    "en": "Right. And usually, the thing is not moving. A photo, a sign, a menu."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "止まってるものを見るんか。",
+    "en": "So, looking at something still."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。「look」のあとには「at」が必要。「Look at the menu.」",
+    "en": "Yes. And after \"look,\" we need \"at.\" \"Look at the menu.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「メニューを見て」か。「Look the menu」って言うてもうたら、どうなるん？",
+    "en": "“Look at the menu.” What if I say, “Look the menu”?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それは不自然だね。「at」があれば自然。「Look at the menu.」",
+    "en": "Not natural. With \"at,\" it's natural: \"Look at the menu.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「at」が、見る先を指さすわけか。",
+    "en": "So “at” points to what you're looking at."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いいね！「Look!」だけでも大丈夫。「ねえ、これ見て！」という意味だよ。",
+    "en": "Nice! By itself, \"Look!\" is also fine. It means, \"Hey, check this!\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめのフレーズ。みんなも、いっしょに言うてみて。",
+    "en": "Here's our first phrase. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これ見て！",
+    "en": "Look at this!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これ見て！",
+    "en": "Look at this!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、さっきの写真、もういっかい見せて。",
+    "en": "Okay, show me that photo again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。これ見て！",
+    "en": "Of course. Look at this!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……やっぱり、ひかりがひとつあるだけ。",
+    "en": "...Still just one light."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それがUFOだよ！",
+    "en": "That's the UFO!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちいさすぎて、星にも見えるで。",
+    "en": "It's so tiny, it could be a star."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "違うよ。星は動かない。これは動くんだ！",
+    "en": "No, no, no. Stars don't move. This one moves!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "写真やのに、動いてるん？",
+    "en": "It moves in a photo?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった、わかった。動画を見せるよ。",
+    "en": "Okay, okay. I'll show you the video."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今度は「watch」か。さっきの「look」と、なにがちゃうん？",
+    "en": "Now it's “watch.” How is that different from “look”?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「watch」は動くものを見るとき。注意を向けて、しばらく見続けるんだ。",
+    "en": "\"Watch\" is for moving things. You pay attention, and you keep your eyes on it for a while."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "動くものを、じっくり見るんか。",
+    "en": "So you watch something moving for a while."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。映画、テレビ、サッカーの試合、それにUFOの動画！",
+    "en": "Yes. Movies, TV, soccer games, and a UFO video!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "動画は、「watch」なんや。",
+    "en": "So, it's “watch” for videos."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。「I watch the news every morning.」",
+    "en": "Right. \"I watch the news every morning.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "毎朝ニュースを見る。ふつうに使えそう。",
+    "en": "Watching the news every morning. That sounds useful."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "簡単な目安は、止まっているものなら「look」、動くものなら「watch」。",
+    "en": "Easy rule: usually, still thing, look. Moving thing, watch."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "写真はlook、動画はwatch。これは、わかりやすい。",
+    "en": "“Look” for photos, “watch” for videos. Easy to remember."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "次のフレーズは「Let's watch a movie.」",
+    "en": "Now the phrase: \"Let's watch a movie.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「映画を見よう」か。",
+    "en": "So, “Let's watch a movie.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「Let's」は誰かを誘うときに使う。親しみのある言い方だよ。",
+    "en": "\"Let's\" is for inviting someone. It sounds friendly."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめのフレーズ。みんなも、いっしょに。",
+    "en": "Our second phrase. Everyone, join in."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "映画を見よう。",
+    "en": "Let's watch a movie."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "映画を見よう。",
+    "en": "Let's watch a movie."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、僕のUFO動画を見よう！",
+    "en": "Now, let's watch my UFO video!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、見てみよか。",
+    "en": "Okay, let's see it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よく見て。光が動くよ……今！",
+    "en": "Watch carefully. The light will move... now!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……ほんまや、ひかりが動いてる。",
+    "en": "...You're right. The light is moving."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ほらね？言ったでしょ！",
+    "en": "See? I told you!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "でもこれ、マークのスマホも、いっしょに動いてへん？",
+    "en": "But isn't your phone moving too, Mark?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "……いや。そうかも。ちょっとだけ。",
+    "en": "...No. Maybe. A little."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "この動画、どこで撮ったん？",
+    "en": "Where did you film this?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "えっと……店を閉めていたとき、ガラスのドアに見えたんだ。",
+    "en": "Um... I was closing the bar. Then I saw it in the glass door."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "歩いて帰るとちゅうやなかったん？",
+    "en": "Weren't you walking home?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "……長い道のりだったよ。カウンターからドアまで。",
+    "en": "...It was a long walk. From the counter to the door."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ガラスのドアか。……ちょっと、ええこと思いついた。",
+    "en": "The glass door, huh? ...I've got an idea."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、待って。もうひとつ、「see」が残ってるよ。",
+    "en": "Mika, wait. We have one more word: \"see.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、「see」は？",
+    "en": "Okay, what about “see”?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「see」は自分で選ぶことじゃなく、目に入ること。「I can see the moon.」",
+    "en": "\"See\" is not about choosing. The thing comes into your eyes. \"I can see the moon.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "見ようとしてなくても、目に入ってくるってことか。",
+    "en": "So it comes into view even when you're not trying to look."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！目を開けていたら、そこにある。日本語なら「見える」かな。",
+    "en": "Yes! Your eyes are open, and it's there. In Japanese, maybe \"mieru.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「見える」か。それやったら、ようわかるわ。",
+    "en": "“見える.” That makes sense."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「can」とよく使うよ。「I can see it!」や「I can't see it.」",
+    "en": "And we often use \"can.\" \"I can see it!\" or \"I can't see it.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「I can't see it」か。わたしは、そのユーフォー、まだ見えてへんけどな。",
+    "en": "“I can't see it.” I still can't see your UFO, though."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのうち見えるよ！みっつめのフレーズは「I can see it!」",
+    "en": "You will! Here's the third phrase: \"I can see it!\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめのフレーズ。みんなも、いっしょに。",
+    "en": "Our third phrase. Everyone, join in."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "見える！",
+    "en": "I can see it!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "見える！",
+    "en": "I can see it!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、実験しよか。マーク、ドアのほうを見ててな。",
+    "en": "Let's try something. Mark, keep looking at the door."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わかった。ドアを見てるよ。",
+    "en": "Okay. I'm looking at the door."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひかり、見える？",
+    "en": "Can you see the light?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん！見えるよ！ガラスの中にUFOがいる！",
+    "en": "Yes! I can see it! The UFO is in the glass!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、照明、消すで。",
+    "en": "Okay, I'm turning off the light."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ああ！見えなくなった！UFOが行っちゃった！",
+    "en": "Oh no! I can't see it! The UFO left!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "帰ってへんわ。うちの照明が、ドアのガラスにうつってただけ。",
+    "en": "It didn't leave. It was just our light reflected in the glass."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "……ああ。なるほど。",
+    "en": "...Ohh. I see."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "いまの「I see」は、「見えた」やなくて、「なるほど」のほうか。",
+    "en": "That “I see” means “I understand,” not “I saw it,” right?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！「I see」は「わかった」の意味もある。目でも、頭でも見えるんだね。",
+    "en": "Yes! \"I see\" also means \"I understand.\" Your eyes see, and your brain sees, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "見えたら、わかる。ええ流れ。",
+    "en": "You see it, then you get it. That works."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "つまり、僕のUFOは、うちの天井の照明だったんだ。",
+    "en": "So my UFO was our ceiling light."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ごかいも見た動画の主役が、うちの照明。",
+    "en": "The star of that video you watched five times was our light."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "お客さんには言わないでね。",
+    "en": "Please don't tell the customers."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言うわ。あしたのいちばんに言うわ。",
+    "en": "Oh, I'm telling them. First thing tomorrow."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はいはい。明かりも戻ったし、「look」「watch」「see」を復習しよう。",
+    "en": "Okay, okay. Lights back on. Let's review: look, watch, and see."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "lookは、自分から目を向ける。watchは動くものをじっくり、seeは目に入る。",
+    "en": "“Look”: direct your eyes. “Watch”: follow movement. “See”: it comes into view."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "完璧。みっつの言葉に、みっつの感覚。",
+    "en": "Perfect. Three words, three feelings."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to each situation and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おもしろいものを見つけました。相手に「これ見て！」と言います。",
+    "en": "You find something interesting. Tell someone, “Look at this!”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これ見て！",
+    "en": "Look at this!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "友だちを、映画にさそいます。「映画を見よう」。",
+    "en": "Invite a friend to watch a movie. “Let's watch a movie.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "映画を見よう。",
+    "en": "Let's watch a movie."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "窓のそとに、ひこうきが見えました。「見える！」と言いたい。",
+    "en": "You spot a plane outside the window. Say, “I can see it!”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "見える！",
+    "en": "I can see it!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、よくできたね！",
+    "en": "Great job, everyone!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう、マーク。これで、look、watch、seeは、もうこわない。",
+    "en": "Thanks, Mark. “Look,” “watch,” and “see” don't scare me anymore."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よかった。じゃあ、お祝いしよう。映画を見よう！",
+    "en": "Good. Now let's celebrate. Let's watch a movie!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええな。どんな映画？",
+    "en": "Sounds good. What movie?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "UFOの映画！",
+    "en": "A UFO movie!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それだけは、やめとこ。",
+    "en": "Anything but that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はは！わかった、わかった。みんな、聞いてくれてありがとう。またね！",
+    "en": "Haha! Okay, okay. Thanks for listening, everyone. See you next time!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you!"
+  }
+]

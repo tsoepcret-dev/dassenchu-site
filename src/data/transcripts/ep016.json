@@ -1,0 +1,704 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふう、やっと片づいたわ。紙吹雪、まだ靴の中に入ってるし。",
+    "en": "Phew, we're finally done cleaning. I've still got confetti in my shoes."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "最高のパーティーだったね。紙吹雪の片づけも報われるよ。",
+    "en": "That was the best party ever. Worth every piece of confetti."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに大盛況やったね。ほら、ごみ袋の底に、魔女の帽子まで入ってたで。",
+    "en": "It was such a success. Look, there was even a witch's hat at the bottom of the trash bag."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あ、それエリカのだ。魔女の仮装で来てたでしょ？",
+    "en": "Oh, that's Erika's. She came as a witch, remember?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ああ、エリカさんか。……あ、そのエリカさんからメッセージ来たわ。",
+    "en": "Oh, Erika's. Hang on—she's just messaged me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何て？",
+    "en": "What does she say?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「今、クラブにおる。みんな仮装のままやから、ふたりも来て」やって。",
+    "en": "She's at a club. Everyone's still in costume, and she wants us to come."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今から？ もうすぐ夜中の12時だよ！",
+    "en": "Now? It's almost midnight!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ハロウィンは今夜だけやで。それに、今年はどんな仮装が流行ってるんか、見てみたいやん。",
+    "en": "Halloween's only tonight. Don't you want to see what costumes are popular this year?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そりゃ見たいよね。エンジニアだもん、何でも研究する。",
+    "en": "Of course you want to see. You're an engineer. You study everything."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "実物が見られるチャンスやもん。マーク、行こ。",
+    "en": "It's our chance to see them in person. Come on, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はいはい。かぼちゃの帽子を取ってくるよ。",
+    "en": "Okay, okay. Let me just grab my pumpkin hat."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まだ持ってたん、それ。",
+    "en": "You've still got that?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "これなしでは出かけられないよ。",
+    "en": "Never leave home without it."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、このエリカさんの帽子も、かばんに入れとくわ。返したらなあかんし。",
+    "en": "I'll put Erika's hat in my bag too. We'd better give it back."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今夜も脱線しそうやけど、始めよか。",
+    "en": "We may get sidetracked again tonight, but let's get started."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English, Off on a Tangent."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うわ、入口からもう人だらけやん。",
+    "en": "Wow, there's already a crowd at the entrance."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "見て！ 巨大なホットドッグが目の前を歩いてる。",
+    "en": "Wow! Look at that! A giant hot dog is walking in front of us."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまや、ケチャップまで再現した着ぐるみやん。ドンキで見たやつや。",
+    "en": "Even the ketchup looks real. I saw that costume at Donki."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "全身ホットドッグ？ 最高だね。ちょっとぶっ飛んでるけど。",
+    "en": "A full-body hot dog? That's brilliant. And a little crazy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そのうしろには、バナナの着ぐるみもおるで。ちょっと前に流行ったやつが、また戻ってきたみたいやね。",
+    "en": "There's a banana behind him too. Those costumes seem to be making a comeback."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ホットドッグにバナナ……ランチパーティーかな？",
+    "en": "Hot dog, banana... Is this a lunch party?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、さっきのホットドッグの人に話しかけよか。マーク、何て言うん？",
+    "en": "Let's talk to the hot dog. What would you say, Mark?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「何の仮装なの？」って聞くかな。",
+    "en": "I'd say, \"What are you supposed to be?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「何の仮装なの？」って意味やね。",
+    "en": "That means, “What costume are you wearing?”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。ただし、仮装している人にだけね。",
+    "en": "Right. But only for people in costume."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふつうの服の人に言うたら、「あなた何者？」みたいで、失礼やもんね。",
+    "en": "Saying it to someone in regular clothes sounds like “What are you?” That's rude."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのとおり。じゃあ、僕に続けて。",
+    "en": "Exactly. Okay, repeat after me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装なの？",
+    "en": "What are you supposed to be?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装なの？",
+    "en": "What are you supposed to be?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、行ってみよ。……って、あれ、もう人混みに消えてもうたで。",
+    "en": "Let's go. Oh—he's already disappeared into the crowd."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "走って行っちゃった。ホットドッグは足が速いね。",
+    "en": "He ran away. Hot dogs are fast."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ホットドッグが走って逃げるって、おもしろすぎるやん。",
+    "en": "A hot dog running away—that's hilarious."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もっとゆっくり歩く人を探そう。",
+    "en": "Let's find someone slower."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、ほかの人を探そか。",
+    "en": "Okay, let's find someone else."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、あっち見て。白い髪に、黒い目隠しの人がおるで。",
+    "en": "Mark, look over there. White hair and a black blindfold."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "五条だ！ 呪術廻戦の！ みんな五条が大好きだね！",
+    "en": "Gojo! From Jujutsu Kaisen! Everybody loves Gojo!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまやね。しぶやじへんも、ハロウィンの夜の話やもんな。",
+    "en": "Right. The Shibuya Incident takes place on Halloween night too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今夜にぴったりの仮装だね。",
+    "en": "Perfect costume for tonight."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その隣、リヴァイへいちょうもおるで。ほうきまで持ってるわ。",
+    "en": "Captain Levi's next to him. He's even brought a broom."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "リヴァイがダンスフロアを掃除してる。やっぱりね。",
+    "en": "Levi is cleaning the dance floor. Of course he is."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あっちには、ナルトとヒナタのペアもおるわ。ふたり組、多いな。",
+    "en": "There's a Naruto and Hinata pair over there too. Lots of people came in pairs."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ペアの仮装って楽しいね。見て、一緒に踊ってる！",
+    "en": "Pair costumes are so fun. Look, they're dancing together!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまや。ふたりとも、めっちゃ楽しそう。",
+    "en": "They both look like they're having a great time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何か褒めてあげたいな。",
+    "en": "I want to tell them something nice."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほめたいときの、ひとことやね。",
+    "en": "So, a phrase for giving a compliment."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「その仮装、いいね！」でいいよ。",
+    "en": "Just say, \"Love your costume!\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「その仮装、いいね！」やね。",
+    "en": "It means, “Your costume looks great!”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まず笑顔で。それから大きな声で。音楽が大きいからね！",
+    "en": "Smile first. Then say it loud. The music is loud!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに、ちょっと大きめの声でな。",
+    "en": "You'll definitely need to speak up a little."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、僕に続けて。その仮装、いいね！",
+    "en": "Okay, repeat after me. Love your costume!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その仮装、いいね！",
+    "en": "Love your costume!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あ、あっちの子はクロミやん。今日、クロミの誕生日なんやで。ハロウィンが誕生日やから。",
+    "en": "Oh, that girl's Kuromi. It's Kuromi's birthday today—on Halloween."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "クロミの誕生日ってハロウィンなの？ ぴったりだね。",
+    "en": "Kuromi has a birthday on Halloween? That's perfect."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その隣は、クソメガネの完全なりきりやで。SNSで人気のキャラでな、説明はむずかしいわ。",
+    "en": "Next to her is someone dressed as Kusomegane. He's popular on social media. Hard to explain."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのキャラは知らないけど、メガネはいいね。",
+    "en": "I don't know him. But I love the glasses."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "はいばらあいも、まおまおもおるな。みんな、再現度が高いわ。",
+    "en": "There's Ai Haibara and Maomao too. Everyone's costumes are so accurate."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "名探偵コナンの灰原哀だ！ 大好きなんだ！",
+    "en": "Haibara Ai from Detective Conan! I love her!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そういえば、カリフォルニアに留学してたとき、寮のハロウィンで、友達が段ボールでテレビの仮装してたんよ。日本は、みんな本格的やね。",
+    "en": "When I studied in California, a friend dressed as a cardboard TV at our dorm Halloween party. People here really go all out."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "シカゴではシーツとプラスチックのマスクだった。こっちはレベルが違う。",
+    "en": "In Chicago, it was bed sheets and plastic masks. This is next level."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ウルフ耳の帽子の人もおるで。肉球を押したら、耳が動くやつ。",
+    "en": "Someone's wearing a wolf-ear hat. You squeeze the paws and the ears move."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "耳が動くの？ 僕も欲しい。",
+    "en": "Ears that move? I need one."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんで、結局、魔女がいちばん多いんちゃうかな。",
+    "en": "But in the end, witches might be the most popular costume here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "定番はいつまでも人気だね。",
+    "en": "Classic never dies."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、さっきのナルトとヒナタ、写真撮ってもらえへんかな。",
+    "en": "Mark, could we get a photo with that Naruto and Hinata pair?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いいね。ナルトと一緒に撮りたい。",
+    "en": "Good idea. I want a picture with Naruto."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "仮装の人と写真を撮りたいときは、何て言うん？",
+    "en": "How do you ask someone in costume for a photo together?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いっしょに写真撮ってもいい？",
+    "en": "\"Can I take a picture with you?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「いっしょに写真撮ってもいい？」やね。",
+    "en": "That means, “Is it okay to take a photo together?”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。「Can I」は「〜してもいい？」。必ず先に聞こう。写真が苦手な人もいるからね。",
+    "en": "Yes. \"Can I\" means \"Is it okay if I?\" Always ask first. Some people don't like photos."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "勝手に撮らんと、先に聞くのがマナーやね。",
+    "en": "Ask first. Don't just take their picture."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、僕に続けて。いっしょに写真撮ってもいい？",
+    "en": "Okay, repeat after me. Can I take a picture with you?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いっしょに写真撮ってもいい？",
+    "en": "Can I take a picture with you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みっつ使って練習しよか。わたしが、仮装してる人の役をやるわ。",
+    "en": "Let's practice all three. I'll play the person in costume."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いいよ！ じゃあ、君は……？",
+    "en": "Okay! So you are...?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "バナナやで。",
+    "en": "A banana."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "やあ！ その仮装、いいね！",
+    "en": "Hey! Love your costume!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ありがとう！",
+    "en": "Thank you!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装なの？",
+    "en": "What are you supposed to be?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "バナナだよ！ 滑らないでね！",
+    "en": "I'm a banana! Don't slip!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すごいね。いっしょに写真撮ってもいい？",
+    "en": "That's amazing. Can I take a picture with you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "もちろん！ いい感じに撮ってね。",
+    "en": "Sure! Make it a good one."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "笑って！ はい、バナナ！",
+    "en": "Smile! Say banana!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "バナナ！",
+    "en": "Banana!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ベタやな、マーク。",
+    "en": "That's pretty corny, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "定番だからね。",
+    "en": "It's a classic."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "役やん、役。でも、ええ練習になったね。",
+    "en": "It's just a role, remember? Still, that was good practice."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あれ、こっちに来るのは誰？",
+    "en": "Wait. Who's that, coming toward us?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あ、エリカさんや。魔女のかっこしてるけど、帽子がないわ。",
+    "en": "Oh, it's Erika. She's dressed as a witch, but she's missing her hat."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "エリカ！ その仮装、いいね！",
+    "en": "Erika! Love your costume!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "帽子をなくしたって言うてるで。「今夜のわたしは、帽子のない魔女」やて。",
+    "en": "She says she lost her hat. “Tonight I'm a witch without a hat.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はは！ じゃあ、何の仮装なの？",
+    "en": "Ha! So what are you supposed to be?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「帽子のない魔女」やって、さっき言うたやん。",
+    "en": "She just told you—a witch without a hat."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ……いっしょに写真撮ってもいい？",
+    "en": "Then... can I take a picture with you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その前に、帽子や。かばんの中にあるやつ、返さな。",
+    "en": "First, her hat! We need to give back the one in my bag."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごみ袋から救出して、めでたしめでたし！",
+    "en": "Rescued from the trash. Happy ending!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "エリカさんの帽子も戻ったし、最後は、みんなの番。",
+    "en": "Erika's got her hat back. Now it's your turn."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Listen to each situation in Japanese and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。仮装している人に、「何の仮装なの？」と聞きたいとき。",
+    "en": "First: ask someone in costume, “What are you dressed as?”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装なの？",
+    "en": "What are you supposed to be?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。すてきな仮装の人に、「その仮装、いいね！」と言いたいとき。",
+    "en": "Second: tell someone, “Your costume looks great!”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "その仮装、いいね！",
+    "en": "Love your costume!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。仮装の人に、「いっしょに写真撮ってもいい？」とお願いしたいとき。",
+    "en": "Third: ask someone in costume, “Can we take a photo together?”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いっしょに写真撮ってもいい？",
+    "en": "Can I take a picture with you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ばっちりやね。",
+    "en": "Nicely done."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "エリカさん、帽子をかぶって、「やっぱり、魔女がいちばん」やて。",
+    "en": "Erika put her hat on and said, “Nothing beats a witch.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "定番は毎年強いね。",
+    "en": "Classic wins every year."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとばんじゅう、いろんな仮装を見たのに、最後は魔女が全部持っていったね。",
+    "en": "We saw all kinds of costumes all night, but the witch stole the show."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よし、魔女ともう1枚！",
+    "en": "Okay, one more picture with the witch!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、撮ろか。……って、マーク、かぼちゃの帽子がないで。",
+    "en": "Let's take it. Wait—Mark, where's your pumpkin hat?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ねえ、エリカ！ それ、僕の帽子！",
+    "en": "Hey! Erika! That's my hat!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今夜は、帽子のトレード会やね。今日も聞いてくれて、ありがとう。",
+    "en": "It's a hat swap tonight. Thanks for listening."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、聞いてくれてありがとう。ハッピーハロウィン！",
+    "en": "Thanks for listening, everyone. Happy Halloween!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time!"
+  }
+]

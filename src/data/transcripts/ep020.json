@@ -1,0 +1,722 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おつかれさま、マーク。さっきからスマホ見つめて、固まってるけど、どないしたん。",
+    "en": "Good work tonight, Mark. You've been staring at your phone. What's wrong?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、エリカが僕に怒ってるみたいなんだ。",
+    "en": "Mika, I think Erika is mad at me."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "エリカって、いつも来てくれるあのエリカ。なんでまた。",
+    "en": "Erika, our regular? What happened?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "メッセージが来たんだ。「もう行かないかも」って。",
+    "en": "She sent me a message. \"Maybe I won't come back.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "えっ、ほんま。心当たりは。",
+    "en": "Really? Any idea why?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "全然！「マーク、今夜は何を飲んだらいい？」って聞かれて。",
+    "en": "None! She asked me, \"Mark, what should I drink tonight?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん、それで。",
+    "en": "Okay. And then?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「Whatever.」って答えたんだ。",
+    "en": "And I said, \"Whatever.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……あんた、それ、ほんまに言うたん。",
+    "en": "Wait... you really said that?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。忙しかったし、製氷機も壊れてたんだ。",
+    "en": "Yes. I was busy. The ice machine was broken, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あー、ほんで、さっきから機械をガタガタ叩いてたんか。いや、ちょっと待って。まず、そのひとこと。",
+    "en": "So that's why you were banging on the machine. But wait. Let's start with what you said."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "Whatever の何が悪いの？「何でもいい」って意味でしょ？",
+    "en": "What's wrong with \"Whatever\"? It means \"anything is fine,\" right?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うーん、半分合ってて、半分あかん。今日は、そこをちゃんと整理しよか。",
+    "en": "Well, you're half right and half wrong. Let's clear that up today."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "分かった。教えて、先生。",
+    "en": "Okay. Teach me, teacher."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "教えるのは、マークの役でしょ。リスナーのみんなにな。",
+    "en": "You're the teacher, Mark. Teach our listeners."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さて、問題の whatever。エリカに言うたとき、どんな顔してた。",
+    "en": "About that \"whatever.\" What were you doing when you said it to Erika?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "製氷機を見てた。彼女の顔は見なかった。",
+    "en": "I was looking at the ice machine. I did not look at her."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ。顔も見んと、Whatever. だけ。",
+    "en": "There it is. Just \"Whatever,\" without even looking at her."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それって、まずい？",
+    "en": "Is that bad?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私がカリフォルニアに留学してたとき、高校生が親に言うてたで。",
+    "en": "When I studied in California, I heard teenagers say this to their parents."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "どうでもいいよ、ママ。",
+    "en": "Whatever, Mom."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おお、すごく上手。まさにティーンエイジャーだね。",
+    "en": "Ooh. That was very good. Very teenager."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう。で、これ、どう聞こえる。",
+    "en": "Thanks. So, how does that sound?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「どうでもいい」とか……「放っておいて」って感じかな。",
+    "en": "Like... \"I don't care.\" Maybe also \"Leave me alone.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。「どうでもええわ」って聞こえるの。エリカ、悲しかったやろな。",
+    "en": "Exactly. It sounds like \"I don't care.\" Erika must have felt hurt."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "しまった。「何でも好きなものを飲んでいいよ」って意味だったのに。",
+    "en": "Oh no. I meant, \"You can have anything.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その気持ちを、ちゃんと伝える言い方があるでしょ。",
+    "en": "There's a way to say what you actually mean, isn't there?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そうだね。何でも好きなものをどうぞ。",
+    "en": "Yes. Whatever you want."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「何でも好きなものをどうぞ」。you want をつけるだけで、いっきにあったかくなる。",
+    "en": "\"Whatever you want.\" Just adding \"you want\" makes it sound much warmer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "たった二語。それだけだね。",
+    "en": "Just two words. That's all."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "whatever は、what に ever がついた形。「どんなもの」でも、ってこと。",
+    "en": "\"Whatever\" is \"what\" plus \"ever.\" It means any thing at all."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、ワイン？ ウイスキー？ 何でも好きなものをどうぞ。",
+    "en": "So, wine or whiskey? Whatever you want."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "選ぶのは「もの」やから whatever。ここ、覚えといてな。",
+    "en": "You're choosing a thing, so use \"whatever.\" Remember that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "じゃあ、練習しよう。みんなも、いっしょに。",
+    "en": "Let's practice. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何でも好きなものをどうぞ。",
+    "en": "Whatever you want."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何でも好きなものをどうぞ。",
+    "en": "Whatever you want."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、エリカとのやり取り、もういっかいやり直してみよか。",
+    "en": "Let's try your conversation with Erika again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よし、ミカ。エリカとの会話をやり直させて。",
+    "en": "Okay, Mika. Let me try again, with Erika."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "エリカ役、私がやる？",
+    "en": "Shall I play Erika?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "お願い。「マーク、何を飲んだらいい？」って。",
+    "en": "Please. \"Mark, what should I drink?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "マーク、今夜は何を飲んだらいい？",
+    "en": "Mark, what should I drink tonight?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何でも好きなものをどうぞ！",
+    "en": "Whatever you want!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "わあ、ありがとう。ウイスキーにするわ。",
+    "en": "Wow. Thank you. I'll have the whiskey."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あ、これは気持ちええな。ちゃんと歓迎されてる感じ。",
+    "en": "That feels nice. I actually feel welcome."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それから彼女が「どうやって飲んだらいい？」って聞くんだ。",
+    "en": "And then she asks, \"How should I drink it?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ロックか、水割りか、ストレートか、ってこと。",
+    "en": "On the rocks, with water, or neat, you mean."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。「好きなように飲んでください」って答える。",
+    "en": "Right. And I answer, \"Drink it however you like.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「好きなように飲んで」。さっきの whatever との違い、分かる？",
+    "en": "\"Drink it however you like.\" Can you see the difference from \"whatever\"?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "whatever は「なに」を選ぶとき。ワインか、ウイスキーか。ものが自由。",
+    "en": "\"Whatever\" is about what you choose: wine or whiskey. Any thing is fine."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "however は「どうやって」。ロックか、水割りか。やり方が自由。",
+    "en": "\"However\" is about how: on the rocks or with water. Any way is fine."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "What は、もの。How は、やり方。",
+    "en": "What. Thing. How. Way."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ覚え方。What は「もの」、How は「やり方」。",
+    "en": "That's a good way to remember it. \"What\" is a thing; \"how\" is a way."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "好きなように切って。好きなように料理して。好きなように着て。",
+    "en": "Cut it however you like. Cook it however you like. Wear it however you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "動詞は何でもええの。「どうやって」を相手に任せたいとき、however you like。",
+    "en": "You can use different verbs. Say \"however you like\" when you leave the method up to someone."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "では、ふたつ目のフレーズ。みんなも、いっしょに。",
+    "en": "Now, our second phrase. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "好きなように飲んでください。",
+    "en": "Drink it however you like."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "好きなように飲んでください。",
+    "en": "Drink it however you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "飲み方は自由。バーテンダーっぽい。",
+    "en": "Any way they like. You sound like a bartender."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "僕はバーテンダーだよ、ミカ。",
+    "en": "I am a bartender, Mika."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう、バーテンダー。エリカには、言わへんかったけど。",
+    "en": "Yes, a bartender. Though you didn't say that to Erika."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "エリカに謝らないと。何て言えばいいかな？",
+    "en": "So, I need to apologize to Erika. What should I say?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「また来てね」って、ちゃんと伝えたいね。エリカに「いつでも来てね」って、英語でどう言うん。",
+    "en": "You want her to know she's welcome back. How do you tell Erika she can come anytime?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いつでもまた来てね。あるいは……好きなときにまた来てね。",
+    "en": "Come back anytime. Or... come back whenever you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「いつでも、好きなときに来てね」。さっきのふたつとちがって、今度は「とき」の話ね。",
+    "en": "\"Come back whenever you like.\" Unlike the other two, this one is about time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "Whenever。When に ever を足した形だね。",
+    "en": "Whenever. When plus ever."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "whatever が「もの」、however が「やり方」やった。",
+    "en": "\"Whatever\" was about things, and \"however\" was about ways."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "whenever は「とき」。いつ来るかが自由。",
+    "en": "\"Whenever\" is about time. They can choose when to come."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これで、みっつそろった。What は「もの」、How は「やり方」、When は「とき」。",
+    "en": "That's all three. \"What\" for things, \"how\" for ways, and \"when\" for times."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "What、how、when。簡単だね！",
+    "en": "What, how, when. Easy!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みっつ目のフレーズ、練習しよか。",
+    "en": "Let's practice our third phrase."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "みんなも、いっしょに。",
+    "en": "Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いつでも、好きなときにまた来てね。",
+    "en": "Come back whenever you like."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いつでも、好きなときにまた来てね。",
+    "en": "Come back whenever you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「好きなときに、また来てね」。お店の人に言われたら、うれしいやつ。",
+    "en": "\"Come back whenever you like.\" It's nice to hear that from someone at a shop."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "でも気をつけて。Whenever は本当に「いつでも」だからね。",
+    "en": "But be careful. Whenever really means \"any time.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに「いつでも」やから。たとえば、よなかのさんじとか。",
+    "en": "It really is anytime. Three in the morning, for example."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "夜中の三時には誰も来ないよ。",
+    "en": "Nobody comes at three a.m."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みっつ使うて、ちょっとやってみよか。バーのお客さんとマーク。",
+    "en": "Let's try all three in a conversation between Mark and a customer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いいよ。僕がバーテンダー役ね。",
+    "en": "Okay. I'll be the bartender."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "私は、お客さんね。何を頼むか決められへんタイプの。",
+    "en": "I'll be a customer who can't decide what to order."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "マーク、こんばんは。決められないの。何を飲んだらいい？",
+    "en": "Hi, Mark. I can't decide. What should I drink?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何でも好きなものをどうぞ。",
+    "en": "Whatever you want."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "うーん、じゃあウイスキー。どうやって飲んだらいい？",
+    "en": "Hmm. Then, a whiskey. How should I drink it?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "好きなように飲んでください。",
+    "en": "Drink it however you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "いいね。氷ももらえる？",
+    "en": "Great. And can I get some ice?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "本当にごめん。製氷機が壊れてるんだ。",
+    "en": "I'm so sorry. The ice machine is broken."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "大丈夫。ストレートで飲むわ。",
+    "en": "That's okay. I'll have it neat."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう。いつでも、好きなときにまた来てね。",
+    "en": "Thank you. Come back whenever you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そうするわ。毎晩来るね。",
+    "en": "I will. I'll come every night."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "はい、カット。みっつとも、すんなり使えたな。",
+    "en": "And cut! We used all three naturally."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "完璧なお客さんだったよ。エリカも君みたいだったらいいのに。",
+    "en": "You were the perfect customer. Erika should be more like you."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to each situation and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつ目。お客さんに「何でも好きなものをどうぞ」と言いたいとき。",
+    "en": "First: you want to tell a customer they can have anything they want."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何でも好きなものをどうぞ。",
+    "en": "Whatever you want."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつ目。お客さんに「好きなように飲んでください」と、飲み方を任せるとき。",
+    "en": "Second: you want to let a customer choose how to drink it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "好きなように飲んでください。",
+    "en": "Drink it however you like."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつ目。お客さんに「いつでも、好きなときに来てね」と言うとき。",
+    "en": "Third: you want to tell a customer to come back anytime they like."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いつでも、好きなときにまた来てね。",
+    "en": "Come back whenever you like."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、今からエリカにメッセージを送るよ。",
+    "en": "Mika, I'm going to message Erika now."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "よし。あったかい言葉で送らな。",
+    "en": "Good. Make sure it sounds warm."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「ごめんね、エリカ。いつでもまた来て。好きなもの、何でも僕のおごりだよ」",
+    "en": "\"Sorry, Erika. Come back whenever you like. Whatever you want, it's on me.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後の「it's on me」は、おごりってこと？ ほんまにええの。",
+    "en": "\"It's on me\" means you're paying? Are you sure?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。おわびだからね。",
+    "en": "Of course. It's my apology."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "返事が来た！「分かった。明日の午前三時に行くね」だって。",
+    "en": "She replied! \"Okay. I'll come tomorrow at three a.m.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "よなかの、さんじ。",
+    "en": "Three in the morning."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "店は夜中の十二時に閉まるんだよ！",
+    "en": "The bar closes at midnight!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「いつでも」て書いたの、マークでしょ。",
+    "en": "You're the one who wrote \"anytime,\" Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "Whenever you like とは書いたけど、「午前三時を除く」とは書かなかった。",
+    "en": "I wrote \"whenever you like.\" I didn't write \"except three a.m.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、英語で書いといたらええわ。壁に。",
+    "en": "You should put that up in English. On the wall."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いい考えだね。",
+    "en": "Good idea."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、明日の前に、製氷機。ちょっと私に見せて。",
+    "en": "Before tomorrow, let's look at the ice machine. Let me see it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "……え？",
+    "en": "...What?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "やり方が、ちがってたんちゃう。",
+    "en": "Maybe you were doing it the wrong way."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ、一回たたいただけで？ 僕は何でも試したのに。もういいや。どうでもいい。",
+    "en": "Mika, you hit it once. I tried everything. Never mind. Whatever."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク。それは、あかん。",
+    "en": "Mark. Don't say that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "つまり……何でも好きなものをどうぞ、ミカ！",
+    "en": "I mean... whatever you want, Mika!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "はい、よろしい。今日も聞いてくれて、ありがとう。ほな、またね。",
+    "en": "That's better. Thanks for listening today. See you!"
+  }
+]

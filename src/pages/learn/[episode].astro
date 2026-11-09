@@ -1,0 +1,59 @@
+---
+import Base from '../../layouts/Base.astro';
+import { episodeLabel } from '../../data/site';
+import { transcriptEpisodes, transcriptFor, transcriptSlug } from '../../data/transcripts';
+
+export function getStaticPaths() {
+  return transcriptEpisodes.map(episode => ({
+    params: { episode: transcriptSlug(episode) },
+    props: { episode, lines: transcriptFor(episode) },
+  }));
+}
+
+const { episode, lines } = Astro.props;
+const label = episodeLabel(episode.number);
+---
+<Base title={label + 'の台本・英語と日本語'} description={label + '「' + episode.title + '」を英語と日本語で読み返せる対訳台本です。'}>
+  <header class="page-head">
+    <a href="/learn/#transcripts">← 台本一覧へ</a>
+    <p class="eyebrow">{label} / BILINGUAL SCRIPT</p>
+    <h1>{episode.title}</h1>
+    <p>マークとミカの会話を、英語と日本語で。番組で話している言葉には「音声」の印をつけています。</p>
+    <div class="actions">
+      <a class="button" href={episode.spotify}>Spotifyでこの回を聴く ↗</a>
+      {episode.youtube && <a class="button outline" href={episode.youtube}>YouTubeで見る ↗</a>}
+    </div>
+  </header>
+  <section aria-labelledby="script-title">
+    <h2 id="script-title">英語と日本語の台本</h2>
+    <ol class="transcript-lines">
+      {lines.map(line => (
+        <li class="transcript-line">
+          <p class="eyebrow">{line.speaker === 'MARK' ? 'マーク' : 'ミカ'}</p>
+          <div class="transcript-pair">
+            <div lang="en">
+              <p class="transcript-label">English {line.spoken === 'en' && <span lang="ja">・音声</span>}</p>
+              <p>{line.en}</p>
+            </div>
+            <div lang="ja">
+              <p class="transcript-label">日本語 {line.spoken === 'ja' && <span>・音声</span>}</p>
+              <p>{line.ja}</p>
+            </div>
+          </div>
+        </li>
+      ))}
+    </ol>
+    <p class="section-actions"><a href="/learn/#transcripts">← 台本一覧へ</a></p>
+  </section>
+</Base>
+
+<style>
+  .page-head .eyebrow { margin-top: 1rem; }
+  .page-head h1 { font-size: clamp(2rem, 5vw, 3.5rem); }
+  .transcript-lines { list-style: none; margin: 0; padding: 0; }
+  .transcript-line { border-top: 1px solid var(--line); padding: .8rem 0 1rem; }
+  .transcript-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin-top: .3rem; }
+  .transcript-label { color: var(--muted); font-size: .8rem; }
+  .transcript-pair p + p { margin-top: .15rem; }
+  @media (max-width: 38rem) { .transcript-pair { grid-template-columns: 1fr; gap: .55rem; } }
+</style>

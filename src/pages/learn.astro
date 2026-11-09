@@ -1,13 +1,22 @@
 ---
 import Base from '../layouts/Base.astro';
+import { episodeLabel } from '../data/site';
+import { transcriptEpisodes, transcriptHref } from '../data/transcripts';
 const phrases = [
   { en: 'Look at this!', ja: 'これ見て！', tip: '写真や画面など、相手に今すぐ注目してほしいものがあるとき。', prompt: 'スマホの写真を友だちに見せるとき、何と言う？' },
   { en: 'Did you see that?', ja: '今の見た？', tip: '一瞬の出来事を、相手も目にしたかどうか聞くとき。', prompt: '流れ星が一瞬だけ見えた。隣にいる人にどう聞く？' },
   { en: 'Let’s watch a movie.', ja: '映画を観よう。', tip: '映画や試合など、しばらくじっと観るものなら watch がぴったり。', prompt: '友だちを誘って「映画を観よう」と言うなら？' },
 ];
 ---
-<Base title="無料教材" description="EP018に合わせて look・see・watch の違いを例文と復習クイズで学べる無料教材です。">
-  <header class="page-head"><p class="eyebrow">02 / PRACTICE NOTES</p><h1>無料教材</h1><p class="lead">さっきの英語、次は自分で言ってみよう。</p></header>
+<Base title="無料教材" description="マークとミカの日英対訳台本と、EP018の look・see・watch を練習できる復習クイズ。">
+  <header class="page-head"><p class="eyebrow">02 / PRACTICE NOTES</p><h1>無料教材</h1><p class="lead">さっきの英語、次は自分で言ってみよう。</p><div class="actions"><a class="button" href="#transcripts">台本を読む</a><a class="button outline" href="#quiz">復習クイズへ</a></div></header>
+  <section id="transcripts" class="block" aria-labelledby="transcripts-title">
+    <p class="eyebrow">BILINGUAL SCRIPTS</p><h2 id="transcripts-title">日英対訳で台本を読む</h2>
+    <p>英語で話したセリフには和訳、日本語で話したセリフには英訳つき。気になる回を読み返してみて。</p>
+    <ul class="episode-list section-actions">
+      {transcriptEpisodes.map(episode => <li class="episode"><span class="tag">{episodeLabel(episode.number)}</span><div><h3><a href={transcriptHref(episode)}>{episode.title}</a></h3></div></li>)}
+    </ul>
+  </section>
   <section aria-labelledby="lesson">
     <p class="eyebrow">EP018 / MINI LESSON</p><h2 id="lesson">「見る」って、英語でどう言い分ける？</h2>
     <div class="grid lesson-grid">

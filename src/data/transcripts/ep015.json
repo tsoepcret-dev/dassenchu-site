@@ -1,0 +1,734 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええにおい。マーク、その鍋、まかない？",
+    "en": "That smells good. Mark, is that pot for our staff meal?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん、チリだよ。寒くなってきたから、たっぷり作ったんだ。",
+    "en": "Yep. Chili. It's getting cold, so I made a big pot."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま、ええにおい。……あ、カウンターのオレンジのボウル、お菓子がいっぱい入ってる。ひとついただくね。",
+    "en": "It smells so good. Oh, that orange bowl on the counter is full of candy. I’ll have one."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あ、ちょっと待って。ごはんが先、お菓子はあと。",
+    "en": "Ah, ah, wait. Dinner first, candy later."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "え、急にお母さんみたいなこと言い出した。",
+    "en": "You suddenly sound like my mom."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はは！ うちの母さんも、毎年ハロウィンにそう言ってた。",
+    "en": "Ha! Well, my mom said that every Halloween night."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "毎年ハロウィンの夜に？ シカゴの家って、そんなに晩ごはんが大事なん？",
+    "en": "Every Halloween? Is dinner that important in Chicago homes?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まあね。シカゴのハロウィンには流れがあるんだ。ごはん、仮装、それからお菓子。",
+    "en": "Kind of. Halloween night in Chicago has a rhythm. Dinner, costumes, and then candy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "リズムがあるんか。ちょっと聞いてみたいわ。",
+    "en": "There's a routine? I'd like to hear about it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。チリができるまで、もう少し時間があるしね。",
+    "en": "Sure. The chili needs a few more minutes, so we have time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "留学してたカリフォルニアのハロウィンは、あったかい印象やった。シカゴは、だいぶ違うんかな。",
+    "en": "I remember Halloween being warm when I studied in California. Is Chicago very different?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "全然違うよ。シカゴは寒い。本当に寒いんだ。話せば分かるよ。",
+    "en": "Totally different. Chicago is cold. Very cold. You'll see."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さて、まずは晩ごはんの話から。トリックオアトリートって、何時ごろ回るん？",
+    "en": "Let's start with dinner. What time do kids go trick-or-treating?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "郊外では、午後３時から７時としている町が多いよ。",
+    "en": "Many suburbs say three to seven p.m."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ごごさんじからしちじ。思ったより早い時間から回るんやね。",
+    "en": "Three to seven p.m. They start earlier than I expected."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "でもシカゴ市内には、公式の時間はないんだ。",
+    "en": "And in Chicago itself? There are no official hours."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "え、市として決まってへんの？",
+    "en": "The city doesn't set the hours?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うん。地域ごとに違うんだ。でも、だいたい晩ごはんの時間と重なる。",
+    "en": "Right. Each neighborhood does its own thing. But trick-or-treating happens around dinner time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ごはんの時間とかぶるんか。ほったらかしにしたら、お菓子だけでおなかいっぱいになりそう。",
+    "en": "Right at dinnertime. Otherwise, kids would fill up on candy."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。僕が子どものころは、ハロウィンの夕食は４時半だった。",
+    "en": "Exactly. When I was a kid, we ate dinner at four-thirty on Halloween."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "よじはんに晩ごはん！ 早すぎる。",
+    "en": "Dinner at four-thirty! That's so early."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのあとはドアベルが鳴りっぱなしだからね。母さんはいつも「ごはんが先、お菓子はあと」って。",
+    "en": "Because after that, the doorbell never stops. So my mom always said, \"Dinner first, candy later.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ごはんが先、お菓子はあと」。firstとlaterで、順番を言うフレーズね。",
+    "en": "Dinner comes first, then candy. “First” and “later” tell us the order."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いろいろ応用できるよ。「宿題が先、ゲームはあと」とか。",
+    "en": "You can use it for anything. \"Homework first, games later.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "宿題が先、ゲームはあと。ほんまに使い回せるわ。",
+    "en": "Homework first, games later. You really can reuse it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "じゃあ、いっしょに言ってみよう。",
+    "en": "Let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごはんが先、お菓子はあと。",
+    "en": "Dinner first, candy later."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごはんが先、お菓子はあと。",
+    "en": "Dinner first, candy later."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんで、マークは子どものころ、ちゃんと守ってたん？",
+    "en": "So, did you follow that rule as a kid?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "全然。ポケットにチョコを隠してた。",
+    "en": "Never. I hid a chocolate in my pocket."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "こっそりポケットに。いちばんあかんパターン。",
+    "en": "Sneaking it into your pocket. That's asking for trouble."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ところで、ハロウィンの晩ごはんって、どんなんが多いん？",
+    "en": "What do people usually eat for dinner on Halloween?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "チリやスープ、ピザ。温かくて、さっと食べられるものだね。",
+    "en": "Chili, soup, or pizza. Something warm, and easy to eat fast."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ピザはイメージできる。デリバリーも多そう。",
+    "en": "I can picture pizza. Delivery must be popular, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すごく忙しいよ。アメリカでは、ハロウィンはピザの配達が特に忙しい夜のひとつなんだ。",
+    "en": "Very busy. Halloween is one of the busiest nights for pizza delivery in America."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最近の調査やと、ふだんの日より、デリバリーを頼む可能性がにじゅうさんパーセント高いんやって。",
+    "en": "A recent study compared Halloween with a regular day. People are 23% more likely to order delivery."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "分かるな。ハロウィンに料理したくないもんね。",
+    "en": "That makes sense. Nobody wants to cook on Halloween."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ドアベルが鳴りっぱなしやと、料理どころちゃうわな。",
+    "en": "With the doorbell ringing constantly, who has time to cook?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "うちはいつもチリ。温かくて手軽だし、寒い日にぴったり。",
+    "en": "At my house? Chili. Always chili. Hot, easy, and good for cold weather."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、今日のお鍋は実家の味か。",
+    "en": "So today's pot is a taste of home."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "家族のレシピだよ。豆を変えたことは母さんに内緒ね。",
+    "en": "Family recipe. Please don't tell my mom I changed the beans."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言わへん。……けど、ほんまにええにおい。",
+    "en": "I won't tell. But it really does smell good."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "晩ごはんのあとは、いよいよ仮装ね。",
+    "en": "After dinner, it's finally costume time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。でもシカゴには、大きな問題がある。天気だよ。",
+    "en": "Yes. But in Chicago, there's a big problem. The weather."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "寒いんでしょ。どのくらい？",
+    "en": "It's cold, right? How cold?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "10月31日の平均最高気温は華氏56度。平均最低気温は約40度だよ。",
+    "en": "On October thirty-first, the average high is fifty-six degrees. The average low is about forty."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、華氏ね。せっしにすると、最高がじゅうさんどくらい。最低はよんどくらい。",
+    "en": "That’s Fahrenheit. In Celsius, the high is about 13 degrees. The low is about four degrees."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ハロウィンに雪が降る年もあるんだ。",
+    "en": "And some years, it even snows on Halloween."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ハロウィンに雪！ 仮装、どうなるん？",
+    "en": "Snow on Halloween! What happens to the costumes?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "子どもたちは仮装の上から、厚い冬用コートを着るんだ。",
+    "en": "Kids wear a big winter coat over the costume."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せっかくの仮装が、コートで見えへん。",
+    "en": "Then you can't see the costume they worked so hard on."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！僕の海賊の衣装の下もパーカー。それに帽子と手袋。",
+    "en": "Yes! My pirate costume had a hoodie under it. And a hat. And gloves."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "海賊が、完全に冬支度。",
+    "en": "A pirate all bundled up for winter."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "海賊だって寒いからね。",
+    "en": "Pirates get cold too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "カリフォルニアやと、上着なしの子も多かった気がする。同じ国やのに、えらい違い。",
+    "en": "I remember lots of kids without jackets in California. Same country, so different."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "別世界だよ。さて、仮装した子を見かけたら、こんなふうに聞ける。",
+    "en": "Different world. Okay, when you see a kid in a costume, you ask a simple question."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装をしてるの？",
+    "en": "What are you dressed as?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「何の仮装をしてるの？」ね。仮装してる相手に使う聞き方で、ふつうの服には使わへん。",
+    "en": "You ask what their costume is. It’s for someone in costume, not in ordinary clothes."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう、仮装のときだけ。「おばけだよ」とか「海賊だよ」って答えるんだ。",
+    "en": "Right. Only for costumes. The answer is, \"I'm a ghost,\" or \"I'm a pirate.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "では、いっしょに。",
+    "en": "Let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装をしてるの？",
+    "en": "What are you dressed as?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装をしてるの？",
+    "en": "What are you dressed as?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "仮装して歩くなら、どのへんが有名なん？",
+    "en": "Where's a famous place to walk around in costume?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ハイドパークのハーパー・アベニュー。57番街から59番街の間だよ。",
+    "en": "Harper Avenue in Hyde Park. Between fifty-seventh and fifty-ninth streets."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ごじゅうななばんがいからごじゅうきゅうばんがいね。何がすごいん？",
+    "en": "Between 57th and 59th. What's special about it?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "飾りつけだよ。巨大なクモや膨らませたモンスター、それに何千人もの子どもたち。",
+    "en": "The decorations. Giant spiders, inflatable monsters, and thousands of kids."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "なんぜんにんも！ 家の飾りを見に、わざわざ行く通りなんか。",
+    "en": "Thousands! People make a special trip to see the houses?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ハロウィンの前の週末に、トリックオアトリートのイベントを開く地域もあるよ。",
+    "en": "Some neighborhoods also hold trick-or-treat events on the weekend before Halloween."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "前の週末にもあるんか。早めに楽しめるのはええね。",
+    "en": "The weekend before, too? Nice to start celebrating early."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、肝心のお菓子。シカゴって、お菓子の街って聞いたことある。",
+    "en": "Now, the candy. I've heard Chicago is a candy town."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！ シカゴはアメリカのお菓子の都と呼ばれていたんだ。",
+    "en": "Yes! Chicago was called the candy capital of America."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "レモンヘッズも、シカゴの会社じゃなかった？",
+    "en": "Isn't Lemonheads from a Chicago company?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "レモンヘッズ、レッドホッツ、トゥッツィーロールズ、ジューシーフルーツ。みんなシカゴにゆかりがあるよ。",
+    "en": "Lemonheads, Red Hots, Tootsie Rolls, Juicy Fruit. All of them have Chicago history."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ある歴史家によると、シカゴのお菓子会社は、トリックオアトリートを広めるのにも力を入れたらしい。",
+    "en": "One historian says Chicago candy companies also helped promote trick-or-treating."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "発明したわけじゃないけど、第二次世界大戦後、積極的に広めたんだ。",
+    "en": "They didn't invent it. But after World War Two, they pushed it hard."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お菓子を売る側が、ハロウィンを盛り上げたってことね。うまいこと考えたな。",
+    "en": "So candy sellers helped make Halloween popular. Clever business."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今年の大規模な全米調査では、ハロウィンの買い物客の96％がお菓子を買う予定なんだって。",
+    "en": "And today? In a big national survey this year, ninety-six percent of Halloween shoppers said they plan to buy candy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "きゅうじゅうろくパーセント！ ほぼ全員ね。",
+    "en": "Ninety-six percent! Almost everyone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、ドアのところでは、どんなやり取りをするん？",
+    "en": "So, what do people say at the door?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "子どもが「トリックオアトリート！」と言ったら、笑顔でボウルを差し出して「どうぞ、ご自由に」。",
+    "en": "Kids say, \"Trick or treat!\" You smile, hold out the bowl, and say, \"Help yourself.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「どうぞ、ご自由に」ね。ボウルを差し出して、自分で取ってもらうときのひとこと。",
+    "en": "It's an invitation to take some. You hold out the bowl and let them serve themselves."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "食卓でも使えるよ。「チリをどうぞ、ご自由に」ってね。",
+    "en": "You can also use it at the dinner table. \"Help yourself to the chili.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "食卓でも使えるんか。便利ね。",
+    "en": "It works at the dinner table, too. Handy."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "では、いっしょに。",
+    "en": "Let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どうぞ、ご自由に。",
+    "en": "Help yourself."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どうぞ、ご自由に。",
+    "en": "Help yourself."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつ覚えたし、ちょっとやってみよか。マークがお父さんで、ミカが子ども。",
+    "en": "We’ve learned three phrases. Let’s try them. You be the dad, and I’ll be the kid."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よし。君が子ども、僕がお父さん。まずは家の中から。",
+    "en": "Okay. You're a kid, and I'm your dad. First, we're at home."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "お父さん、お菓子食べてもいい？",
+    "en": "Dad, can I have some candy?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごはんが先、お菓子はあと。",
+    "en": "Dinner first, candy later."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "でも、おなかぺこぺこ！",
+    "en": "But I'm so hungry!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "じゃあ、チリを取って食べなさい。",
+    "en": "Then help yourself to the chili."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "うん！ おいしい。もう外に行ってもいい？",
+    "en": "Okay! Mmm, it's good. Can we go out now?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いいよ。まずコートを着てね。",
+    "en": "Yes. Put on your coat first."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、次は近所のおうちへ。マーク、今度はお菓子を配る人ね。",
+    "en": "Next, we're at a neighbor's house. Mark, now you're handing out candy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "トリックオアトリート！",
+    "en": "Trick or treat!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "わあ！ 何の仮装をしてるの？",
+    "en": "Oh, wow! What are you dressed as?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "おばけだよ！",
+    "en": "I'm a ghost!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "すてきな仮装だね！ お菓子をどうぞ。",
+    "en": "Great costume! Help yourself."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "ありがとう！ ハッピーハロウィン！",
+    "en": "Thank you! Happy Halloween!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ハッピーハロウィン！ 暖かくしてね！",
+    "en": "Happy Halloween! Stay warm!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつとも、ちゃんと自然に出てきたわ。",
+    "en": "All three phrases came up naturally."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、Markの後に続けたらええで。",
+    "en": "Now it’s your turn. Listen to each situation in Japanese and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。ごはんの前にお菓子をほしがる子どもに、「ごはんが先、お菓子はあと」と言いたいとき。",
+    "en": "First: a child wants candy before dinner. What would you say about which comes first?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごはんが先、お菓子はあと。",
+    "en": "Dinner first, candy later."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。仮装している子に、「何の仮装なの？」と聞きたいとき。",
+    "en": "Second: you want to ask a child about their costume. What would you say?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何の仮装をしてるの？",
+    "en": "What are you dressed as?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。お菓子のボウルを差し出して、「どうぞ、取ってください」と言いたいとき。",
+    "en": "Third: you hold out a bowl of candy and invite someone to take some. What would you say?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "どうぞ、ご自由に。",
+    "en": "Help yourself."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、よくできたね！ そして……チリもできたよ。",
+    "en": "Good job, everyone! And... the chili is ready."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "やっと晩ごはん。いただきます。",
+    "en": "Finally, dinner. Let's eat."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ごちそうさま。ほな、お菓子のボウル、いただいてもええ？",
+    "en": "That was lovely. Can I have some candy from the bowl now?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ごはんは終わった。じゃあ、お菓子の時間だね。どうぞ、ご自由に。",
+    "en": "Dinner is done. So now it's candy time. Help yourself."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう。……ひとつ、ふたつ、みっつ。",
+    "en": "Thanks. One... two... three."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "おいおい、取りすぎだよ！",
+    "en": "Hey! That's too many!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっき、Help yourself って言うた。",
+    "en": "You just said, “Help yourself.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "……分かった、分かった。でもチョコは僕に残してね。",
+    "en": "...Okay, okay. But leave me the chocolate."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、ハッピーハロウィン！ また次回！",
+    "en": "Happy Halloween, everyone! See you next time!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

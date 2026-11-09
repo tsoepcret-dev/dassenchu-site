@@ -1,0 +1,770 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふう、きょうも終わったな。グラス、みがいとくわ。",
+    "en": "Phew, we're done for the night. I'll polish the glasses."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう、ミカ。ちょっと聞いてもいい？",
+    "en": "Thanks, Mika. Hey, can I ask you something?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "なに、あらたまって。",
+    "en": "What's with the serious tone?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "今夜、初めてのお客さんがカウンターに座って、笑顔で「いいバーだね」って言っただろ。",
+    "en": "Tonight, a first-time customer sat at the counter. He smiled at you and said, \"Nice bar!\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ああ、いたな。",
+    "en": "Oh, yeah. I remember him."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカは「ありがとう」だけ言って、キッチンへ行っちゃった。",
+    "en": "And you said, \"Thank you.\" Only that. Then you ran to the kitchen."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちゃうねん。お皿が、たまっててん。",
+    "en": "No, I had dishes piling up."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ。お皿は僕が洗い終えたばかりだったよ。",
+    "en": "Mika. I’d just washed all the dishes."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……ばれてるか。",
+    "en": "...You caught me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "初対面の人だと緊張するの？",
+    "en": "Are you shy with new people?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……そう。ほんまは、めっちゃ人見知りやねん。",
+    "en": "...Yeah. I'm actually really shy with new people."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "本当に？ 僕とはあんなによく話すのに！",
+    "en": "Really? You talk so much with me!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークとは、もう慣れてるから。はじめての人やと、急にことばが出てこおへん。",
+    "en": "I'm comfortable with you now, Mark. With someone new, I suddenly can't find the words."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "でも英語は上手だし、カリフォルニアにも留学したよね！",
+    "en": "But your English is great. And you studied in California!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "英語は関係ないねん。日本語でも、世間話がすぐ止まってまう。",
+    "en": "It's not about English. Small talk dries up even in Japanese."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "何か心配なことがあるの？",
+    "en": "Is there something you're worried about?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あした、ともだちのホームパーティーがあるねん。毎月やってるんやけど、ともだちのともだちが、いっぱい来る。",
+    "en": "My friend's having a house party tomorrow. It's a monthly thing, with lots of friends of friends."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "知らない人だらけのパーティーか。大変だ。",
+    "en": "A party full of strangers. Oh no."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "知ってる人、ほとんどおらへん。さいしょのひとことも、続けかたも分からんし、どうしたらええと思う？",
+    "en": "I hardly know anyone. I don't know how to start or keep talking. What should I do?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "大丈夫。世間話には簡単なコツがあるよ。",
+    "en": "Don't worry. Small talk has simple tricks."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま？ むずかしいコツは、むりかも。",
+    "en": "Really? Nothing too complicated, I hope."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "フレーズは３つ。それだけ。",
+    "en": "Just three phrases. That's all."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつだけ？ それやったら、いけるかも。",
+    "en": "Just three? I might be able to manage that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "やってみよう。準備はいい？",
+    "en": "Let's do it. Ready?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "マーク！",
+    "en": "Mark!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そしてミカ！",
+    "en": "And Mika!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、まず、さいしょのひとこと。なんて声かけたらええの？",
+    "en": "Okay, the first thing to say. How do I start?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まず、その場所の話から。同じ場所にいるから話しやすいよ。",
+    "en": "Start with the place. You and the other person are in the same place, so it's easy."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "たしかに。仕事とか年齢を聞くより、あたりさわりないな。",
+    "en": "True. It's less personal than asking about work or age."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。「ここは初めてですか？」って聞いてみて。",
+    "en": "Exactly. Try this: \"Is this your first time here?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ここは、はじめてですか」ってこと？",
+    "en": "So it means, \"Is this your first visit here?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！ パーティーや教室、カフェみたいに、また来られる場所で使えるよ。",
+    "en": "Yes! It works for places people can visit again, like a party, a class, or a cafe."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あしたは毎月のパーティーやから、ぴったりやな。",
+    "en": "Tomorrow's party happens every month, so that fits."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ぴったり。ゆっくり言ってみて。笑顔もね！",
+    "en": "Perfect. Say it slowly. And smile!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめのフレーズ。みんなも、いっしょに言うてみて。",
+    "en": "Our first phrase. Everyone, try saying it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここは、はじめてですか？",
+    "en": "Is this your first time here?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここは、はじめてですか？",
+    "en": "Is this your first time here?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "逆に聞かれたら、私も「はい」だけで終わってまいそう。",
+    "en": "If someone asked me that, I'd probably just say yes and stop."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よくあることだよ。質問に答えたあと、沈黙になっちゃう。",
+    "en": "That happens. You answer the question, and then... silence."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、いちばん気まずいやつ。",
+    "en": "That's the awkward part."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "答えたあとで、同じ質問を相手に返してみよう。",
+    "en": "After you answer, try asking the same question back."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "聞き返すんやね。",
+    "en": "So I ask them back."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "世間話はキャッチボールみたいなもの。質問を受け取ったら、相手にも返すんだ。",
+    "en": "Small talk is like playing catch. Someone throws a question. You catch it. Then you throw something back."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ああ、会話はキャッチボール、ってよう言うな。",
+    "en": "Oh, right. People often compare conversation to playing catch."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。そこで「あなたはどう？」って返すんだ。",
+    "en": "Yes. And this is the throw: \"How about you?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「あなたは、どうですか」やな。",
+    "en": "It means, \"What about you?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "まず自分が答えて、そのあとに「あなたは？」。たとえば「コーヒーが好き。あなたは？」。",
+    "en": "You answer first. Then add, \"How about you?\" For example, \"I like coffee. How about you?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "自分の答えのあとに、くっつけるだけか。",
+    "en": "So I just add it after my answer."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう！「今度はあなたの番」ってことだね。",
+    "en": "Yes! It means, \"Now it's your turn.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめのフレーズ。みんなも、言うてみて。",
+    "en": "Our second phrase. Everyone, give it a try."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたは、どうですか？",
+    "en": "How about you?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたは、どうですか？",
+    "en": "How about you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これ、カリフォルニアにおったとき、よう言われたわ。",
+    "en": "People said that to me all the time in California."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そうなの？ カリフォルニアの人はよく話すよね。",
+    "en": "Oh? People talk a lot in California, right?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまにそう。スーパーのレジで、知らん人が急に話しかけてくんねん。",
+    "en": "They really do. Strangers would start talking to me at the supermarket checkout."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "アメリカではよくあるよ！ シカゴではエレベーターでも話す。",
+    "en": "That's normal in America! In Chicago, people talk in elevators."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "エレベーターで？ すぐ着くのに。",
+    "en": "In an elevator? You're there for no time at all."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "「今日、寒いね」「そうだね」。おしまい。５秒。",
+    "en": "\"Cold today, huh?\" \"Yeah!\" Done. Five seconds."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それで終わり？ みじかっ。",
+    "en": "That's it? So short!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それでいいんだ！ 世間話は、あいさつに少し言葉を足すくらいでいい。",
+    "en": "That's okay! Small talk is just \"hello\" with a little extra."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "長く続けなあかんって、思い込んでたわ。",
+    "en": "I thought I had to keep the conversation going for ages."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう思う人は多いよ。でも面白いことを言う必要はない。興味を持てばいいんだ。",
+    "en": "Many people think so. But you don't have to be funny. Just be curious."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おもしろいこと言わんでも、ええんやな。",
+    "en": "So I don't have to say something funny."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。僕も人見知りだったんだよ。",
+    "en": "Right. I was shy too, you know."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークが？ うそ。",
+    "en": "You, Mark? No way."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "本当。大阪に来たころは、１週間「こんにちは」しか言わなかった。",
+    "en": "Really. When I came to Osaka, I only said \"Hello\" for a week."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま？ それは意外。",
+    "en": "Really? That's a surprise."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "それから短い質問をするようになって、少しずつ友達ができたんだ。",
+    "en": "Then I started asking small questions. Slowly, I made friends."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちいさい質問から、友だちができたんか。",
+    "en": "Small questions led to friendships."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。それが最後のフレーズにつながるんだ。",
+    "en": "Yes. And that leads us to the last phrase."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "気になる。どんなん？",
+    "en": "Now I'm curious. What is it?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "相手が楽しい話をしたら、「楽しそう！ もっと聞かせて」と言ってみよう。",
+    "en": "When someone shares something nice, say, \"That sounds fun! Tell me more.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「たのしそう。もっと聞かせて」ってこと？",
+    "en": "So, \"Sounds like fun. I'd like to hear more.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。「楽しそう」で反応して、「もっと聞かせて」で話を続けてもらうんだ。",
+    "en": "Yes. \"That sounds fun\" is your reaction. \"Tell me more\" helps them keep talking."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手が、気持ちよく話せるわけか。",
+    "en": "That makes it easier for them to keep talking."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ひとつ注意。「楽しそう」は、うれしい話のときに使うよ。",
+    "en": "And a small note. \"That sounds fun\" is for happy news."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "悲しい話に「たのしそう」は、あかんもんな。",
+    "en": "Right. You wouldn't say \"Sounds fun\" to a sad story."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はは、そうだね。悲しい話なら、話を聞いてうなずこう。",
+    "en": "Haha, no. For sad news, just listen and nod."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うなずくだけでも、ええのか。",
+    "en": "Even just nodding can be enough?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。じゃあ、僕に続けて。",
+    "en": "Yes. Okay, repeat after me."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめのフレーズ。みんなも、いっしょに。",
+    "en": "Our third phrase. Everyone, together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "たのしそう！ もっと聞かせて。",
+    "en": "That sounds fun! Tell me more."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "たのしそう！ もっと聞かせて。",
+    "en": "That sounds fun! Tell me more."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、あしたの前に、練習させて。",
+    "en": "Let me practice before tomorrow."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "もちろん。僕がパーティーで初めて会う人になる。ミカはミカのままで。いい？",
+    "en": "Of course. I'll be a stranger at the party. You're Mika. Ready?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……ちょっと、きんちょうしてきた。",
+    "en": "...I'm already getting nervous."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "深呼吸して。笑顔で。どうぞ！",
+    "en": "Deep breath. Smile. Go!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "こんにちは！ いいパーティーだね。",
+    "en": "Hi! Nice party, right?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "そうですね！ こんにちは。ここは、はじめてですか？",
+    "en": "Yes! Hi. Is this your first time here?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いえ、毎月来てるんです。週末は何をしてるんですか？",
+    "en": "No, I come every month. What do you do on weekends?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "家で料理をするのが好きです。あなたは？",
+    "en": "I like cooking at home. How about you?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "友達とバスケをしています。毎週日曜の朝に。",
+    "en": "I play basketball with my friends. Every Sunday morning."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "たのしそう！ もっと聞かせて。",
+    "en": "That sounds fun! Tell me more."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "家の近くの公園でやってます。上手じゃないけど、よく笑ってます！",
+    "en": "Well, we play at the park near my house. We're not good, but we laugh a lot!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "はは、日曜の朝にぴったりですね。",
+    "en": "Haha, that sounds like a great way to start Sunday."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ありがとう！ 話せてよかったです。",
+    "en": "Thanks! Nice talking to you."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "私もです！",
+    "en": "You too!"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ほら、できたじゃない、ミカ。",
+    "en": "See? You did it, Mika."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……え、いまの、わたし？ ちゃんと会話になってたん？",
+    "en": "...Wait, was that me? Was that a real conversation?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そう。ちゃんと会話になってたよ。",
+    "en": "Yes. A real conversation."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつ言うただけで、ほんまに続いてたわ。",
+    "en": "Those three phrases really kept it going."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "短い質問をして、答えて、聞き返して、興味を示す。それだけ。",
+    "en": "Ask a small question. Answer. Throw it back. Show interest. That's all."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "気楽に考えたら、ええんか。",
+    "en": "So I can take it easy."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "そのとおり。言葉が出なければ笑顔で。笑顔も会話のきっかけになるよ。",
+    "en": "Exactly. And if the words don't come, smile. A smile is small talk, too."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "笑顔も世間話か。それやったら、できそう。",
+    "en": "A smile counts too? I can do that."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to each situation and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いこう！",
+    "en": "Let's go!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "パーティーで、知らない人に声をかけます。ここに来るのは、はじめてか聞いてみよう。",
+    "en": "You're starting a conversation at a party. Ask if this is their first time here."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ここは、はじめてですか？",
+    "en": "Is this your first time here?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "自分のことを話しました。今度は、相手の番です。あなたは、どうですか、と聞き返しましょう。",
+    "en": "You've talked about yourself. Now ask the other person, \"How about you?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "あなたは、どうですか？",
+    "en": "How about you?"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "相手が、たのしそうな話をしてくれました。もっと聞きたいです。",
+    "en": "They've told you something fun, and you'd like to hear more."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "たのしそう！ もっと聞かせて。",
+    "en": "That sounds fun! Tell me more."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、よくできました！",
+    "en": "Great job, everyone!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう、マーク。これで、あしたはなんとかなりそう。",
+    "en": "Thanks, Mark. I think I'll be okay tomorrow."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "よかった。あとひとつ。パーティーの前にもう一度練習してね。",
+    "en": "Good. One more thing. Practice once more before the party."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "せやな。ほな、マークで最後にもういっかい。",
+    "en": "Right. One last practice with you, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "いいよ！",
+    "en": "Okay!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "ja": "すみません。ここは、はじめてですか？",
+    "en": "Excuse me. Is this your first time here?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "ミカ。ここ、僕の店なんだけど。",
+    "en": "Mika. I own this bar."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……そうやった。ここ、マークの店やった。",
+    "en": "...Oh, right. This is your bar, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "はは！ でも笑顔は完璧だったよ。",
+    "en": "Haha! But your smile was perfect."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あしたは、ちゃんと、はじめての人に言うわ。",
+    "en": "Tomorrow I'll say it to someone I really am meeting for the first time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "パーティーを楽しんで。明日、全部聞かせてね！",
+    "en": "Have fun at the party. And tell me everything tomorrow!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "報告、まっといて。",
+    "en": "I'll have a full report for you."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "ja": "みんな、聴いてくれてありがとう。また次回！",
+    "en": "Thanks for listening, everyone. See you next time!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you next time."
+  }
+]

@@ -18,6 +18,7 @@ pnpm preview
 ## 編集箇所
 
 - `src/data/episodes.json` に、公開を確認した回のタイトル・短い紹介・公開視聴 URL を追加します。新しい回を先頭に置くとトップの新着にも反映されます。
+- `src/data/transcripts/epNNN.json` に、公開用の台本を発言順で追加できます。各行には `speaker`（MARK / MIKA）、`spoken`（en / ja）、`en`（英語）、`ja`（日本語）を入れます。対応する回のPodcast一覧と無料教材にリンクが付きます。制作メモやファイルの保存先は含めません。
 - `src/pages/learn.astro` は無料教材、`src/pages/apps.astro` はアプリ紹介です。広告・アフィリエイト掲載時は、対象の紹介文とリンクのそばに「広告」または「PR」を表示し、広告リンクに `rel="sponsored"` を付けます。
 - 画像は既存の番組ジャケットを Web 用 JPEG に変換したものです。制作資料、音声、環境変数、個人情報は公開リポジトリに追加しないでください。
 
