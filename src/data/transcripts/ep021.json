@@ -1,0 +1,680 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マーク、さっきから、おんなじメモ、じーっと見てるけど。どないしたん？",
+    "en": "Mark, you've been staring at the same note. What's wrong?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mika. I think I made a big mistake.",
+    "ja": "ミカ、大きな失敗をしたかもしれない。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま？ なにしたん。",
+    "en": "Really? What did you do?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The landlord, Mr. Okada, called the bar. While you were in the back.",
+    "ja": "君が奥にいたとき、大家のオカダさんから店に電話があったんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "オカダさん？ 大家さんから電話？ なんて言うてたん？",
+    "en": "Mr. Okada? Our landlord called? What did he say?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I don't know. He spoke so fast. It was like a fast train. And then, \"Ii desu ka?\"",
+    "ja": "分からない。すごく早口だった。快速電車みたいに。それで最後に「いいですか？」って。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "聞き取れたんは、「いいですか？」だけ？",
+    "en": "All you caught was \"Is that okay?\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Just that. So I said, \"Yes! Yes, of course!\"",
+    "ja": "それだけ。だから「はい！ もちろんです！」って答えた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "何がええんかも、わからへんのに？",
+    "en": "Without knowing what you were agreeing to?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I wanted to be polite!",
+    "ja": "失礼にしたくなかったんだ！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "いちばん、あぶないやつ。……よっしゃ、今日は、この電話から「言う」の英語を整理しよか。日本語やと、ぜんぶ「言う」「話す」で済ませてまうけど。",
+    "en": "That's asking for trouble. Let's use this call to sort out these English verbs. In Japanese, we often cover them all with \"iu\" or \"hanasu.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "But English has four different verbs. Say, tell, speak, and talk.",
+    "ja": "でも英語には、say、tell、speak、talk の四つの動詞がある。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、ひとつずつ、いこか。",
+    "en": "Let's take them one at a time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mark!",
+    "ja": "マーク！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "And Mika!",
+    "ja": "そしてミカ！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まず、さっきの電話。聞き取れへんかったとき、オカダさんに、なんて言えばよかったんやろ。",
+    "en": "Back to that call. What should you have said when you couldn't catch what Mr. Okada said?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"Say it again, please.\"",
+    "ja": "もういちど言ってください。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ。「もういちど言ってください」。ひとつめのフレーズ。",
+    "en": "That's our first phrase: \"Say it again, please.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I should have said that on the phone.",
+    "ja": "電話でそう言えばよかった。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その「言う」が say。口から出た言葉そのものに、注目する動詞やな。",
+    "en": "That's \"say.\" It focuses on the actual words you say."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "He said, \"Ii desu ka?\" And I said, \"Yes!\"",
+    "ja": "彼が「いいですか？」と言って、僕が「はい！」と言った。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「言うた」も「言うた」も said。ここは、むずかしくない。",
+    "en": "Both use \"said.\" That part's straightforward."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Say hello. Say thank you. Say sorry.",
+    "ja": "こんにちはと言う。ありがとうと言う。ごめんと言う。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "あいさつの言葉も、ぜんぶ say。決まった言葉を、口に出す感じ。",
+    "en": "Those all use \"say,\" too. You're saying a particular word or phrase."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "But this one is different. He spoke too fast.",
+    "ja": "でも、これは違う。彼は話すのが速すぎた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは speak。speak は、話し方とか、何語を話せるかに使う。",
+    "en": "That's \"speak.\" We use it for how someone speaks or which languages they can speak."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Do you speak Japanese? I speak a little Japanese.",
+    "ja": "日本語は話せますか？ 僕は日本語を少し話せます。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ちょっとだけ」て。マークの日本語、ふつうにじょうずやん。",
+    "en": "\"A little\"? Your Japanese is pretty good, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "But Osaka Japanese is a different language.",
+    "ja": "でも、大阪の日本語は別の言語だよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは、否定でけへんな。",
+    "en": "Can't argue with that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "So I can also say, \"Please speak slowly.\"",
+    "ja": "だから「ゆっくり話してください」とも言えるね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それも便利。「ゆっくり話してください」。ほな、ひとつめのフレーズ、練習しよか。みんなも、いっしょに。",
+    "en": "That's useful, too: \"Please speak slowly.\" Let's practice our first phrase. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Say it again, please.",
+    "ja": "もういちど言ってください。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Say it again, please.",
+    "ja": "もういちど言ってください。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "聞き取れへんかったら、まよわず、これ。「いいですか？」に、いきなり Yes は、あかんで。",
+    "en": "If you don't catch something, use this. Don't just say yes to \"Is that okay?\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ところで、マーク。オカダさんの電話のこと、うち以外にも、誰かに言うた？",
+    "en": "By the way, Mark, did you tell anyone else about Mr. Okada's call?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. I said, \"Mr. Okada called!\"",
+    "ja": "うん。「オカダさんから電話があった！」って言った。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "誰に？",
+    "en": "Who did you say it to?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "...The refrigerator.",
+    "ja": "……冷蔵庫。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "冷蔵庫。",
+    "en": "The refrigerator."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I said it. But I didn't tell anyone else.",
+    "ja": "口には出した。でも、ほかの誰にも伝えてない。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ。say と tell の違い、いま、ぜんぶ出てた。",
+    "en": "There it is. You just showed us the difference between \"say\" and \"tell.\""
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "say は、言葉を口に出すだけ。相手は、おらんでもええ。tell は、誰かに伝える。tell のあとには、人が来る。",
+    "en": "\"Say\" means to put words into speech. You don't need a listener. \"Tell\" means to give someone information. A person comes after \"tell.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tell me. Tell her. Tell Mika. I told Mika about the call.",
+    "ja": "僕に伝えて。彼女に伝えて。ミカに伝えて。僕はミカに電話のことを伝えた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ミカに伝えた」やから、told Mika。先に人、そのあとに中身。",
+    "en": "You told Mika, so it's \"told Mika.\" First the person, then the information."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The refrigerator didn't answer.",
+    "ja": "冷蔵庫は返事をしなかった。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "返事あったら、こわいわ。",
+    "en": "I'd be scared if it did."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "So if you want to know what someone said, you say, \"Tell me what he said.\"",
+    "ja": "誰かが何と言ったか知りたいなら、「Tell me what he said.」と言う。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "これが、ふたつめのフレーズ。「彼が何て言ったか教えて」。本人に聞くときは、he を you に変えるだけ。",
+    "en": "That's our second phrase: \"Tell me what he said.\" When asking the person directly, change \"he\" to \"you.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tell me what you said.",
+    "ja": "あなたが何て言ったか教えて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう。ほな、ふたつめ、練習しよか。みんなも、いっしょに。",
+    "en": "Right. Let's practice our second phrase. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tell me what he said.",
+    "ja": "彼が何て言ったか教えて。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tell me what he said.",
+    "ja": "彼が何て言ったか教えて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Mark. Tell me what he said.",
+    "ja": "マーク。彼が何て言ったか教えて。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "He said... \"Ii desu ka?\"",
+    "ja": "彼は……「いいですか？」って言った。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それだけ？ ほかは？",
+    "en": "That's it? Anything else?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "That's all. I promise.",
+    "ja": "それだけ。本当だよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに、それだけで、Yes って言うたんか……。",
+    "en": "You really said yes after only catching that..."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mika, tell me the truth. Am I in trouble?",
+    "ja": "ミカ、本当のことを教えて。僕、まずいことになってる？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん。まあまあ、やばい。",
+    "en": "Yeah. Pretty much."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、あした、オカダさんに、かけ直す？ そのとき、最初になんて言う？",
+    "en": "Will you call Mr. Okada back tomorrow? What will you say first?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"Can we talk?\"",
+    "ja": "ちょっと話せる？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ。みっつめのフレーズ。「ちょっと話せる？」。talk は、相手と、おしゃべりしたり、話し合ったりするとき。",
+    "en": "That's our third phrase: \"Can we talk?\" We use \"talk\" for chatting or discussing things with someone."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "We talked for an hour last night.",
+    "ja": "昨夜、僕たちは一時間話した。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「いちじかんも、しゃべった」。talk は、相手がいて、やりとりする感じ。",
+    "en": "You talked for an hour. \"Talk\" suggests an exchange with someone."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And for a topic, you can say, \"Can we talk about it?\"",
+    "ja": "話題をつけるなら、「そのこと、話せる？」と言える。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「そのこと、話せる？」。話題をつけるときは、talk about。ほな、みっつめも、練習しよか。みんなも、いっしょに。",
+    "en": "\"Can we talk about it?\" Use \"talk about\" to add the topic. Let's practice our third phrase together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can we talk?",
+    "ja": "ちょっと話せる？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can we talk?",
+    "ja": "ちょっと話せる？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここで、よっつ、まとめとこか。say は、言葉を口に出す。tell は、人に伝える。",
+    "en": "Let's review all four. \"Say\" is putting words into speech. \"Tell\" is giving someone information."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Speak is for languages. Talk is for conversations.",
+    "ja": "Speak は言語。Talk は会話。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そうそう。ほな、ミニクイズ。「うちは、英語を話せる」は？",
+    "en": "Right. A quick quiz: how do you say, \"I can speak English\"?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"I speak English.\" It's a language, so speak.",
+    "ja": "「I speak English.」言語だから speak だね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "正解。ほな、「ミカに伝えた」は？",
+    "en": "Correct. How about \"I told Mika\"?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"I told Mika.\" There's a person, so tell.",
+    "ja": "「I told Mika.」伝える相手がいるから tell。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ感じ。ほな、ここまでのフレーズ、ぜんぶ使って、ロールプレイいこか。",
+    "en": "Looking good. Let's use these phrases in a role-play."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うちがオカダさん役。英語で話すで。マークは、あしたの電話の練習ね。",
+    "en": "I'll play Mr. Okada and speak English. Mark, practice your call for tomorrow."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay. Ring, ring.",
+    "ja": "よし。リンリン。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Hello? This is Okada.",
+    "ja": "もしもし？ オカダです。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Hello, Mr. Okada. It's Mark, from the bar. Can we talk?",
+    "ja": "こんにちは、オカダさん。バーのマークです。ちょっと話せますか？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Oh, Mark! Yes, yes, thank you so much for yesterday! I'm so happy! See you on Friday!",
+    "ja": "ああ、マーク！ 昨日は本当にありがとう！ とてもうれしいよ！ 金曜日にね！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Wait, wait. Say it again, please.",
+    "ja": "待って、待って。もういちど言ってください。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Oh, sorry, sorry. I said, thank you. And see you on Friday.",
+    "ja": "ああ、ごめん。「ありがとう。それから金曜日にね」って言ったんだ。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Friday? What's on Friday? Please tell me what you said on the phone.",
+    "ja": "金曜日？ 金曜日に何があるんですか？ 電話で何て言ったか教えてください。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Ah, you didn't hear me? Okay, let me tell you. It's a party. A big party at your bar.",
+    "ja": "ああ、聞き取れなかった？ じゃあ説明するね。パーティーだよ。君のバーで、大きなパーティー。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "A party?!",
+    "ja": "パーティー？！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……いまの、うちが、てきとうに作っただけやで。",
+    "en": "...I just made that up, you know."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Oh, wait. My phone. A message from Mr. Okada.",
+    "ja": "あ、待って。スマホだ。オカダさんからメッセージ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま？ なんて書いてあるん？",
+    "en": "Really? What does it say?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "「さきほどは、ありがとう。らいしゅうの金曜、町内会の忘年会、よろしくお願いします。さんじゅうにんほど、おじゃまします。」",
+    "en": "\"Thanks for earlier. We're counting on you for the neighborhood year-end party next Friday. There'll be about thirty of us.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "...A party. Thirty people.",
+    "ja": "……パーティー。三十人。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "当たってもうたな。しかも、マークが「Yes, of course!」て言うたから、もう決まり。",
+    "en": "Turns out I was right. And you said \"Yes, of course,\" so it's already settled."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Thirty people. That's a lot of customers.",
+    "ja": "三十人。お客さんがいっぱいだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまにな。お店としては、ええ話やけど。",
+    "en": "True. It's good for business, though."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And a lot of ice.",
+    "ja": "氷も、たくさんいる。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そっちが、問題やな。",
+    "en": "That's the problem."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mika... can we talk? About the ice.",
+    "ja": "ミカ……ちょっと話せる？ 氷のことで。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええけど、まず、最後の復習から。",
+    "en": "Sure, but let's finish the review first."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to each situation and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひとつめ。早口で、聞き取れへん電話。「もういちど言ってください」って、お願いするには？",
+    "en": "First: someone is talking too fast on the phone. How do you ask them to say it again?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Say it again, please.",
+    "ja": "もういちど言ってください。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふたつめ。相手が何て言うたか、ぜんぜんわからへん。「彼が何て言ったか教えて」は？",
+    "en": "Second: you don't know what someone said. How do you ask, \"Tell me what he said\"?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tell me what he said.",
+    "ja": "彼が何て言ったか教えて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みっつめ。相手に「ちょっと話せる？」って、声をかけるには？",
+    "en": "Third: how do you ask someone if they have a moment to talk?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can we talk?",
+    "ja": "ちょっと話せる？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "よっしゃ。ほな、マーク。さんじゅうにんぶん、氷もグラスも、足りるん？",
+    "en": "Okay, Mark. Do we have enough ice and glasses for thirty people?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "No. Not even close.",
+    "ja": "ない。全然足りない。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、あした、仕入れ先にも、ちゃんと伝えとかなあかんな。",
+    "en": "Then you'd better let the supplier know tomorrow, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I'll tell them. Real people this time. Not the refrigerator.",
+    "ja": "伝えるよ。今度は本当の人に。冷蔵庫じゃなくて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "冷蔵庫には、「ごめん」って、言うだけでええんちゃう。say やから。",
+    "en": "For the refrigerator, just saying \"sorry\" should do. That's \"say.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Thank you, everyone. See you next time! ...And sorry, refrigerator.",
+    "ja": "みなさん、ありがとう。また次回！ ……それから、ごめんね、冷蔵庫。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまに言うんかい。……みんなも、「いいですか？」って聞かれたら、Yes は、中身を聞いてからな。ほな、またね。",
+    "en": "You actually said it! Everyone, when someone asks \"Is that okay?\", find out what they mean before saying yes. See you!"
+  }
+]
