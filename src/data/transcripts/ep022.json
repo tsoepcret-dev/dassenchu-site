@@ -1,0 +1,692 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ふう、グラス、全部拭き終わった。マーク、もう閉めてええ？",
+    "en": "Phew, I've finished wiping all the glasses. Mark, can we close up now?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Wait, wait, Mika. One more thing before we lock up.",
+    "ja": "待って、ミカ。店を閉める前に、もう1つ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "何？ そんなに急いで。",
+    "en": "What is it? What's the rush?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "So tomorrow morning the delivery guy's gonna show up around nine-thirty with thirteen boxes of limes and I'll be at the dentist so you gotta sign for 'em, the pen's in the drawer under the register, and keep the yellow copy of the invoice, not the white one, and tell him to put 'em in the back, not the front door, 'cause last time he blocked the whole entrance, remember that?",
+    "ja": "明日の朝9時半ごろ、配達の人がライムを13箱持って来るんだけど、僕は歯医者にいるから、受け取りにサインして。ペンはレジの下の引き出しにあるから、請求書の控えは黄色いほうを取っておいて。白じゃなくてね。それから、荷物は入口じゃなくて奥に置いてもらって。前回、入口を全部ふさいじゃったでしょ。覚えてる？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん、うん。…うん。",
+    "en": "Uh-huh, uh-huh... uh-huh."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Great! So you got it?",
+    "ja": "よし！ じゃあ、分かった？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "…ごめん。うなずいてただけ。聞き取れたの、「tomorrow」と「dentist」と「lime」だけ。",
+    "en": "...Sorry. I was just nodding. All I caught was \"tomorrow,\" \"dentist,\" and \"lime.\""
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What? You said \"uh-huh\" three times. Three!",
+    "ja": "え？「うん」って3回も言ったよね。3回も！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "数えんといて。そっちが、早口すぎるの。",
+    "en": "Don't count them. You're talking way too fast."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そういえば、歯医者…どこか悪いの？",
+    "en": "Come to think of it, the dentist... is something wrong?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Just a cleaning. Don't worry.",
+    "ja": "クリーニングだけ。心配しないで。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I thought you'd be fine, though. You lived in California!",
+    "ja": "でも、君なら大丈夫だと思ったんだ。カリフォルニアに住んでたでしょ！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "カリフォルニアの友だちは、そこまで早口じゃなかった。マークは、また別。",
+    "en": "My friends in California didn't talk that fast. You're a different story, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "That's just how we talk back home. If you talk slow at my family's dinner table, you don't get any food.",
+    "ja": "地元では、みんなこんなふうに話すんだ。うちの家族の食卓でゆっくり話してたら、食べ物がなくなるよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは、生き残れへんわ。",
+    "en": "I wouldn't survive that."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "So you can take the delivery tomorrow, right?",
+    "ja": "じゃあ、明日の荷物は受け取ってくれるんだよね？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "受け取るの、私でしょ？ 聞き取れてないのに「うん」は、危ない。",
+    "en": "I'm the one taking the delivery, right? Saying yes without understanding is risky."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Fair point.",
+    "ja": "それはそうだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "このまま「うん」を続けたら、明日の朝、ライムが山ほど届くかもしれへん。",
+    "en": "If I keep saying yes, a mountain of limes might arrive tomorrow morning."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mark!",
+    "ja": "マーク！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "And Mika!",
+    "ja": "そしてミカ！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "よし、もう1回、聞いてみよう。マーク、さっきの。",
+    "en": "Okay, let's try that again. Mark, about what you just said..."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Sorry?",
+    "ja": "え？ もう1回？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The delivery guy comes at nine-thirty with the limes and I'm at the dentist so you sign for 'em and put 'em in the back.",
+    "ja": "配達の人が9時半にライムを持って来て、僕は歯医者だから、君がサインして、荷物は奥に置いてね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "…さっきと同じ速さで言うたでしょ。",
+    "en": "...You said it just as fast again, didn't you?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Did I? Okay, okay. Slower.",
+    "ja": "そうだった？ 分かった。もっとゆっくりね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The delivery guy. Nine-thirty. Tomorrow. The boxes go in the back.",
+    "ja": "配達の人。9時半。明日。箱は奥へ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そう、それ。今の Sorry? は、聞き取れなかったときの、一番短い聞き返し。",
+    "en": "Yes, that's it. \"Sorry?\" is the shortest way to ask again when you didn't catch something."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "語尾をふわっと上げるのがコツ。下げると、ただのごめんなさいに聞こえる。",
+    "en": "The trick is to let your voice rise gently at the end. If it falls, it sounds like an apology."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Sorry.",
+    "ja": "ごめんなさい。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry for what? It sounds like an apology!",
+    "ja": "何を謝ってるの？ 謝罪に聞こえるよ！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほらね。だから、語尾は上げる。",
+    "en": "See? That's why your voice should rise at the end."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "It's short, it's easy, and you can use it with almost anybody.",
+    "ja": "短くて簡単。ほとんど誰にでも使えるよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんまは、聞き返すのって、ちょっと申し訳なくて。つい「うん」って言うてまう。",
+    "en": "Honestly, I feel a bit bad asking people to repeat themselves. I end up just saying yes."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Don't feel bad. In the U.S., people would much rather you ask again than guess wrong.",
+    "ja": "気にしなくていいよ。アメリカでも、間違って推測されるより、聞き返してもらうほうがずっといい。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "確かに。分かったふりのほうが、後で困る。",
+    "en": "True. Pretending to understand causes trouble later."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、練習しよか。みんなも、一緒に。",
+    "en": "Let's practice. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry?",
+    "ja": "え？ もう1回？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry?",
+    "ja": "え？ もう1回？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay, the rest of it. He brings thirteen boxes of limes.",
+    "ja": "じゃあ、続きね。ライムを13箱持って来るんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "30？ 今、30って聞こえた。ライムが？",
+    "en": "Thirty? I just heard thirty. Boxes of limes?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Thirteen. Thir-teen. Not thirty. Who needs thirty boxes of limes?",
+    "ja": "13。サー・ティーン。30じゃないよ。ライム30箱も誰が使うの？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "We'd have to open a lime bar.",
+    "ja": "ライム専門のバーを開かないとね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ライムだけのバーは、ちょっと…。",
+    "en": "A bar with nothing but limes? I'm not so sure..."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "13と、30。早口で言われたら、ほんまに分からへん。",
+    "en": "Thirteen and thirty. I really can't tell when you say them that fast."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "…ちょっと待って。その後も、なんか言うてたよね。",
+    "en": "...Wait a second. You said something after that, too, didn't you?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Oh yeah. The pen's in the drawer under the register, and keep the yellow copy of the invoice, not the white one, okay?",
+    "ja": "そうそう。ペンはレジの下の引き出しにある。請求書の控えは黄色を取っておいて。白じゃなくてね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークなら Sorry? でもええけど、お客さんや電話の相手には、もう少し丁寧に言いたい。",
+    "en": "\"Sorry?\" is fine with you, Mark, but I'd like to be a little more polite with customers or on the phone."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Could you say that again?",
+    "ja": "もう1回言ってもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sure. The pen is in the drawer under the register. Keep the yellow copy.",
+    "ja": "もちろん。ペンはレジの下の引き出し。控えは黄色を取っておいて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう。今の Could you say that again? は、「もう1回言ってもらえますか」。",
+    "en": "Thanks. \"Could you say that again?\" politely asks someone to repeat what they said."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "Sorry? より、少しだけ丁寧。お店でも、電話でも使える。",
+    "en": "It's a little more polite than \"Sorry?\" You can use it at work or on the phone."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And if you add \"a little slower, please,\" it's even better.",
+    "ja": "「もう少しゆっくりお願いします」を付けると、さらにいいね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Could you say that again, a little slower, please?",
+    "ja": "もう1回、少しゆっくり言ってもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Of course. The yellow copy. Not the white one. And if there's a problem, call the office, the number's on top, but don't call before nine, they never pick up.",
+    "ja": "もちろん。黄色い控え。白じゃないほう。問題があったら事務所に電話して。番号は上に書いてある。でも9時前は電話しないで。誰も出ないから。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ゆっくり言うてくれたの、最初の3秒だけ。",
+    "en": "You only spoke slowly for the first three seconds."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry. Old habit.",
+    "ja": "ごめん。いつもの癖だね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、練習しよか。みんなも、一緒に。",
+    "en": "Let's practice. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Could you say that again?",
+    "ja": "もう1回言ってもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Could you say that again?",
+    "ja": "もう1回言ってもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "One more thing. Whatever you do, don't let him put anything in the cooler.",
+    "ja": "もう1つ。何があっても、冷蔵庫には何も入れさせないで。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今回は、全部聞き取れた。聞き取れたけど…意味が分からへん。",
+    "en": "This time, I caught every word. I heard you, but... I don't understand what you mean."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "What do you mean?",
+    "ja": "どういう意味？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The cooler's been warm since Monday. It's basically a very expensive cabinet.",
+    "ja": "冷蔵庫、月曜からずっと冷えてないんだ。高い収納棚みたいなものだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "冷蔵庫が壊れてるなら、それを先に言って。",
+    "en": "If the fridge is broken, tell me that first."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I got excited about the limes and forgot.",
+    "ja": "ライムのことで舞い上がって、忘れてた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ライムのこと、考えすぎ。",
+    "en": "You're thinking about limes too much."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Limes are important. No limes, no drinks.",
+    "ja": "ライムは大事だよ。ライムがなければ、ドリンクも作れない。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "まあ、それは分かる。",
+    "en": "Well, I get that."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "今の What do you mean? は、聞こえたけど、意味や言いたいことが分からないとき。",
+    "en": "\"What do you mean?\" is for when you heard the words but don't understand the meaning or intention."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "Sorry? と Could you say that again? は「聞こえなかった」。What do you mean? は「聞こえたけど、どういうこと？」。",
+    "en": "\"Sorry?\" and \"Could you say that again?\" mean you didn't catch the words. \"What do you mean?\" means you heard them, but need to understand."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tone matters, though. Say it too hard and it sounds like you're mad.",
+    "ja": "でも、口調は大事。強く言いすぎると、怒っているように聞こえる。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "So you can soften it. \"Sorry, what do you mean?\"",
+    "ja": "だから、柔らかくするといい。「Sorry, what do you mean?」って。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "声は柔らかく。ちょっと首を傾げるくらいが、ちょうどいい。",
+    "en": "Keep your voice gentle, as if you're tilting your head a little in curiosity."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、練習しよか。みんなも、一緒に。",
+    "en": "Let's practice. Everyone, say it with us."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What do you mean?",
+    "ja": "どういう意味？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What do you mean?",
+    "ja": "どういう意味？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここまでの、3つ。明日の本番を想定して、使ってみよか。",
+    "en": "Let's use all three, as if it were the real delivery tomorrow."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークは配達の人。私は、受け取る人。",
+    "en": "Mark, you're the delivery person. I'm taking the delivery."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "オッケー。本気の早口でいくよ。",
+    "en": "Okay. I'll really talk fast this time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Morning! Thirteen boxes of limes, sign right here, I gotta run, I got six more stops, front door or back?",
+    "ja": "おはよう！ ライム13箱です。ここにサインを。急いでるんです。あと6件あるんで。入口と奥、どっち？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Sorry?",
+    "ja": "え？ もう1回？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Front door or back? I'm in a hurry!",
+    "ja": "入口、それとも奥？ 急いでるんです！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Could you say that again? A little slower, please.",
+    "ja": "もう1回言ってもらえますか？ 少しゆっくりお願いします。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sure. Do you want the boxes at the front door, or in the back?",
+    "ja": "もちろん。箱は入口に置きますか？ それとも奥？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "In the back, please. Thank you.",
+    "ja": "奥にお願いします。ありがとう。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "You got it. Oh, and one of the boxes had a little accident.",
+    "ja": "分かりました。あ、それから箱の1つで、ちょっとした事故がありまして。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "What do you mean?",
+    "ja": "どういう意味ですか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Somebody dropped it. The limes are fine. Just a little squished.",
+    "ja": "誰かが落としたんです。ライムは大丈夫。ちょっと潰れただけ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Okay. No problem. Thank you!",
+    "ja": "分かりました。大丈夫です。ありがとう！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Nice! That was perfect, Mika.",
+    "ja": "いいね！ 完璧だったよ、ミカ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "早口の相手にも、ちゃんと聞き返せた。",
+    "en": "I managed to ask again, even with someone talking fast."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And you didn't nod once.",
+    "ja": "1回もうなずかなかったね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うなずくのは、分かったときだけ。",
+    "en": "I'll only nod when I understand."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to each situation and try saying it in English. If you get stuck, repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "1つ目。友だちに、「え？」と、短く聞き返したいとき。",
+    "en": "First: you want a quick way to ask a friend to repeat something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry?",
+    "ja": "え？ もう1回？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "2つ目。お客さんに、「もう1回言ってもらえますか」と、丁寧にお願いしたいとき。",
+    "en": "Second: you want to politely ask a customer to say something again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Could you say that again?",
+    "ja": "もう1回言ってもらえますか？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "3つ目。聞こえたけど、意味が分からない。「どういう意味？」と聞きたいとき。",
+    "en": "Third: you heard the words, but don't understand. How do you ask what they mean?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What do you mean?",
+    "ja": "どういう意味？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Great job, everybody.",
+    "ja": "みんな、よくできたね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、明日の段取り、最後にまとめてみるね。",
+    "en": "Okay, let me go over tomorrow's arrangements one last time."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Tomorrow, nine-thirty. Thirteen boxes of limes, in the back. I keep the yellow copy, and nothing goes in the cooler. Right?",
+    "ja": "明日、9時半。ライム13箱を奥へ。黄色い控えを取っておいて、冷蔵庫には何も入れない。そうでしょ？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "One more check. How many boxes?",
+    "ja": "もう1つ確認。何箱だっけ？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Thirteen. Not thirty.",
+    "ja": "13。30じゃなくて。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Perfect. Not bad for someone who said \"uh-huh\" three times.",
+    "ja": "完璧。「うん」って3回言った人にしては、なかなかだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは、もう言わんといて。",
+    "en": "Please stop bringing that up."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay, great, and last thing, lock up when you leave, keys in the mailbox, I'm outta here, see you tomorrow, good night!",
+    "ja": "よし、最後に。帰るときは鍵を閉めて、鍵は郵便受けに。僕はもう行くね。また明日。おやすみ！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Sorry?",
+    "ja": "え？ もう1回？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Lock up. Keys in the mailbox. Good night.",
+    "ja": "戸締まり。鍵は郵便受け。おやすみ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Got it. Good night, Mark.",
+    "ja": "分かった。おやすみ、マーク。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "聞き返せば、ちゃんと伝わる。…早口には、まだ勝てへんけど。",
+    "en": "If I ask again, I can understand. ...Though I still can't keep up with the speed."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "みんなも、聞き返すのは失礼じゃないから、気軽に言うてみて。ほな、またね。",
+    "en": "It's not rude to ask again. So give it a try. See you!"
+  }
+]
