@@ -1,0 +1,680 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "この番組の台本は、公式ホームページで公開してる。リンクは概要欄にあるから、聞いた後の復習に使ってな。",
+    "en": "The script for this show is on our official website. The link is in the description, so use it to review after listening."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Listen first. Read later. And say it out loud!",
+    "ja": "まず聞いて、あとで読んで。そして声に出してみよう！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お疲れ、マーク。ほな、片付けて帰ろか。",
+    "en": "Nice work, Mark. Let's clean up and head home."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "It was a quiet night in Osaka. The bar was closed. And a case was waiting.",
+    "ja": "大阪の静かな夜だった。バーは閉店していた。そして、事件が待っていた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "また、なんか始まった。",
+    "en": "Here he goes again."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Tonight, I'm not a bartender. I'm a detective.",
+    "ja": "今夜の僕はバーテンダーじゃない。探偵だ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、私は？",
+    "en": "Then what am I?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "You're my assistant.",
+    "ja": "君は僕の助手だ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "勝手に決めんといて。……ほんで、探偵さんは、何を調べるん？",
+    "en": "Don't just decide that for me. ...So, detective, what are you investigating?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I don't know yet. I only have a guess.",
+    "ja": "まだ分からない。あるのは予想だけさ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "guess……「当ててみて」とか、「たぶんね」とか。はっきりした証拠はないけど、「こうかな」って言うときの言葉やね。",
+    "en": "“Guess”... like “take a guess” or “probably.” You don't have clear evidence, but you say what you think might be true."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Exactly. You're not sure, but you say it anyway. Like a detective.",
+    "ja": "そのとおり。確信はないけど、言ってみる。探偵みたいにね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "探偵にはぴったりやな。ほな、事件を聞かせてもらおか。",
+    "en": "Perfect for a detective. All right, tell me about the case."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay. The case begins... now.",
+    "ja": "よし。事件は…今、始まる。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mark!",
+    "ja": "マーク！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "And Mika!",
+    "ja": "そしてミカ！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Eleven forty-seven p.m. The refrigerator light was cold. Like my heart.",
+    "ja": "午後11時47分。冷蔵庫の明かりは冷たかった。僕の心のように。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ただの電球やん。",
+    "en": "It's just a light bulb."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Shh. Mood, Mika. Mood.",
+    "ja": "シーッ。雰囲気だよ、ミカ。雰囲気。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mika. Guess what?",
+    "ja": "ミカ。ねえ、聞いて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "何？",
+    "en": "What?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The last piece of cheesecake... is gone.",
+    "ja": "最後のチーズケーキが…消えた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "えっ、明日のお客さんに出す分の？",
+    "en": "What? The piece we were saving for tomorrow's customer?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. The one for tomorrow.",
+    "ja": "そう。明日の分だ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "大事件やん。ところで、今の「Guess what?」は、ほんまに「当ててみて」ってこと？",
+    "en": "That's a major case. By the way, does “Guess what?” really mean “try to guess”?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "No. It means, \"Listen, I have news.\" You don't have to guess.",
+    "ja": "違うよ。「聞いて、知らせがあるんだ」という意味。当てなくていいんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ねえ、聞いて」「あのね」。ええ話でも、悪い話でも使えるな。",
+    "en": "Like “Hey, listen” or “You know what?” It works for good news and bad news."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And the other person says, \"What?\"",
+    "ja": "相手は「What?」と答えるんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Guess what? I found a café that's open until midnight.",
+    "ja": "ねえ、聞いて。深夜まで開いているカフェを見つけたの。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What? Where?",
+    "ja": "えっ？どこ？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ね、こんな感じ。「Guess what?」「What?」のセットで、話が始まる。",
+    "en": "See? Like that. “Guess what?” and “What?” get the conversation started."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みんなも、一緒に。",
+    "en": "All right, everyone, let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Guess what?",
+    "ja": "ねえ、聞いて。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Guess what?",
+    "ja": "ねえ、聞いて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "What?",
+    "ja": "何？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "The cake is still gone.",
+    "ja": "ケーキはまだ消えたままだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "知ってる。ほな、次。",
+    "en": "I know. Next, please."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Now, the investigation. Where were you at nine, Mika?",
+    "ja": "さて、捜査だ。9時にはどこにいた、ミカ？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここで、レモン切ってた。ずっと。",
+    "en": "Right here, slicing lemons. The whole time."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can anyone prove it?",
+    "ja": "誰か証明できる？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "マークが、横におったやん。",
+    "en": "You were right next to me, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Hmm. Good point. But there's one more suspect.",
+    "ja": "うーん。確かに。でも、もう1人容疑者がいる。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "えっ、ほかにもおるん？",
+    "en": "What? There's someone else?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Erika. She was here at five. And she loves cheesecake.",
+    "ja": "エリカだ。5時にここにいた。そしてチーズケーキが大好きだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "確かに、エリカ、チーズケーキ好きやけど。証拠は？",
+    "en": "True, Erika loves cheesecake. But where's the evidence?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "No proof. It's just a guess.",
+    "ja": "証拠はない。ただの予想だ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ただの予想」。guess は、名詞でも使えるんやね。",
+    "en": "“Just a guess.” So “guess” can be a noun, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Right. But a detective can't forget any suspect. Mika, you're my assistant tonight. Right?",
+    "ja": "そう。でも探偵は、どんな容疑者も忘れちゃいけない。ミカ、今夜は僕の助手だよね？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "まあ、そうかな。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "That sounded unsure.",
+    "ja": "自信がなさそうだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちょっとだけな。この「I guess so」が、今日の2つ目。",
+    "en": "Just a little. “I guess so” is our second phrase today."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"I guess so\" means \"probably yes,\" or \"yes, kind of.\"",
+    "ja": "「I guess so」は「たぶんそう」や「まあ、そうかな」という意味だよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「まあ、そうかな」。Yes ほど、はっきりしてない言い方やね。",
+    "en": "“Yeah, I suppose so.” It's less definite than “Yes.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"Yes\" is strong. \"I guess so\" is soft.",
+    "ja": "「Yes」ははっきりした返事。「I guess so」は柔らかい返事だね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "例えば、こんな感じ。",
+    "en": "For example, like this."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Do you want another drink?",
+    "ja": "もう1杯飲む？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "まあ、そうかな。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Is Erika coming tomorrow?",
+    "ja": "エリカは明日来るの？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "たぶんね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「たぶんね」くらいの温度やな。",
+    "en": "It has a “probably” kind of feel."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And if you think \"probably not,\" say \"I guess not.\" Is the cheesecake still in the fridge?",
+    "ja": "「たぶん違う」と思うなら「I guess not」。チーズケーキはまだ冷蔵庫にある？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "I guess not.",
+    "ja": "たぶんないね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Very funny.",
+    "ja": "面白いね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「I guess so」の反対は、「I guess not」。セットで覚えられるな。",
+    "en": "“I guess not” is the opposite of “I guess so.” You can learn them as a pair."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みんなも、一緒に。",
+    "en": "All right, everyone, let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "まあ、そうかな。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "まあ、そうかな。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Next. Mika, take a guess. How many customers came today?",
+    "ja": "次だ。ミカ、予想してみて。今日は何人お客さんが来た？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "当てるん？　えーと……。",
+    "en": "You want me to guess? Let's see..."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Say, \"My guess is,\" and then your answer.",
+    "ja": "「My guess is」と言って、そのあとに答えを続けて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "My guess is thirty.",
+    "ja": "私の予想は30人。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Close! Thirty-four.",
+    "ja": "惜しい！34人。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "惜しい。「My guess is ～」で、「私の予想は～」やね。",
+    "en": "So close. “My guess is...” means “Here's what I think the answer is.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. You don't know for sure, but you have a clue.",
+    "ja": "そう。確実には分からないけど、手がかりはあるんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "探偵が犯人を言うときも、これやな。",
+    "en": "A detective can use it when naming the culprit, too."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Of course. \"My guess is the butler did it.\"",
+    "ja": "もちろん。「私の推理では、執事の仕業だ」ってね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ミステリーの定番やね。「執事が犯人」。",
+    "en": "A mystery classic. “The butler did it.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And \"Take a guess\" means \"Try to answer.\"",
+    "ja": "それから「Take a guess」は「答えを予想してみて」という意味。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「当ててみて」やね。さっき、マークが言うたやつ。",
+    "en": "“Have a guess.” That's what you said earlier, Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みんなも、一緒に。",
+    "en": "All right, everyone, let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "My guess is thirty.",
+    "ja": "私の予想は30人。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "My guess is thirty.",
+    "ja": "私の予想は30人。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、今までの3つ、事件の解決編で使ってみよか。",
+    "en": "Let's use all three phrases to solve the case."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay. You're the detective. I'm the suspect.",
+    "ja": "よし。君が探偵、僕が容疑者ね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Mr. Mark. Guess what? I solved the case.",
+    "ja": "マークさん。ねえ、聞いて。事件を解決したわ。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Really? Who ate the cheesecake?",
+    "ja": "本当？誰がチーズケーキを食べたの？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "My guess is... you.",
+    "ja": "私の推理では…あなた。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Me? Why me?",
+    "ja": "僕？なぜ僕なの？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "There's cream on your sleeve.",
+    "ja": "袖にクリームが付いているわ。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "...Oh. Did I eat it?",
+    "ja": "…ああ。僕が食べたのかな？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Did you?",
+    "ja": "食べたの？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "まあ、そうかな。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "犯人、マークやん。3つとも、きれいに入ったな。",
+    "en": "You're the culprit, Mark! All three phrases fit in nicely."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I ate it at ten. While you were taking out the trash. And I forgot.",
+    "ja": "10時に食べたんだ。君がゴミを出している間に。それを忘れていた。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "忘れてたんかい。",
+    "en": "You forgot?!"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、エリカは、なんも関係なかったんやな。",
+    "en": "So Erika had nothing to do with it after all."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry, Erika. Wherever you are.",
+    "ja": "ごめんね、エリカ。どこにいるか分からないけど。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to the situation in Japanese and try saying it in English. If you can't think of it, just repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "1つ目。友達に、「ねえ、聞いて」と話を切り出したい。",
+    "en": "First: you want to get a friend's attention and say, “Hey, listen.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Guess what?",
+    "ja": "ねえ、聞いて。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "2つ目。「まあ、そうかな」と、やんわり同意したい。",
+    "en": "Second: you want to agree gently, like “Yeah, I suppose so.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I guess so.",
+    "ja": "まあ、そうかな。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "3つ目。お客さんの人数を、30だと予想する。",
+    "en": "Third: you guess that there were thirty customers."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "My guess is thirty.",
+    "ja": "私の予想は30人。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Case closed.",
+    "ja": "事件解決。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "犯人は、シャツにクリームをつけたマーク。",
+    "en": "The culprit was Mark, with cream on his shirt."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I'll make a new cheesecake tomorrow.",
+    "ja": "明日、新しいチーズケーキを作るよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんま？　ええの？",
+    "en": "Really? Are you sure?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Of course. And my guess is... you'll eat half.",
+    "ja": "もちろん。そして僕の予想では…君が半分食べる。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "……ばれてる。",
+    "en": "...You caught me."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "See you next time, everyone!",
+    "ja": "みんな、また次回！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you!"
+  }
+]
