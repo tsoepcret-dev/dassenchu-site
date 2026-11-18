@@ -1,0 +1,632 @@
+[
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "お疲れ、マーク。今日も、最後までにぎやかやったね。",
+    "en": "Nice work, Mark. It was lively right up to closing tonight."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yeah... I'm so tired. Today, I got a gift, I got a cold, and I got lost.",
+    "ja": "ああ…もうへとへと。今日はプレゼントをもらって、風邪をひいて、道に迷ったんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "3つとも got なん？　全然意味ちゃうやん。",
+    "en": "You used “got” for all three? They mean completely different things."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "That's the power of \"get.\" One small word, many meanings.",
+    "ja": "それが「get」のすごいところ。短い単語なのに、意味がたくさんあるんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "知ってる。日本語の「ゲット」は、ほとんど「手に入れる」の意味でしか使わんけどな。",
+    "en": "I know. In Japanese, “getto” mostly just means getting your hands on something."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Right. But in English, \"get\" can also mean \"become.\" Or even \"understand.\"",
+    "ja": "そう。でも英語では「なる」という意味にもなる。「理解する」という意味にもね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "そうやね。1つの単語で、意味がどんどん変わっていくもんな。",
+    "en": "Right. The same word changes meaning depending on how you use it."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. Let me tell you about my terrible day.",
+    "ja": "そう。僕の散々な1日の話を聞いてよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "自分で、terrible って言うんや。3つのうち、一番ひどいのはどれ？",
+    "en": "You're calling it terrible yourself? Which of the three was the worst?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Getting lost. Definitely getting lost.",
+    "ja": "道に迷ったこと。間違いなく、それだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、順番に聞かせてもらおか。",
+    "en": "All right, tell me what happened, in order."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay. Let's go!",
+    "ja": "よし、始めよう！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Mark!",
+    "ja": "マーク！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "And Mika!",
+    "ja": "そしてミカ！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "ja",
+    "ja": "英会話、脱線中。",
+    "en": "English Conversation, Off Track."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "First, the gift. Before we opened today, Erika came to the bar.",
+    "ja": "まずはプレゼント。今日、開店前にエリカが来たんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "エリカ？　ハロウィンのお礼かな。",
+    "en": "Erika? Was it a thank-you for Halloween?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes! She brought a box of cookies. I got cookies.",
+    "ja": "そう！クッキーを1箱持ってきてくれた。クッキーをもらったんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "その get は「もらう」やね。",
+    "en": "That “get” means “receive,” right?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Exactly. \"Get\" means something comes to you. Cookies came to me.",
+    "ja": "そのとおり。「get」は何かが自分のところに来ること。クッキーが僕のところに来た。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「なにかが、自分のところに来る」。それが get の基本のイメージなんや。",
+    "en": "“Something comes to you.” That's the basic idea of “get.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Right. And the same image helps with ordering, too. Mika, do you want some coffee?",
+    "ja": "そう。注文するときも、そのイメージが役立つよ。ミカ、コーヒー飲む？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "うん、ほしい。あっ、これ、英語で言うたほうがええやつやね。",
+    "en": "Yes, please. Oh, this is where I should say it in English, isn't it?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "You can say \"I want coffee,\" but it sounds a little direct.",
+    "ja": "「I want coffee」と言ってもいいけど、少し直接的に聞こえるね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "分かる。カリフォルニアにおったとき、最初は I want a latte って言うてもうて。",
+    "en": "I know. When I was in California, I started out saying, “I want a latte.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "And what did the barista do?",
+    "ja": "それで、店員さんはどうしたの？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ちょっと間があいてん。ほんで、周りを見たら、みんな「Can I get a latte?」やった。",
+    "en": "There was a little pause. Then I noticed everyone else was saying, “Can I get a latte?”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes! \"Can I get a coffee?\" It's polite, and very natural.",
+    "ja": "そう！「Can I get a coffee?」なら丁寧で、とても自然だよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「ください」を、柔らかく言いたいとき。バーでも、カフェでも使えるね。",
+    "en": "It's a softer way to ask for something. You can use it at bars and cafés."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みんなも、一緒に。",
+    "en": "All right, everyone, let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can I get a coffee?",
+    "ja": "コーヒーをもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can I get a coffee?",
+    "ja": "コーヒーをもらえますか？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Can I get a coffee?",
+    "ja": "コーヒーをもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sure. Here you go.",
+    "ja": "もちろん。はい、どうぞ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう。ええ香り。ほな、次の話、聞かせて。",
+    "en": "Thanks. That smells lovely. All right, tell me the next part."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Next. After Erika left, I went to Umeda to buy lemons for the bar.",
+    "ja": "次の話ね。エリカが帰ったあと、店で使うレモンを買いに梅田に行ったんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "1人で？　梅田の地下街に？",
+    "en": "By yourself? Into Umeda's underground shopping area?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. And I got lost.",
+    "ja": "そう。それで道に迷った。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "やっぱり。あそこ、地元の人でも迷うもん。",
+    "en": "Of course you did. Even locals get lost there."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Every exit looked the same! I walked for thirty minutes.",
+    "ja": "出口が全部同じに見えたんだ！30分も歩いたよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "30分も？",
+    "en": "For thirty whole minutes?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Then I finally went outside, and it was raining. I got wet.",
+    "ja": "やっと外に出たら、雨が降っていた。それで濡れちゃった。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "迷って、濡れて……。ほんで、風邪？",
+    "en": "You got lost, got wet... and then caught a cold?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. I got a cold.",
+    "ja": "そう。風邪をひいたんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "大丈夫？　そんなときは、こう言うねん。",
+    "en": "Are you okay? Here's what you say at a time like this."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Get well soon, Mark.",
+    "ja": "早くよくなってね、マーク。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Thank you. Everyone, this is the phrase. \"Get well soon.\"",
+    "ja": "ありがとう。みんな、これが今回のフレーズ。「Get well soon.」"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「早くよくなってね」。この get は「なる」の意味やね。",
+    "en": "It means “I hope you feel better soon.” This “get” means “become.”"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Right. \"Get well.\" \"Get better.\" The condition comes to you.",
+    "ja": "そう。「元気になる」「よくなる」。その状態が自分のところに来るイメージだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "さっきの「ぬれた」も、同じ仲間なんや。",
+    "en": "So “got wet” from earlier belongs to the same group."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. And \"I got lost\" is the same. But be careful. \"Get lost!\" is not nice.",
+    "ja": "そう。「I got lost」も同じ。でも気をつけて。「Get lost!」はきつい言い方なんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それは「あっちいけ」くらい、キツい言い方やね。",
+    "en": "That means something like “Go away.” It's pretty harsh."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Please don't say it to a customer.",
+    "ja": "お客さんには言わないでね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "言わんでしょ、お客さんには。",
+    "en": "I wouldn't say that to a customer."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みんなも、一緒に。",
+    "en": "All right, everyone, let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Get well soon.",
+    "ja": "早くよくなってね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Get well soon.",
+    "ja": "早くよくなってね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほんなら、私の話もしてええ？　今日、近所のおっちゃんにダジャレ言われてん。",
+    "en": "Can I tell you something, then? A guy in my neighborhood told me a pun today."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "A joke? Tell me!",
+    "ja": "ジョーク？聞かせて！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "おっちゃん、昨日会社に電話かけたら、何遍かけても、誰も出えへんかってんて。ほんで、こう言うてん。「電話に、誰も、出んわ。」……そのあと、1人で、3回笑うてたわ。",
+    "en": "He called his office yesterday, but nobody answered, no matter how many times he tried. Then he said, “Denwa ni, daremo, den-wa.” After that, he laughed at his own joke three times."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "...Huh? I don't get it.",
+    "ja": "…え？意味が分からない。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "それ、その言葉。「分からん」って言いたいときのやつ。",
+    "en": "That's it! That's the phrase you use when you don't understand."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "\"I don't get it.\" It means \"I don't understand.\" It's casual, so you can use it with friends.",
+    "ja": "「I don't get it」は「理解できない」という意味。カジュアルだから、友達同士で使えるよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ダジャレの説明って、むなしいな。「でんわ」は、電話のことやろ。ほんで、もう1つの「でんわ」は、「出ない」って意味の「出んわ」。同じ音。",
+    "en": "Explaining a pun feels so pointless. “Denwa” means telephone, right? And the other “den-wa” means “won't answer.” They sound the same."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Oh! \"Denwa\" is telephone... and \"den-wa\" means \"won't answer.\" Nobody answers the telephone. Now I get it.",
+    "ja": "ああ！「でんわ」は電話で、「出んわ」は出ないってことか。誰も電話に出ない。やっと分かったよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ここ、笑うとこ。",
+    "en": "This is where you're supposed to laugh."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Ha. Ha. Ha.",
+    "ja": "ハッ。ハッ。ハッ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ひどいな。説明したら、おもんなくなるな、ダジャレって。",
+    "en": "That's terrible. Puns really stop being funny once you explain them."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sorry. I get it now. I just don't think it's funny.",
+    "ja": "ごめん。意味は分かったよ。ただ、面白いとは思わないんだ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "「I don't get it」と「I get it」。「分からん」と「わかった」は、セットで覚えられるな。",
+    "en": "“I don't get it” and “I get it.” You can learn “I don't understand” and “I understand” as a pair."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes. \"Get\" becomes \"understand.\" The meaning comes to your head.",
+    "ja": "そう。「get」が「理解する」になる。意味が頭に入ってくるんだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、みんなも、一緒に。",
+    "en": "All right, everyone, let's say it together."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I don't get it.",
+    "ja": "意味が分からない。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I don't get it.",
+    "ja": "意味が分からない。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、今までの3つ、バーの場面でいっぺんに使ってみよか。",
+    "en": "Let's try using all three phrases in a scene at the bar."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sure. I'm the bartender. You're the customer.",
+    "ja": "いいよ。僕がバーテンダーで、君がお客さんね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Welcome. Please, sit anywhere.",
+    "ja": "いらっしゃいませ。お好きな席へどうぞ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Hi. Can I get a highball, please?",
+    "ja": "こんにちは。ハイボールをもらえますか？"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Sure. You look tired.",
+    "ja": "もちろん。疲れているみたいだね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Yeah. My neighbor told me a joke today, and I don't get it.",
+    "ja": "うん。今日、近所の人がジョークを言ったんだけど、意味が分からなくて。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What was the joke?",
+    "ja": "どんなジョークだったの？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "電話に、誰も、出んわ。",
+    "en": "“Denwa ni, daremo, den-wa.” Nobody answers the telephone."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Hmm. I don't get it either.",
+    "ja": "うーん。僕にも分からないな。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Oh, you sound sick. Get well soon.",
+    "ja": "あら、具合が悪そうね。早くよくなってね。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Thank you. Here's your highball.",
+    "ja": "ありがとう。はい、ハイボールです。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "en",
+    "en": "Thanks!",
+    "ja": "ありがとう！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ええ感じやったね。3つとも、ちゃんと自然に入った。",
+    "en": "That went well. All three phrases fit in naturally."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "最後は、みんなの番。日本語の場面を聞いて、英語で言うてみて。出てこんかったら、マークの後に続けたらええで。",
+    "en": "Now it's your turn. Listen to the situation in Japanese and try saying it in English. If you can't think of it, just repeat after Mark."
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "1つ目。カフェで、コーヒーを丁寧に頼みたい。",
+    "en": "First: you're at a café and want to order a coffee politely."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Can I get a coffee?",
+    "ja": "コーヒーをもらえますか？"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "2つ目。風邪をひいた友達に、早くよくなってね、と言いたい。",
+    "en": "Second: your friend has a cold, and you want to wish them a speedy recovery."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Get well soon.",
+    "ja": "早くよくなってね。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "3つ目。友達のダジャレの意味が、分からない。",
+    "en": "Third: you don't understand your friend's pun."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "I don't get it.",
+    "ja": "意味が分からない。"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay. Mika, one more thing. This is for you.",
+    "ja": "さて、ミカ。もう1つ。これ、君に。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "えっ、エリカのクッキー？　ええの？",
+    "en": "Oh, Erika's cookies? Are you sure?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Of course. Erika gave them to me, so I'll share them with you.",
+    "ja": "もちろん。エリカがくれたから、君にも分けるよ。"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう。……あっ、マーク。そのクッキー、さっき咳した手で触ってへん？",
+    "en": "Thanks. ...Wait, Mark. Didn't you just cough into the hand you touched those cookies with?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "What? Oh... sorry!",
+    "ja": "え？ああ…ごめん！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "手、洗ってきてくれる？",
+    "en": "Could you go and wash your hands?"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Yes, yes. Sorry!",
+    "ja": "はいはい。ごめんね！"
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Okay! Clean hands. Now you can eat!",
+    "ja": "よし！手はきれいになった。これで食べられるよ！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ありがとう。ほな、お大事に。Get well soon、マーク。",
+    "en": "Thanks. Take care, then. Get well soon, Mark."
+  },
+  {
+    "speaker": "MARK",
+    "spoken": "en",
+    "en": "Thank you. See you next time, everyone!",
+    "ja": "ありがとう。みんな、また次回！"
+  },
+  {
+    "speaker": "MIKA",
+    "spoken": "ja",
+    "ja": "ほな、またね。",
+    "en": "See you!"
+  }
+]
